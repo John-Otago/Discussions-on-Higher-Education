@@ -371,17 +371,23 @@ JUNE 28, 2004
 https://www.chronicle.com/article/is-graduate-school-a-cult/  
   
 ## 05 International Students & International Education  
-**Covid-19 will not dent Chinese demand for international education**  
-Coronavirus will not stop China’s growing and ambitious middle class from seeking a Western university education for their children, says Sabrina Wang  
-October 31, 2020  
-Sabrina Wang  
-https://www.timeshighereducation.com/blog/covid-19-will-not-dent-chinese-demand-international-education  
+**Lost ground on international recruitment ‘may never be made up’**  
+Covid is compounding other major shifts in international flows to leave a permanent realignment, experts suggest  
+May 13, 2021  
+Simon Baker  
+https://www.timeshighereducation.com/news/lost-ground-international-recruitment-may-never-be-made  
   
 **How high can China fly?**  
 The country’s universities have shot up global rankings on the back of huge investment and a ruthless focus on publication. But as the country gears up for its next five-year plan, Joyce Lau asks whether stratospheric ambitions for a ‘Chinese Harvard’ can be met  
 January 7, 2021  
 Joyce Lau  
 https://www.timeshighereducation.com/features/how-high-can-china-fly  
+  
+**Covid-19 will not dent Chinese demand for international education**  
+Coronavirus will not stop China’s growing and ambitious middle class from seeking a Western university education for their children, says Sabrina Wang  
+October 31, 2020  
+Sabrina Wang  
+https://www.timeshighereducation.com/blog/covid-19-will-not-dent-chinese-demand-international-education  
   
 **Coping with the rational chaos of Chinese higher education**  
 Chinese universities now operate on a confusing ‘mixture of Chinese and Western institutional logics’. An anonymous scholar describes the practical and emotional challenges of dealing with constant uncertainty  
@@ -403,5 +409,4 @@ https://www.timeshighereducation.com/news/which-nations-will-weather-storm-inter
 by Joyce Lau  
 June 3, 2020  
 https://www.timeshighereducation.com/world-university-rankings/asian-higher-education-atthe-demographic-cliff-edge    
-
 
