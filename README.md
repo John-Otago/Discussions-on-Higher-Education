@@ -18,8 +18,11 @@ The collection was first released in June 2021, although I have been reading and
 Putting together this collection with regular updates is time-consuming and can be physically and emotionally exhausting. I do not necessarily agree with everything collected here (some of them actually contradict each other), and many issues facing us are highly complicated if not politically sensitive. I don't like polarisation and hope we can find a way to talk to each other for better social cohesion to address the common challenges facing us—that's the purpose of this collection for informed discussion.
 
 ## Table of Contents
-to be completed
-  
+[01 The Role of Tertiary Education](https://github.com/John-Otago/Discussions-on-Higher-Ed#01-the-role-of-tertiary-education)  
+[02 The Model of Tertiary Education: Students, Academics, and Administrators](https://github.com/John-Otago/Discussions-on-Higher-Ed#02-the-model-of-tertiary-education-students-academics-and-administrators)  
+[03 Transforming Education: Teaching & Teaching Innovation](https://github.com/John-Otago/Discussions-on-Higher-Ed#03-transforming-education-teaching--teaching-innovation)  
+[04 The Academic Market](https://github.com/John-Otago/Discussions-on-Higher-Ed#04-the-academic-market)  
+[05 International Students & International Education](https://github.com/John-Otago/Discussions-on-Higher-Ed#05-international-students--international-education)  
   
 ## 01 The Role of Tertiary Education
 **Morton Schapiro: campuses must address their own fundamentalism**  
