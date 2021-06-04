@@ -89,6 +89,9 @@ OCTOBER 17, 2016
 https://www.chronicle.com/article/8-questions-about-free-community-college/
   
   
+### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
+  
+  
   
 ## 02 The Model of Tertiary Education: Students, Academics, and Administrators  
 **Limited relief for universities in New Zealand budget**  
@@ -142,7 +145,12 @@ The Covid-19 pandemic offers universities a once-in-a-generation opportunity to 
 May 14, 2020  
 Timothy Devinney & Grahame Dowling  
 https://www.timeshighereducation.com/features/crisis-higher-education-needs-have
-
+  
+  
+### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
+  
+  
+  
 ## 03 Transforming Education: Teaching & Teaching Innovation  
 **Innovative learning environments are key to unlocking Africa’s potential**  
 Collaborative, technically enhanced experiential learning will prepare the continent’s vast young population for the digital future, says Laura Kakon  
@@ -193,6 +201,9 @@ https://www.timeshighereducation.com/news/lectures-way-out-australia-and-new-zea
 January 7, 2021  
 John Ross & Anna McKie  
 https://www.timeshighereducation.com/news/more-universities-planning-drop-lectures-after-pandemic
+  
+  
+### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
   
   
   
@@ -377,6 +388,9 @@ JUNE 28, 2004
 https://www.chronicle.com/article/is-graduate-school-a-cult/  
   
   
+### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
+  
+  
   
 ## 05 Research and Publication
 **‘Trailblazing’ research agendas linked to academic mobility**  
@@ -408,8 +422,11 @@ By Nell Gluckman
 APRIL 13, 2021  
 https://www.chronicle.com/article/why-disability-studies-scholars-are-protesting-a-prominent-textbook
   
-    
-    
+  
+### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
+  
+  
+   
 ## 06 International Students & International Education  
 **Rigid system pushes Chinese students to unscrupulous agents**  
 Thousands of families are on a ‘high risk’ path to overseas education  
@@ -461,4 +478,9 @@ https://www.timeshighereducation.com/news/which-nations-will-weather-storm-inter
 by Joyce Lau  
 June 3, 2020  
 https://www.timeshighereducation.com/world-university-rankings/asian-higher-education-atthe-demographic-cliff-edge    
-
+  
+  
+### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
+  
+  
+  
