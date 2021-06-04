@@ -405,17 +405,23 @@ May 21, 2021
 Jaksa Cvitanic  
 https://www.timeshighereducation.com/blog/reliance-journal-rankings-undermining-academic-integrity
 
+**Studies that fail to replicate ‘get more citations’**  
+Articles in leading journals that can be reproduced gain 16 fewer citations a year on average, say Californian economists  
+May 21, 2021  
+Jack Grove  
+https://www.timeshighereducation.com/science/studies-fail-replicate-get-more-citations
+
 **Research grant veto powers need guidance, Australian scholars say**  
 Researchers press for ministerial code of conduct amid fears that latest political intervention may never be resolved  
 May 20, 2021  
 John Ross  
 https://www.timeshighereducation.com/news/research-grant-veto-powers-need-guidance-australian-scholars-say
 
-**Studies that fail to replicate ‘get more citations’**  
-Articles in leading journals that can be reproduced gain 16 fewer citations a year on average, say Californian economists  
-May 21, 2021  
-Jack Grove  
-https://www.timeshighereducation.com/science/studies-fail-replicate-get-more-citations
+**What Ph.D.s Can Learn About Talking With Reporters**
+A survey of academics shows they are wary of dealing with the news media but see it as a way to advance professionally.
+By Rick Weiss
+May 19, 2021
+https://www.chronicle.com/article/what-ph-d-s-can-learn-about-talking-with-reporters
 
 **Why Disability Studies Scholars Are Protesting a Prominent Textbook**  
 By Nell Gluckman  
