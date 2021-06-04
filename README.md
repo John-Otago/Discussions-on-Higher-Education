@@ -3,7 +3,7 @@
 Version: 0.0.2  
 Last update: 5 June 2021
 
-Compiled by JW
+Compiled by J.W.
 
 This is a collection of relevant discussions on tertiary education, mostly from the two publications I read regularly: *Times Higher Education* (UK-based with global coverage) and *The Chronicle of Higher Education* (US-based with mainly local coverage). There are a few other sources, too.
 
