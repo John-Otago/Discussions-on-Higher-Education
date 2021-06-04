@@ -1,7 +1,7 @@
 # Discussions and Debates on Higher Education
 
-Version: 0.1.1  
-Last update: 2 June 2021
+Version: 0.0.2  
+Last update: 5 June 2021
 
 This is a collection of relevant discussions on tertiary education, mostly from the two publications I read regularly: *Times Higher Education* (UK-based with global coverage) and *The Chronicle of Higher Education* (US-based with mainly local coverage). There are a few other sources, too.
 
@@ -22,7 +22,8 @@ Putting together this collection with regular updates is time-consuming and can 
 [02 The Model of Tertiary Education: Students, Academics, and Administrators](https://github.com/John-Otago/Discussions-on-Higher-Ed#02-the-model-of-tertiary-education-students-academics-and-administrators)  
 [03 Transforming Education: Teaching & Teaching Innovation](https://github.com/John-Otago/Discussions-on-Higher-Ed#03-transforming-education-teaching--teaching-innovation)  
 [04 The Academic Market](https://github.com/John-Otago/Discussions-on-Higher-Ed#04-the-academic-market)  
-[05 International Students & International Education](https://github.com/John-Otago/Discussions-on-Higher-Ed#05-international-students--international-education)  
+05 Research and Publication  
+[06 International Students & International Education](https://github.com/John-Otago/Discussions-on-Higher-Ed#05-international-students--international-education)  
   
 ## 01 The Role of Tertiary Education
 **Morton Schapiro: campuses must address their own fundamentalism**  
@@ -86,8 +87,16 @@ Is it just a gimmick? And if so, what is the goal?
 By Rob Jenkins  
 OCTOBER 17, 2016  
 https://www.chronicle.com/article/8-questions-about-free-community-college/
-
+  
+  
+  
 ## 02 The Model of Tertiary Education: Students, Academics, and Administrators  
+**Limited relief for universities in New Zealand budget**  
+Underwhelming increases in teaching subsidies and student benefits, while research misses out  
+May 20, 2021  
+John Ross  
+https://www.timeshighereducation.com/news/limited-relief-universities-newzealand-budget
+
 **Arizona State’s Success Story: Model or Mirage?**  
 Michael Crow champions his campus as a new ideal. But does much of it simply boil down to cost control?  
 By Steven Brint  
@@ -184,7 +193,9 @@ https://www.timeshighereducation.com/news/lectures-way-out-australia-and-new-zea
 January 7, 2021  
 John Ross & Anna McKie  
 https://www.timeshighereducation.com/news/more-universities-planning-drop-lectures-after-pandemic
-
+  
+  
+  
 ## 04 The Academic Market  
 **Can Yale Reform Its Humanities Doctoral Programs?**  
 Major universities have been slow to acknowledge the collapse of the tenure-track job market. A new report from Yale changes that.  
@@ -198,11 +209,6 @@ By Tyler Smith
 April 14, 2021  
 https://www.aeaweb.org/research/research-universities-incentives-resources-virtuous-circles-us  
 Full research paper: https://www.aeaweb.org/articles?id=10.1257/jep.35.1.185
-
-**Why Disability Studies Scholars Are Protesting a Prominent Textbook**  
-By Nell Gluckman  
-APRIL 13, 2021  
-https://www.chronicle.com/article/why-disability-studies-scholars-are-protesting-a-prominent-textbook
 
 **Non-Academic Careers for PhD Holders**  
 *Find A PhD*  
@@ -267,7 +273,7 @@ Rob Jenkins
 https://www.jamesgmartin.center/2018/08/no-the-world-doesnt-need-more-humanities-phds/
 
 **Four things to know before starting your European academic job hunt**  
-Postdoc Boukje Cnossen shares some tips to navigate the subtle cultural differences between European countries that can loom large when you’re looking for a job   
+Postdoc Boukje Cnossen shares some tips to navigate the subtle cultural differences between European countries that can loom large when you’re looking for a job 
 May 22, 2018  
 Boukje Cnossen  
 https://www.timeshighereducation.com/blog/four-things-know-starting-your-european-academic-job-hunt
@@ -370,7 +376,53 @@ By Thomas H. Benton
 JUNE 28, 2004  
 https://www.chronicle.com/article/is-graduate-school-a-cult/  
   
-## 05 International Students & International Education  
+  
+  
+## 05 Research and Publication
+**‘Trailblazing’ research agendas linked to academic mobility**  
+Scholars who stay at one university tend to take ‘safer’ and ‘less ambitious’ paths  
+May 23, 2021  
+Joyce Lau  
+https://www.timeshighereducation.com/news/trailblazing-research-agendas-linked-academic-mobility
+
+**Reliance on journal rankings is undermining academic integrity**  
+Careers can depend on publishing in higher-quartile journals, but the statistics are too easily gamed, says Jakša Cvitanić  
+May 21, 2021  
+Jaksa Cvitanic  
+https://www.timeshighereducation.com/blog/reliance-journal-rankings-undermining-academic-integrity
+
+**Research grant veto powers need guidance, Australian scholars say**  
+Researchers press for ministerial code of conduct amid fears that latest political intervention may never be resolved  
+May 20, 2021  
+John Ross  
+https://www.timeshighereducation.com/news/research-grant-veto-powers-need-guidance-australian-scholars-say
+
+**Studies that fail to replicate ‘get more citations’**  
+Articles in leading journals that can be reproduced gain 16 fewer citations a year on average, say Californian economists  
+May 21, 2021  
+Jack Grove  
+https://www.timeshighereducation.com/science/studies-fail-replicate-get-more-citations
+
+**Why Disability Studies Scholars Are Protesting a Prominent Textbook**  
+By Nell Gluckman  
+APRIL 13, 2021  
+https://www.chronicle.com/article/why-disability-studies-scholars-are-protesting-a-prominent-textbook
+  
+    
+    
+## 06 International Students & International Education  
+**Rigid system pushes Chinese students to unscrupulous agents**  
+Thousands of families are on a ‘high risk’ path to overseas education  
+May 21, 2021  
+Joyce Lau  
+https://www.timeshighereducation.com/news/rigid-system-pushes-chinese-students-unscrupulous-agents
+
+**Recruitment agents ‘closing Australia desks’ in China**  
+Resurgent student flows set to bypass Australia and New Zealand as education agents in most regions usher clients to more welcoming countries  
+May 18, 2021  
+John Ross  
+https://www.timeshighereducation.com/news/recruitment-agents-closing-australia-desks-china
+
 **Lost ground on international recruitment ‘may never be made up’**  
 Covid is compounding other major shifts in international flows to leave a permanent realignment, experts suggest  
 May 13, 2021  
