@@ -417,10 +417,10 @@ May 20, 2021
 John Ross  
 https://www.timeshighereducation.com/news/research-grant-veto-powers-need-guidance-australian-scholars-say
 
-**What Ph.D.s Can Learn About Talking With Reporters**
-A survey of academics shows they are wary of dealing with the news media but see it as a way to advance professionally.
-By Rick Weiss
-May 19, 2021
+**What Ph.D.s Can Learn About Talking With Reporters**  
+A survey of academics shows they are wary of dealing with the news media but see it as a way to advance professionally.  
+By Rick Weiss  
+May 19, 2021  
 https://www.chronicle.com/article/what-ph-d-s-can-learn-about-talking-with-reporters
 
 **Why Disability Studies Scholars Are Protesting a Prominent Textbook**  
