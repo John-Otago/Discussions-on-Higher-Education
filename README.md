@@ -22,8 +22,8 @@ Putting together this collection with regular updates is time-consuming and can 
 [02 The Model of Tertiary Education: Students, Academics, and Administrators](https://github.com/John-Otago/Discussions-on-Higher-Ed#02-the-model-of-tertiary-education-students-academics-and-administrators)  
 [03 Transforming Education: Teaching & Teaching Innovation](https://github.com/John-Otago/Discussions-on-Higher-Ed#03-transforming-education-teaching--teaching-innovation)  
 [04 The Academic Market](https://github.com/John-Otago/Discussions-on-Higher-Ed#04-the-academic-market)  
-05 Research and Publication  
-[06 International Students & International Education](https://github.com/John-Otago/Discussions-on-Higher-Ed#05-international-students--international-education)  
+[05 Research and Publication](https://github.com/John-Otago/Discussions-on-Higher-Ed#05-research-and-publication)  
+[06 International Students & International Education](https://github.com/John-Otago/Discussions-on-Higher-Ed#06-international-students--international-education)  
   
 ## 01 The Role of Tertiary Education
 **Morton Schapiro: campuses must address their own fundamentalism**  
