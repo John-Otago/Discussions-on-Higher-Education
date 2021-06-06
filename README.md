@@ -436,6 +436,12 @@ https://www.chronicle.com/article/why-disability-studies-scholars-are-protesting
   
    
 ## 06 International Students & International Education  
+**Education in China is becoming increasingly unfair to the poor**
+The hukou system of household registration exacerbates a huge divide
+May 29th 2021
+*The Economist*
+https://www.economist.com/china/2021/05/27/education-in-china-is-becoming-increasingly-unfair-to-the-poor
+
 **Rigid system pushes Chinese students to unscrupulous agents**  
 Thousands of families are on a ‘high risk’ path to overseas education  
 May 21, 2021  
