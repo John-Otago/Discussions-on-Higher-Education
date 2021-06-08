@@ -228,6 +228,12 @@ By Scott Carlson
 March 11, 2021   
 https://www.chronicle.com/article/tenures-broken-promise
 
+**(New Zealand) Seven hundred university jobs lost due to lack of international students**  
+1 March 2021  
+John Gerritsen (Radio New Zealand)  
+https://www.rnz.co.nz/news/national/437379/international-student-downturn-costs-700-university-jobs  
+[repost] https://www.newshub.co.nz/home/new-zealand/2021/03/seven-hundred-university-jobs-lost-due-to-lack-of-international-students.html
+
 **Plus C’est La Même Chose**  
 The new reality for humanities Ph.D.s is a transformation, not a crisis of the moment, and we should recognize that, writes Frederick A. Winter.  
 By Frederick A. Winter  
