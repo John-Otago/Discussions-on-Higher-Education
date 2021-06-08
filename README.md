@@ -23,8 +23,8 @@ Putting together this collection with regular updates is time-consuming and can 
 [01 The Role of Tertiary Education](https://github.com/John-Otago/Discussions-on-Higher-Ed#01-the-role-of-tertiary-education)  
 [02 The Model of Tertiary Education: Students, Academics, and Administrators](https://github.com/John-Otago/Discussions-on-Higher-Ed#02-the-model-of-tertiary-education-students-academics-and-administrators)  
 [03 Transforming Education: Teaching & Teaching Innovation](https://github.com/John-Otago/Discussions-on-Higher-Ed#03-transforming-education-teaching--teaching-innovation)  
-[04 The Academic Market](https://github.com/John-Otago/Discussions-on-Higher-Education#04-the-academic-job-market)
-[05 Working in Academe](https://github.com/John-Otago/Discussions-on-Higher-Education#05-working-in-academe)
+[04 The Academic Market](https://github.com/John-Otago/Discussions-on-Higher-Education#04-the-academic-job-market)  
+[05 Working in Academe](https://github.com/John-Otago/Discussions-on-Higher-Education#05-working-in-academe)  
 [06 Research and Publication](https://github.com/John-Otago/Discussions-on-Higher-Education#06-research-and-publication)  
 [07 International Students & International Education](https://github.com/John-Otago/Discussions-on-Higher-Education#07-international-students--international-education)  
   
