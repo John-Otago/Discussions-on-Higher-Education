@@ -280,7 +280,7 @@ April 15, 2019
 https://www.washingtonpost.com/outlook/2019/04/15/job-market-academics-is-nightmare-heres-one-way-fix-it/
 
 **More on the Career Paths of PhDs in English and Other Modern Languages**  
-(MLA + AHA suverys on Humanities PhD Career Outcome)  
+(MLA + AHA suverys on Humanities PhD Career Outcome in the US)  
 by David Laurence  
 August 28, 2018   
 https://mlaresearch.mla.hcommons.org/2018/08/28/more-on-the-career-paths-of-phds-in-english-and-other-modern-languages/
