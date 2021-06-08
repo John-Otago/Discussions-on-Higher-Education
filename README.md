@@ -311,12 +311,6 @@ By Gina Kolata
 July 14, 2016  
 https://www.nytimes.com/2016/07/14/upshot/so-many-research-scientists-so-few-openings-as-professors.html  
   
-**How welcoming is academia to LGBT staff?**  
-By some measures, universities are wonderfully accommodating workplaces for gays and lesbians. Six academics give us their perspective  
-May 5, 2016    
-By Contributors  
-https://www.timeshighereducation.com/features/how-welcoming-is-academia-to-lesbian-gay-bisexual-transgender-lgbt-staff  
-  
 **The Ever-Tightening Job Market for Ph.D.s**  
 Why do so many people continue to pursue doctorates?  
 By Laura McKenna  
@@ -388,6 +382,12 @@ Universities are now committed to ‘celebrating success’ and to treating ever
 by Joe Moran  
 November 26, 2020  
 https://www.timeshighereducation.com/features/glut-prizes-undermining-true-value-research-and-teaching
+
+**How welcoming is academia to LGBT staff?**  
+By some measures, universities are wonderfully accommodating workplaces for gays and lesbians. Six academics give us their perspective  
+May 5, 2016    
+By Contributors  
+https://www.timeshighereducation.com/features/how-welcoming-is-academia-to-lesbian-gay-bisexual-transgender-lgbt-staff  
 
 **Workload survival guide for academics**  
 Advice on how to cope with all the work and when to say no to opportunities  
