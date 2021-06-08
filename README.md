@@ -228,6 +228,12 @@ By Scott Carlson
 March 11, 2021   
 https://www.chronicle.com/article/tenures-broken-promise
 
+**Plus C’est La Même Chose**  
+The new reality for humanities Ph.D.s is a transformation, not a crisis of the moment, and we should recognize that, writes Frederick A. Winter.  
+By Frederick A. Winter  
+February 9, 2021  
+https://www.insidehighered.com/advice/2021/02/09/new-reality-humanities-phds-transformation-not-crisis-moment-opinion
+
 **Early career academics ‘victims of their own brains’**  
 Aspirants are convinced they can succeed against the odds because they have always succeeded in the past, analysis of ‘quit lit’ suggests  
 by John Ross  
@@ -251,6 +257,12 @@ Jun 25th 2020
 *The Economist*  
 https://www.economist.com/britain/2020/06/25/lean-times-at-the-london-business-school
 
+**You Can’t Kill It With Kindness**  
+Basic decency and treating people better isn’t going to get at the core issues of what makes job hunting so demoralizing and damaging for most recent Ph.D. graduates, Zeb Larson contends.  
+By Zeb Larson  
+June 23, 2020  
+https://www.insidehighered.com/advice/2020/06/23/kindness-wont-resolve-core-issues-what-makes-job-hunting-phds-so-demoralizing-and
+
 **PhDs: the tortuous truth**  
 *Nature*’s survey of more than 6,000 graduate students reveals the turbulent nature of doctoral research.  
 13 November 2019  
@@ -261,6 +273,11 @@ https://www.nature.com/articles/d41586-019-03459-7
 By Emily Ruth Mace  
 MAY 10, 2019  
 https://www.chronicle.com/article/the-grant-ran-out-the-job-ended-go-ahead-and-grieve/
+
+**The academic job market is a nightmare. Here’s one way to fix it.**  
+By Colin Dickey  
+April 15, 2019  
+https://www.washingtonpost.com/outlook/2019/04/15/job-market-academics-is-nightmare-heres-one-way-fix-it/
 
 **More on the Career Paths of PhDs in English and Other Modern Languages**  
 (MLA + AHA suverys on Humanities PhD Career Outcome)  
