@@ -24,8 +24,8 @@ Putting together this collection with regular updates is time-consuming and can 
 [02 The Model of Tertiary Education: Students, Academics, and Administrators](https://github.com/John-Otago/Discussions-on-Higher-Ed#02-the-model-of-tertiary-education-students-academics-and-administrators)  
 [03 Transforming Education: Teaching & Teaching Innovation](https://github.com/John-Otago/Discussions-on-Higher-Ed#03-transforming-education-teaching--teaching-innovation)  
 [04 The Academic Market](https://github.com/John-Otago/Discussions-on-Higher-Ed#04-the-academic-market)  
-[05 Research and Publication](https://github.com/John-Otago/Discussions-on-Higher-Ed#05-research-and-publication)  
-[06 International Students & International Education](https://github.com/John-Otago/Discussions-on-Higher-Ed#06-international-students--international-education)  
+[06 Research and Publication](https://github.com/John-Otago/Discussions-on-Higher-Ed#05-research-and-publication)  
+[07 International Students & International Education](https://github.com/John-Otago/Discussions-on-Higher-Ed#06-international-students--international-education)  
   
 ## 01 The Role of Tertiary Education
 **Morton Schapiro: campuses must address their own fundamentalism**  
@@ -209,19 +209,12 @@ https://www.timeshighereducation.com/news/more-universities-planning-drop-lectur
   
   
   
-## 04 The Academic Market  
+## 04 The Academic Job Market  
 **Can Yale Reform Its Humanities Doctoral Programs?**  
 Major universities have been slow to acknowledge the collapse of the tenure-track job market. A new report from Yale changes that.  
 By Leonard Cassuto  
 May 14, 2021  
 https://www.chronicle.com/article/can-yale-reform-its-humanities-doctoral-programs
-
-**Why the United States has the best research universities**  
-Miguel Urquiola discusses the history of higher education in America and why it surpassed Europe.  
-By Tyler Smith  
-April 14, 2021  
-https://www.aeaweb.org/research/research-universities-incentives-resources-virtuous-circles-us  
-Full research paper: https://www.aeaweb.org/articles?id=10.1257/jep.35.1.185
 
 **Non-Academic Careers for PhD Holders**  
 *Find A PhD*  
@@ -233,12 +226,6 @@ It’s scarce, unevenly distributed, and limiting scholars’ careers.
 By Scott Carlson  
 March 11, 2021   
 https://www.chronicle.com/article/tenures-broken-promise
-
-**The glut of prizes is undermining the true value of research and teaching**  
-Universities are now committed to ‘celebrating success’ and to treating every failure as just a stepping stone on the way to further success. Yet this, argues Joe Moran, is a betrayal of what really matters in the academy  
-by Joe Moran  
-November 26, 2020  
-https://www.timeshighereducation.com/features/glut-prizes-undermining-true-value-research-and-teaching
 
 **Early career academics ‘victims of their own brains’**  
 Aspirants are convinced they can succeed against the odds because they have always succeeded in the past, analysis of ‘quit lit’ suggests  
@@ -335,12 +322,6 @@ By Laura McKenna
 APRIL 22, 2016  
 https://www.theatlantic.com/education/archive/2016/04/bad-job-market-phds/479205/  
   
-**Workload survival guide for academics**  
-Advice on how to cope with all the work and when to say no to opportunities  
-February 18, 2016  
-*Times Higher Education*  
-https://www.timeshighereducation.com/features/workload-survival-guide-for-academics  
-  
 **How to build a better PhD**  
 There are too many PhD students for too few academic jobs — but with imagination, the problem could be solved.  
 Julie Gould  
@@ -393,8 +374,33 @@ https://www.chronicle.com/article/is-graduate-school-a-cult/
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
   
   
+## 05 Working in Academe 
+**Why the United States has the best research universities**  
+Miguel Urquiola discusses the history of higher education in America and why it surpassed Europe.  
+By Tyler Smith  
+April 14, 2021  
+https://www.aeaweb.org/research/research-universities-incentives-resources-virtuous-circles-us  
+Full research paper: https://www.aeaweb.org/articles?id=10.1257/jep.35.1.185
+
+**The glut of prizes is undermining the true value of research and teaching**  
+Universities are now committed to ‘celebrating success’ and to treating every failure as just a stepping stone on the way to further success. Yet this, argues Joe Moran, is a betrayal of what really matters in the academy  
+by Joe Moran  
+November 26, 2020  
+https://www.timeshighereducation.com/features/glut-prizes-undermining-true-value-research-and-teaching
+
+**Workload survival guide for academics**  
+Advice on how to cope with all the work and when to say no to opportunities  
+February 18, 2016  
+*Times Higher Education*  
+https://www.timeshighereducation.com/features/workload-survival-guide-for-academics  
+
+
   
-## 05 Research and Publication
+### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
+  
+  
+  
+## 06 Research and Publication
 **‘Trailblazing’ research agendas linked to academic mobility**  
 Scholars who stay at one university tend to take ‘safer’ and ‘less ambitious’ paths  
 May 23, 2021  
@@ -435,7 +441,7 @@ https://www.chronicle.com/article/why-disability-studies-scholars-are-protesting
   
   
    
-## 06 International Students & International Education  
+## 07 International Students & International Education  
 **Education in China is becoming increasingly unfair to the poor**  
 The hukou system of household registration exacerbates a huge divide  
 May 29th 2021  
