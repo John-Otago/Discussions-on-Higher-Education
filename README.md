@@ -286,7 +286,7 @@ Rob Jenkins
 https://www.jamesgmartin.center/2018/08/no-the-world-doesnt-need-more-humanities-phds/
 
 **Four things to know before starting your European academic job hunt**  
-Postdoc Boukje Cnossen shares some tips to navigate the subtle cultural differences between European countries that can loom large when you’re looking for a job 
+Postdoc Boukje Cnossen shares some tips to navigate the subtle cultural differences between European countries that can loom large when you’re looking for a job  
 May 22, 2018  
 Boukje Cnossen  
 https://www.timeshighereducation.com/blog/four-things-know-starting-your-european-academic-job-hunt
