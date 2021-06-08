@@ -24,7 +24,7 @@ Putting together this collection with regular updates is time-consuming and can 
 [02 The Model of Tertiary Education: Students, Academics, and Administrators](https://github.com/John-Otago/Discussions-on-Higher-Ed#02-the-model-of-tertiary-education-students-academics-and-administrators)  
 [03 Transforming Education: Teaching & Teaching Innovation](https://github.com/John-Otago/Discussions-on-Higher-Ed#03-transforming-education-teaching--teaching-innovation)  
 [04 The Academic Market](https://github.com/John-Otago/Discussions-on-Higher-Education#04-the-academic-job-market)  
-[05 Working in Academe](https://github.com/John-Otago/Discussions-on-Higher-Education#05-working-in-academe)  
+[05 Working in Academia](https://github.com/John-Otago/Discussions-on-Higher-Education#05-working-in-academe)  
 [06 Research and Publication](https://github.com/John-Otago/Discussions-on-Higher-Education#06-research-and-publication)  
 [07 International Students & International Education](https://github.com/John-Otago/Discussions-on-Higher-Education#07-international-students--international-education)  
   
@@ -369,7 +369,19 @@ https://www.chronicle.com/article/is-graduate-school-a-cult/
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
   
   
-## 05 Working in Academe 
+## 05 Working in Academia 
+**‘Trailblazing’ research agendas linked to academic mobility**  
+Scholars who stay at one university tend to take ‘safer’ and ‘less ambitious’ paths  
+May 23, 2021  
+Joyce Lau  
+https://www.timeshighereducation.com/news/trailblazing-research-agendas-linked-academic-mobility
+
+**What Ph.D.s Can Learn About Talking With Reporters**  
+A survey of academics shows they are wary of dealing with the news media but see it as a way to advance professionally.  
+By Rick Weiss  
+May 19, 2021  
+https://www.chronicle.com/article/what-ph-d-s-can-learn-about-talking-with-reporters
+
 **Why the United States has the best research universities**  
 Miguel Urquiola discusses the history of higher education in America and why it surpassed Europe.  
 By Tyler Smith  
@@ -402,12 +414,6 @@ https://www.timeshighereducation.com/features/workload-survival-guide-for-academ
   
   
 ## 06 Research and Publication
-**‘Trailblazing’ research agendas linked to academic mobility**  
-Scholars who stay at one university tend to take ‘safer’ and ‘less ambitious’ paths  
-May 23, 2021  
-Joyce Lau  
-https://www.timeshighereducation.com/news/trailblazing-research-agendas-linked-academic-mobility
-
 **Reliance on journal rankings is undermining academic integrity**  
 Careers can depend on publishing in higher-quartile journals, but the statistics are too easily gamed, says Jakša Cvitanić  
 May 21, 2021  
@@ -425,12 +431,6 @@ Researchers press for ministerial code of conduct amid fears that latest politic
 May 20, 2021  
 John Ross  
 https://www.timeshighereducation.com/news/research-grant-veto-powers-need-guidance-australian-scholars-say
-
-**What Ph.D.s Can Learn About Talking With Reporters**  
-A survey of academics shows they are wary of dealing with the news media but see it as a way to advance professionally.  
-By Rick Weiss  
-May 19, 2021  
-https://www.chronicle.com/article/what-ph-d-s-can-learn-about-talking-with-reporters
 
 **Why Disability Studies Scholars Are Protesting a Prominent Textbook**  
 By Nell Gluckman  
