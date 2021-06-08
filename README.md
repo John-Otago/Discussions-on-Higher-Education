@@ -269,6 +269,12 @@ By Zeb Larson
 June 23, 2020  
 https://www.insidehighered.com/advice/2020/06/23/kindness-wont-resolve-core-issues-what-makes-job-hunting-phds-so-demoralizing-and
 
+**More than 17,000 jobs lost at Australian universities during Covid pandemic**  
+Further cuts are likely this year as the border remains closed to international students, Universities Australia says  
+Naaman Zhou  
+Tue 2 Feb 2021  
+https://www.theguardian.com/australia-news/2021/feb/03/more-than-17000-jobs-lost-at-australian-universities-during-covid-pandemic
+
 **PhDs: the tortuous truth**  
 *Nature*’s survey of more than 6,000 graduate students reveals the turbulent nature of doctoral research.  
 13 November 2019  
