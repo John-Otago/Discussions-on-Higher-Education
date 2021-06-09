@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
 Version: 1.6.23  
-Last update: 8 June 2021
+Last update: 10 June 2021
 
 Compiled by J.W.
 
@@ -473,7 +473,13 @@ https://www.chronicle.com/article/why-disability-studies-scholars-are-protesting
   
   
    
-## 07 International Students & International Education  
+## 07 International Students & International Education
+**UK study visa numbers return to pre-pandemic levels**  
+Latest data from the Home Office show recovery in the number of visas granted over autumn and winter  
+May 29, 2021  
+Simon Baker  
+https://www.timeshighereducation.com/news/uk-study-visa-numbers-return-pre-pandemic-levels
+
 **Education in China is becoming increasingly unfair to the poor**  
 The hukou system of household registration exacerbates a huge divide  
 May 29th 2021  
