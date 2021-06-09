@@ -31,12 +31,17 @@ For current graduate students (including those starting or finishing graduate sc
 [07 International Students & International Education](https://github.com/John-Otago/Discussions-on-Higher-Education#07-international-students--international-education)  
   
 ## 01 The Role of Tertiary Education
-
 **It’s Time to Break Up the Ivy League Cartel** (How Meritocracy Became Trickle-Down Education)  
 Democracy requires something more than a handful of super-rich universities.  
 By Sam Haselby and Matt Stoller  
 May 28, 2021  
 https://www.chronicle.com/article/how-meritocracy-became-trickle-down-education
+
+**Academic Freedom Is on the Ropes**  
+The attacks are coming from both the right and the left.  
+By Alexander C. Kafka  
+May 27, 2021  
+https://www.chronicle.com/article/academic-freedom-is-on-the-ropes
 
 **Rage or engage?**  
 It may feel as if the media is out to get universities. But a positive, pragmatic relationship is possible – and vital to public trust  
