@@ -420,9 +420,9 @@ By Thomas H. Benton
 JANUARY 30, 2009  
 https://www.chronicle.com/article/graduate-school-in-the-humanities-just-dont-go/  
 
-**Facts about adjuncts**
-*New Faculty Majority*
-n.d. (data source: 2009)
+**Facts about adjuncts**  
+*New Faculty Majority*  
+n.d. (data source: 2009)  
 https://www.newfacultymajority.info/facts-about-adjuncts/
 
 **Is Graduate School a Cult?**  
