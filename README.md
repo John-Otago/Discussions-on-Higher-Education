@@ -34,6 +34,8 @@ Note that some resources are behind a paywall (your institution may have subscri
 [06 Research and Publication](https://github.com/John-Otago/Discussions-on-Higher-Education#06-research-and-publication)  
 [07 International Students & International Education](https://github.com/John-Otago/Discussions-on-Higher-Education#07-international-students--international-education)  
   
+---
+  
 ## 01 The Role of Tertiary Education
 **It’s Time to Break Up the Ivy League Cartel** (How Meritocracy Became Trickle-Down Education)  
 Democracy requires something more than a handful of super-rich universities.  
