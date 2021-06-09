@@ -123,6 +123,12 @@ https://www.chronicle.com/article/8-questions-about-free-community-college/
   
   
 ## 02 The Model of Tertiary Education: Students, Academics, and Administrators  
+**Cameras of Merit or Engines of Inequality? College Ranking Systems and the Enrollment of Disadvantaged Students**  
+James Chu  
+*American Journal of Sociology*  
+Volume 126, Number 6, May 2021  
+https://www.journals.uchicago.edu/doi/full/10.1086/714916
+
 **Limited relief for universities in New Zealand budget**  
 Underwhelming increases in teaching subsidies and student benefits, while research misses out  
 May 20, 2021  
