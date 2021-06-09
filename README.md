@@ -243,9 +243,9 @@ By Leonard Cassuto
 May 14, 2021  
 https://www.chronicle.com/article/can-yale-reform-its-humanities-doctoral-programs
 
-**Here’s Who Was Hit Hardest by Higher Ed’s Pandemic-Driven Job Losses** (570,000+ job losses in American academe)
-By Dan Bauman
-April 19, 2021
+**Here’s Who Was Hit Hardest by Higher Ed’s Pandemic-Driven Job Losses** (570,000+ job losses in American academe)  
+By Dan Bauman  
+April 19, 2021  
 https://www.chronicle.com/article/heres-who-was-hit-hardest-by-higher-eds-pandemic-driven-job-losses
 
 **Non-Academic Careers for PhD Holders**  
