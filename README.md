@@ -31,6 +31,19 @@ For current graduate students (including those starting or finishing graduate sc
 [07 International Students & International Education](https://github.com/John-Otago/Discussions-on-Higher-Education#07-international-students--international-education)  
   
 ## 01 The Role of Tertiary Education
+
+**It’s Time to Break Up the Ivy League Cartel** (How Meritocracy Became Trickle-Down Education)  
+Democracy requires something more than a handful of super-rich universities.  
+By Sam Haselby and Matt Stoller  
+May 28, 2021  
+https://www.chronicle.com/article/how-meritocracy-became-trickle-down-education
+
+**Rage or engage?**  
+It may feel as if the media is out to get universities. But a positive, pragmatic relationship is possible – and vital to public trust  
+May 27, 2021  
+John Gill  
+https://www.timeshighereducation.com/opinion/rage-or-engage
+
 **Morton Schapiro: campuses must address their own fundamentalism**  
 Book sets out to challenge the simplistic and divisive thinking to be found in disciplines as diverse as economics and literary studies  
 April 23, 2021  
@@ -219,6 +232,11 @@ By Leonard Cassuto
 May 14, 2021  
 https://www.chronicle.com/article/can-yale-reform-its-humanities-doctoral-programs
 
+**Here’s Who Was Hit Hardest by Higher Ed’s Pandemic-Driven Job Losses** (570,000+ job losses in American academe)
+By Dan Bauman
+April 19, 2021
+https://www.chronicle.com/article/heres-who-was-hit-hardest-by-higher-eds-pandemic-driven-job-losses
+
 **Non-Academic Careers for PhD Holders**  
 *Find A PhD*  
 Last updated - 08/04/2021  
@@ -400,7 +418,13 @@ https://www.chronicle.com/article/is-graduate-school-a-cult/
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
   
   
-## 05 Working in Academia 
+## 05 Working in Academia
+**Interdisciplinary questions: the academy’s most misunderstood fields**  
+Public confusion is one thing, but some subjects provoke quizzical and sometimes dismissive frowns even among colleagues from different departments. Here, nine academics set the record straight about what they do – and why it matters  
+May 27, 2021  
+Kim Cornish, Andrew Dawson, Josh Hiller , Andrew Penland, Cynthia B. Meyers, Kate Cantrell, David Norman, Alpesh Maisuria Ann Bradshaw  
+https://www.timeshighereducation.com/features/interdisciplinary-questions-academys-most-misunderstood-fields
+
 **‘Trailblazing’ research agendas linked to academic mobility**  
 Scholars who stay at one university tend to take ‘safer’ and ‘less ambitious’ paths  
 May 23, 2021  
@@ -450,6 +474,12 @@ Wide support for cOAlition S’ rights retention strategy would allow negotiator
 May 30, 2021  
 Alice Gibson  
 https://www.timeshighereducation.com/blog/academics-must-become-more-engaged-open-access-struggle
+
+**Million-dollar wait over for Australian researchers**  
+No explanation for delay that kept 15 academics on tenterhooks for months  
+May 28, 2021  
+John Ross  
+https://www.timeshighereducation.com/news/million-dollar-wait-over-australian-researchers
 
 **Reliance on journal rankings is undermining academic integrity**  
 Careers can depend on publishing in higher-quartile journals, but the statistics are too easily gamed, says Jakša Cvitanić  
