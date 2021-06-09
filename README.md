@@ -419,7 +419,12 @@ https://www.chronicle.com/article/the-big-lie-about-the-life-of-the-mind/
 By Thomas H. Benton  
 JANUARY 30, 2009  
 https://www.chronicle.com/article/graduate-school-in-the-humanities-just-dont-go/  
-  
+
+**Facts about adjuncts**
+*New Faculty Majority*
+n.d. (data source: 2009)
+https://www.newfacultymajority.info/facts-about-adjuncts/
+
 **Is Graduate School a Cult?**  
 By Thomas H. Benton  
 JUNE 28, 2004  
