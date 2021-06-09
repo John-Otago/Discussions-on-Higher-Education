@@ -445,6 +445,12 @@ https://www.timeshighereducation.com/features/workload-survival-guide-for-academ
   
   
 ## 06 Research and Publication
+**Academics must become more engaged in the open access struggle**  
+Wide support for cOAlition S’ rights retention strategy would allow negotiators to take a harder line with publishers, says Alice Gibson  
+May 30, 2021  
+Alice Gibson  
+https://www.timeshighereducation.com/blog/academics-must-become-more-engaged-open-access-struggle
+
 **Reliance on journal rankings is undermining academic integrity**  
 Careers can depend on publishing in higher-quartile journals, but the statistics are too easily gamed, says Jakša Cvitanić  
 May 21, 2021  
