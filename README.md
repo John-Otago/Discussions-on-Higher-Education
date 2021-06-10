@@ -15,7 +15,7 @@ Some commentaries I have collected may be subject to the same issues, and some n
 
 Nonetheless, I consider this collection a service to the academic community and wider society to foster further discussion, and to encourage my students to consider relevant issues as part of their education. This collection also serves as a list of references on the important issues that are under debate in tertiary education.
 
-The collection was first released in 2021, although I have been reading about these issues for years since 2015 (I will add past resources where possible and relevant). The Covid-19 pandemic has accelerated many existing trends and changes that were already underway; it is more important than ever to rethink the role of and our approaches to higher education. 
+The collection was first released in 2021, although I have been reading about these issues for years (I will add past resources where possible and relevant). The Covid-19 pandemic has accelerated many existing trends and changes that were already underway; it is more important than ever to rethink the role of and our approaches to higher education. 
 
 Putting together this collection with regular updates is time-consuming and can be physically and emotionally exhausting. I do not necessarily agree with everything collected here (some of them actually contradict each other), and many issues facing us are highly complicated if not politically sensitive. I don't like polarisation and hope we can find a way to talk to each other for better social cohesion to address the common challenges facing us—that's the purpose of this collection for informed discussion.
 
@@ -33,6 +33,7 @@ Note that some resources are behind a paywall (your institution may have subscri
 [05 Working in Academia](https://github.com/John-Otago/Discussions-on-Higher-Education#05-working-in-academia)  
 [06 Research and Publication](https://github.com/John-Otago/Discussions-on-Higher-Education#06-research-and-publication)  
 [07 International Students & International Education](https://github.com/John-Otago/Discussions-on-Higher-Education#07-international-students--international-education)  
+08 Relevant Books: forthcoming  
   
 ---
   
@@ -598,5 +599,6 @@ https://www.timeshighereducation.com/world-university-rankings/asian-higher-educ
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
   
-  
-  
+    
+## 08 Relevant Books
+forthcoming  
