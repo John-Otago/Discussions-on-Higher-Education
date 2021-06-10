@@ -33,7 +33,7 @@ Note that some resources are behind a paywall (your institution may have subscri
 [05 Working in Academia](https://github.com/John-Otago/Discussions-on-Higher-Education#05-working-in-academia)  
 [06 Research and Publication](https://github.com/John-Otago/Discussions-on-Higher-Education#06-research-and-publication)  
 [07 International Students & International Education](https://github.com/John-Otago/Discussions-on-Higher-Education#07-international-students--international-education)  
-08 Relevant Books: forthcoming  
+08 Relevant Books (forthcoming)  
   
 ---
   
