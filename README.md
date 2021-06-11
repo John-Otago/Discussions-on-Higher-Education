@@ -613,4 +613,7 @@ https://www.timeshighereducation.com/world-university-rankings/asian-higher-educ
   
     
 ## 08 Relevant Books
-forthcoming  
+- The New PhD: How to Build a Better Graduate Education (L Cassuto & R Weisbuch, 2021, Johns Hopkins UP)  
+- The Academic's Handbook, 4th ed. (JH Olcott & L Flores, 2020, Duke UP)  
+  
+  
