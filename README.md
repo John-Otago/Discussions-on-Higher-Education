@@ -33,7 +33,7 @@ Note that some resources are behind a paywall (your institution may have subscri
 [05 Working in Academia](https://github.com/John-Otago/Discussions-on-Higher-Education#05-working-in-academia)  
 [06 Research and Publication](https://github.com/John-Otago/Discussions-on-Higher-Education#06-research-and-publication)  
 [07 International Students & International Education](https://github.com/John-Otago/Discussions-on-Higher-Education#07-international-students--international-education)  
-08 Relevant Books (forthcoming)  
+[08 Relevant Books](https://github.com/John-Otago/Discussions-on-Higher-Education#08-relevant-books)  
   
 ---
   
@@ -613,7 +613,16 @@ https://www.timeshighereducation.com/world-university-rankings/asian-higher-educ
   
     
 ## 08 Relevant Books
-- The New PhD: How to Build a Better Graduate Education (L Cassuto & R Weisbuch, 2021, Johns Hopkins UP)  
-- The Academic's Handbook, 4th ed. (JH Olcott & L Flores, 2020, Duke UP)  
+**The New PhD: How to Build a Better Graduate Education**  
+L Cassuto & R Weisbuch  
+2021  
+Johns Hopkins UP  
+https://jhupbooks.press.jhu.edu/title/new-phd
+  
+**The Academic's Handbook, 4th ed.**  
+JH Olcott & L Flores  
+2020  
+Duke UP  
+https://www.dukeupress.edu/the-academics-handbook-fourth-edition  
   
   
