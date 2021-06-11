@@ -9,9 +9,7 @@ This is a collection of relevant discussions on tertiary education, mostly from 
 
 It started as a personal collection that I put in a digital notebook, together with many other magazine and newspaper articles, but gradually I realised the benefits of sharing my collection with colleagues and students as well as the wider community. Simply collecting and hoarding these resources create little value; sharing them does.
 
-I always endeavour to collect a diverse range of opinions and reports, so I won't end up in a limited echo chamber, although we are all (to various degrees) subject to cognitive biases and may be unconsciously inclined to the opinions that align with our existing knowledge and beliefs. 
-
-Some commentaries I have collected may be subject to the same issues, and some news reports and opinion pieces may be driven by underlying ideological agendas (no matter which side of the cultural, political, and economic spectrum they come from). My reliance on a small range of publications may also limit the scope of this collection.
+I always endeavour to collect a diverse range of opinions and reports, so I won't end up in a limited echo chamber, although we are all (to various degrees) subject to cognitive biases and may be unconsciously inclined to the opinions that align with our existing knowledge and beliefs. My reliance on a small range of publications may also limit the scope of this collection.
 
 Nonetheless, I consider this collection a service to the academic community and wider society to foster further discussion, and to encourage my students to consider relevant issues as part of their education. This collection also serves as a list of references on the important issues that are under debate in tertiary education.
 
