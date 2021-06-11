@@ -130,11 +130,23 @@ James Chu
 Volume 126, Number 6, May 2021  
 https://www.journals.uchicago.edu/doi/full/10.1086/714916
 
+**A $250 Million Fund Steers HBCU Endowments Into Venture Capital**  
+The Advancement Initiative aims to help less prosperous schools bridge the wealth gap through investments in late-stage startups.  
+By Lizette Chapman and Janet Lorin  
+May 27, 2021  
+https://www.bloomberg.com/news/articles/2021-05-27/advancement-initiative-wants-to-steer-hbcu-endowments-into-venture-capital
+
 **Limited relief for universities in New Zealand budget**  
 Underwhelming increases in teaching subsidies and student benefits, while research misses out  
 May 20, 2021  
 John Ross  
 https://www.timeshighereducation.com/news/limited-relief-universities-newzealand-budget
+
+**David Swensen, an influential investor, died on May 5th**  
+At Yale, Mr Swensen perfected the modern endowment model  
+May 15th 2021  
+*The Economist*  
+https://www.economist.com/finance-and-economics/2021/05/15/david-swensen-an-influential-investor-died-on-may-5th
 
 **Arizona State’s Success Story: Model or Mirage?**  
 Michael Crow champions his campus as a new ideal. But does much of it simply boil down to cost control?  
