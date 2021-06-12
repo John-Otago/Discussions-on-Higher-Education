@@ -623,7 +623,8 @@ https://jhupbooks.press.jhu.edu/title/new-phd
 - Introduction: the big picture.
 - Chap 1: a very good summary of past attempts in the US since 1990.
 - Chap 3: important but the suggested approaches (e.g. workshops/courses and career counselling) are a bit cliche; internship sounds great but will add time; I doubt if a 'time neutral' approach (p. 129) really exists to prepare PhD students for diverse careers (more preparation = more time); 'without lengthening an already long time to degree' probably means students need to work longer hours within the overall timeframe to prepare for non-academic careers in addition to conducting academic research, or they need to significantly increase their productivity, or both (longer hours + increased productivity).
-- Chap 7-10: to be completed soon. 
+- Chap 7: the first part doesn't seem to be relevant; I also disagree that '[t]he literature that analyzes graduate student advising is scant' (p. 225; this is a heavily researched area in Education, albeit seldom on career diversity per se); the rest of the chapter offers good advice, but these methods still mean more work (and more time) for the already overworked advisors and students, and may become a 'tick-the-box' thing (p. 227) with little substance as the auhtors have poitned out.
+- Chap 8-10
   
   
 **The Academic's Handbook, 4th ed.**  
