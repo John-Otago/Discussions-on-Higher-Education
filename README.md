@@ -118,7 +118,7 @@ https://www.chronicle.com/article/8-questions-about-free-community-college/
   
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
-  
+---
   
   
 ## 02 The Model of Tertiary Education: Students, Academics, and Administrators  
@@ -194,7 +194,7 @@ https://www.timeshighereducation.com/features/crisis-higher-education-needs-have
   
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
-  
+---
   
   
 ## 03 Transforming Education: Teaching & Teaching Innovation  
@@ -250,7 +250,7 @@ https://www.timeshighereducation.com/news/more-universities-planning-drop-lectur
   
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
-  
+---
   
   
 ## 04 The Academic Job Market  
@@ -449,6 +449,7 @@ https://www.chronicle.com/article/is-graduate-school-a-cult/
   
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
+---
   
   
 ## 05 Working in Academia
@@ -498,7 +499,7 @@ https://www.timeshighereducation.com/features/workload-survival-guide-for-academ
 
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
-  
+---
   
   
 ## 06 Research and Publication
@@ -539,7 +540,7 @@ https://www.chronicle.com/article/why-disability-studies-scholars-are-protesting
   
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
-  
+---
   
    
 ## 07 International Students & International Education
@@ -608,7 +609,8 @@ https://www.timeshighereducation.com/world-university-rankings/asian-higher-educ
   
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
-  
+---
+
     
 ## 08 Relevant Books
 **The New PhD: How to Build a Better Graduate Education**  
@@ -620,9 +622,10 @@ https://jhupbooks.press.jhu.edu/title/new-phd
 *Note: I've read the Introduction and Chapters 1, 3, and 7-10.*
 - Introduction: the big picture.
 - Chap 1: a very good summary of past attempts in the US since 1990.
-- Chap 3: important but the suggested approaches (e.g. workshops/courses and career counselling) are a bit cliche; internship sounds great but will add time; I doubt if a 'time neutral' approach (p. 129) really exists to prepare PhD students for diverse careers (more preparation = more time); 'without lengthening an already long time to degree' probably means students need to work longer hours within the overall timeframe to prepare for non-academic careers in addition to conducting academic research, or they need to significantly increase their productivity, or both (longer hours + increased productivity). 
-
-
+- Chap 3: important but the suggested approaches (e.g. workshops/courses and career counselling) are a bit cliche; internship sounds great but will add time; I doubt if a 'time neutral' approach (p. 129) really exists to prepare PhD students for diverse careers (more preparation = more time); 'without lengthening an already long time to degree' probably means students need to work longer hours within the overall timeframe to prepare for non-academic careers in addition to conducting academic research, or they need to significantly increase their productivity, or both (longer hours + increased productivity).
+- Chap 7-10: to be completed soon. 
+  
+  
 **The Academic's Handbook, 4th ed.**  
 JH Olcott & L Flores  
 2020  
