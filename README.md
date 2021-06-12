@@ -626,7 +626,7 @@ https://jhupbooks.press.jhu.edu/title/new-phd
 - Chap 7: the first part doesn't seem to be relevant; I also disagree that '[t]he literature that analyzes graduate student advising is scant' (p. 225; this is a heavily researched area in Education, albeit seldom on career diversity per se); the rest of the chapter offers good advice--these methods inevitably add more work (and more time) for the already overworked advisors and students, and may become a 'tick-the-box' thing (p. 227) with little substance as the authors have pointed out.
 - Chap 8-10
   
-
+  
 **Lean Semesters: How Higher Education Reproduces Inequity**  
 Sekile M. Nzinga  
 2020  
@@ -634,7 +634,8 @@ Johns Hopkins UP
 https://jhupbooks.press.jhu.edu/title/lean-semesters  
   
 *Note: I haven't got the chance to read this book. A review is available here: https://doi.org/10.1177/08912432211022697.*  
-
+  
+  
 **The Academic's Handbook, 4th ed.**  
 JH Olcott & L Flores  
 2020  
@@ -643,5 +644,5 @@ https://www.dukeupress.edu/the-academics-handbook-fourth-edition
   
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
-  
+---
    
