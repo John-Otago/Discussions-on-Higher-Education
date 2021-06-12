@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 1.6.23  
-Last update: 12 June 2021
+Version: 1.6.24  
+Last update: 13 June 2021
 
 Compiled by J.W.
 
@@ -625,7 +625,11 @@ https://jhupbooks.press.jhu.edu/title/new-phd
 - Chap 3: important but the suggested approaches (e.g. workshops/courses and career counselling) are a bit cliche; internship sounds great but will add time; I doubt if a 'time neutral' approach (p. 129) really exists to prepare PhD students for diverse careers (more preparation = more time); 'without lengthening an already long time to degree' probably means students need to work longer hours within the overall timeframe to prepare for non-academic careers in addition to conducting academic research, or they need to significantly increase their productivity, or both (longer hours + increased productivity).
 - Chap 7: the first part doesn't seem to be relevant; I also disagree that '[t]he literature that analyzes graduate student advising is scant' (p. 225; this is a heavily researched area in Education, albeit seldom on career diversity per se); the rest of the chapter offers good advice--these methods inevitably add more work (and more time) for the already overworked advisors and students, and may become a 'tick-the-box' thing (p. 227) with little substance as the authors have pointed out.
 - Chap 8: good discussions on PhD students’ teaching skills; I like what they talk about on p. 250—I hope we can allow and train our PhD students to design and convene a course in addition to being TAs and guest lecturers; I don’t like the approach on p. 257 (more courses and workshops)—I do believe that the best way is learning by doing; p. 263 offers a good summary and I like to ‘open it up’ for students to take opportunities beyond their own department and university.
-- Chap 9-10:
+- Chap 9
+It’s an interesting chapter and I love the idea of a professional master degree in the humanities and humanistic social science (like the existing MFA degree in film production, in addition to MA in film studies); I do find it a bit disturbing that the authors seem to think the only value of a doctoral dissertation is for an academic career; I believe that the very process of devising, planning, carrying out, and completing a multi-year project helps with skill development that won’t be possible through a series of much smaller projects; if done right, the dissertation still offers great value in PhD training.
+- Chap 10
+Again, an interesting chapter; I like their discussion on p. 297—my take is that, if you are productive in producing scholarship, then you should also be productive in writing op-eds (quality and speed are both important in academic productivity); besides, if you are invited to write op-eds based on your research, you should be somewhat established in your field; finally, the rest of the chapter is also great, and other forms of public scholarship I can add include universal open-access publication/self-archiving, open-source software, and open data.
+- Ovearll
   
   
 **Lean Semesters: How Higher Education Reproduces Inequity**  
