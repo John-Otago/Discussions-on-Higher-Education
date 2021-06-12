@@ -640,14 +640,74 @@ https://jhupbooks.press.jhu.edu/title/lean-semesters
   
 *Note: I haven't got the chance to read this book. A review is available [here](https://doi.org/10.1177/08912432211022697).*  
   
-  
 **The Academic's Handbook, 4th ed.**  
 JH Olcott & L Flores  
 2020  
 Duke UP  
 https://www.dukeupress.edu/the-academics-handbook-fourth-edition  
   
+**A Field Guide to Grad School: Uncovering the Hidden Curriculum** (Skills for Scholars series)  
+by Jessica McCrory Calarco  
+2020  
+Princeton UP  
+https://press.princeton.edu/books/paperback/9780691201092/a-field-guide-to-grad-school
+
+**Leaving Academia: A Practical Guide** (Skills for Scholars series)  
+CL Caterine  
+2020  
+Princeton UP  
+https://press.princeton.edu/books/hardcover/9780691200200/leaving-academia  
+
+**Going Alt-Ac: A Guide to Alternative Academic Careers**  
+KE Linder et al.  
+2020  
+Stylus Publishing  
+https://styluspub.presswarehouse.com/browse/book/9781620368312/Going-Alt-Ac
+
+**Writing your journal article in twelve weeks: a guide to academic publishing success** 2nd ed.  
+Wendy Laura Belcher  
+2019  
+University of Chicago Press  
+https://press.uchicago.edu/ucp/books/book/chicago/W/bo26985005.html
+
+**The Craft of Research** 4th ed.  
+WC Booth et al.  
+2016  
+University of Chicago Press  
+https://press.uchicago.edu/ucp/books/book/chicago/C/bo23521678.html
+
+**How To Get A PhD: A Handbook for Students and Their Supervisors** 6th ed.  
+E Phillips  
+2015  
+Open UP  
+https://www.amazon.com/How-Get-Phd-Handbook-Supervisors/dp/0335264123/
+
+**The Academic Job Search Handbook** 5th ed.  
+JM Vick et al.  
+2016  
+U of Pennsylvania Press  
+https://www.upenn.edu/pennpress/book/915.html  
+
+**University Startups and Spin-Offs: Guide for Entrepreneurs in Academia**  
+M Stagars  
+2015  
+Apress  
+https://www.apress.com/gp/book/9781484206249  
+https://link.springer.com/book/10.1007/978-1-4842-0623-2
+
+**The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job**  
+K Kelsky  
+2015  
+Crown  
+https://theprofessorisin.com/buy-the-book/
+
+**Surviving Your Academic Job Hunt: Advice for Humanities PhDs** 2nd ed.  
+K Hume  
+2011  
+Palgrave  
+https://www.palgrave.com/gp/book/9780230109469
   
+   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
 ---
    
