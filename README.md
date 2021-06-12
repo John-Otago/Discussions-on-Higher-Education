@@ -633,7 +633,7 @@ Sekile M. Nzinga
 Johns Hopkins UP  
 https://jhupbooks.press.jhu.edu/title/lean-semesters  
   
-*Note: I haven't got the chance to read this book. A review can be found here: https://journals.sagepub.com/doi/full/10.1177/08912432211022697.*  
+*Note: I haven't got the chance to read this book. A review is availabe here: https://doi.org/10.1177/08912432211022697.*  
 
 **The Academic's Handbook, 4th ed.**  
 JH Olcott & L Flores  
