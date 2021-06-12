@@ -619,7 +619,7 @@ L Cassuto & R Weisbuch
 Johns Hopkins UP  
 https://jhupbooks.press.jhu.edu/title/new-phd
 
-*Note: I've read the Introduction and Chapters 1, 3, and 7-10.*
+*Note: I've read the Introduction and Chapters 1, 3, and 7-10.*  
 - Introduction: the big picture.
 - Chap 1: a very good summary of past attempts in the US since 1990.
 - Chap 3: important but the suggested approaches (e.g. workshops/courses and career counselling) are a bit cliche; internship sounds great but will add time; I doubt if a 'time neutral' approach (p. 129) really exists to prepare PhD students for diverse careers (more preparation = more time); 'without lengthening an already long time to degree' probably means students need to work longer hours within the overall timeframe to prepare for non-academic careers in addition to conducting academic research, or they need to significantly increase their productivity, or both (longer hours + increased productivity).
@@ -627,13 +627,13 @@ https://jhupbooks.press.jhu.edu/title/new-phd
 - Chap 8-10
   
 
-**Lean Semesters: How Higher Education Reproduces Inequity**
-Sekile M. Nzinga Baltimore, MD
-2020
-Johns Hopkins UP
-https://jhupbooks.press.jhu.edu/title/lean-semesters
-
-*Note: I haven't got the chance to read this book. A review can be found here: https://journals.sagepub.com/doi/full/10.1177/08912432211022697.*
+**Lean Semesters: How Higher Education Reproduces Inequity**  
+Sekile M. Nzinga  
+2020  
+Johns Hopkins UP  
+https://jhupbooks.press.jhu.edu/title/lean-semesters  
+  
+*Note: I haven't got the chance to read this book. A review can be found here: https://journals.sagepub.com/doi/full/10.1177/08912432211022697.*  
 
 **The Academic's Handbook, 4th ed.**  
 JH Olcott & L Flores  
