@@ -122,6 +122,12 @@ https://www.chronicle.com/article/8-questions-about-free-community-college/
   
   
 ## 02 The Model of Tertiary Education: Students, Academics, and Administrators  
+**Tax reform ‘the real game changer’ for research commercialisation**  
+Economist says university innovations can rejuvenate Australian productivity, but only if ‘bizarre’ tax arrangements are addressed  
+June 4, 2021  
+John Ross  
+https://www.timeshighereducation.com/news/tax-reform-real-game-changer-research-commercialisation
+
 **Our Broke Public Universities**  
 Look beyond flagships, and you’ll see that privatization has had devastating consequences for racial and social equity.  
 By Laura Hamilton and Kelly Nielsen  
@@ -459,6 +465,12 @@ https://www.chronicle.com/article/is-graduate-school-a-cult/
   
   
 ## 05 Working in Academia
+**Small fraction of professors ‘dominate contact with media’**  
+Just 10 per cent of academics account for half of all engagement with the media, according to a survey of more than 1,000 Swiss professors  
+June 5, 2021  
+David Matthews  
+https://www.timeshighereducation.com/news/small-fraction-professors-dominate-contact-media
+
 **Let’s do away with pretence that researchers work eight-hour days**  
 Major scientific breakthroughs require people to be in their labs well beyond nine to five, and we ought to acknowledge this openly, suggests Eneli Kindsiko  
 June 3, 2021  
