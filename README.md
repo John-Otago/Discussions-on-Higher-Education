@@ -17,7 +17,7 @@ The collection was first released in 2021, although I have been reading about th
 
 Putting together this collection with regular updates is time-consuming and can be physically and emotionally exhausting. I do not necessarily agree with everything collected here, and many issues facing us are highly complicated if not politically sensitive. I don't like polarisation and hope we can find a way to talk to each other for better social cohesion to address the common challenges facing us—that's the purpose of this collection for informed discussion.
 
-For graduate students (including those starting or finishing graduate schools), [04 The Academic Job Market](https://github.com/John-Otago/Discussions-on-Higher-Education#04-the-academic-job-market) would be a useful section to understand the academic market. Also consult The J.W. List: Resources & Advice for PhD Students (forthcoming). 
+For graduate students (including those starting or finishing graduate schools), [04 The Academic Job Market](https://github.com/John-Otago/Discussions-on-Higher-Education#04-the-academic-job-market) would be a useful section to understand the academic market. Also consult another list Resources & Advice for PhD Students (forthcoming). 
 
 Note that some resources are behind a paywall (your institution may have subscriptions). 
   
