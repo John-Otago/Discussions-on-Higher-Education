@@ -550,6 +550,36 @@ https://www.chronicle.com/article/why-disability-studies-scholars-are-protesting
   
    
 ## 07 International Students & International Education
+**Asia Summit: ‘penalty systems’ and ‘male allies’ address gender gap**  
+Covid has only widened gender inequalities among researchers, data show  
+June 4, 2021  
+Joyce Lau  
+https://www.timeshighereducation.com/news/asia-summit-penalty-systems-and-male-allies-address-gender-gap
+
+**Covid and geopolitical tensions ‘stem Asian brain drain’**  
+Interplay of pandemic, geopolitics and demographics generating ‘significant movement in this part of the world’  
+June 3, 2021  
+John Ross  
+https://www.timeshighereducation.com/news/covid-and-geopolitical-tensions-stem-asian-brain-drain
+
+**US-China tensions offer ‘opportunities’ for Australian universities**  
+Geopolitical rivalry, security concerns and America’s ‘roaring 20s’ optimism generate R&D prospects down under, ambassador says  
+June 3, 2021  
+John Ross  
+https://www.timeshighereducation.com/news/us-china-tensions-offer-opportunities-australian-universities
+
+**Universities ‘beacons of hope’ in ‘undiplomatic times’**  
+But academics need to navigate political tensions, even in their classrooms  
+June 2, 2021  
+Joyce Lau  
+https://www.timeshighereducation.com/news/universities-beacons-hope-undiplomatic-times
+
+**East Asia gets back to business as usual as the storm wanes**  
+Largely sheltered from the pandemic-related financial fallout that has beset higher education in Western nations, East Asian institutions are being boosted by state funds and local philanthropists and are looking to be even more competitive internationally  
+June 2, 2021  
+Joyce Lau  
+https://www.timeshighereducation.com/world-university-rankings/east-asia-gets-back-business-usual-storm-wanes
+
 **UK study visa numbers return to pre-pandemic levels**  
 Latest data from the Home Office show recovery in the number of visas granted over autumn and winter  
 May 29, 2021  
