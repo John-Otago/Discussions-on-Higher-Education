@@ -471,6 +471,11 @@ June 5, 2021
 David Matthews  
 https://www.timeshighereducation.com/news/small-fraction-professors-dominate-contact-media
 
+**Let’s talk about sex: A backlash against gender ideology is starting in universities**
+Jun 5th 2021
+*The Economist*
+https://www.economist.com/international/2021/06/05/a-backlash-against-gender-ideology-is-starting-in-universities
+
 **Let’s do away with pretence that researchers work eight-hour days**  
 Major scientific breakthroughs require people to be in their labs well beyond nine to five, and we ought to acknowledge this openly, suggests Eneli Kindsiko  
 June 3, 2021  
