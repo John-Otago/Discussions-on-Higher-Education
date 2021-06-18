@@ -459,6 +459,11 @@ https://www.chronicle.com/article/is-graduate-school-a-cult/
   
   
 ## 05 Working in Academia
+**Let’s do away with pretence that researchers work eight-hour days**  
+Major scientific breakthroughs require people to be in their labs well beyond nine to five, and we ought to acknowledge this openly, suggests Eneli Kindsiko  
+June 3, 2021  
+https://www.timeshighereducation.com/cn/blog/lets-do-away-pretence-researchers-work-eight-hour-days
+
 **Interdisciplinary questions: the academy’s most misunderstood fields**  
 Public confusion is one thing, but some subjects provoke quizzical and sometimes dismissive frowns even among colleagues from different departments. Here, nine academics set the record straight about what they do – and why it matters  
 May 27, 2021  
