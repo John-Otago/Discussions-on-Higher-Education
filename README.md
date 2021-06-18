@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
 Version: 1.6.24  
-Last update: 14 June 2021
+Last update: 18 June 2021
 
 Compiled by J.W.
 
@@ -122,6 +122,12 @@ https://www.chronicle.com/article/8-questions-about-free-community-college/
   
   
 ## 02 The Model of Tertiary Education: Students, Academics, and Administrators  
+**Our Broke Public Universities**  
+Look beyond flagships, and you’ll see that privatization has had devastating consequences for racial and social equity.  
+By Laura Hamilton and Kelly Nielsen  
+June 1, 2021  
+https://www.chronicle.com/article/our-broke-public-universities
+
 **Cameras of Merit or Engines of Inequality? College Ranking Systems and the Enrollment of Disadvantaged Students**  
 James Chu  
 *American Journal of Sociology*  
