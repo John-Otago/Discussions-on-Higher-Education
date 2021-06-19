@@ -170,35 +170,35 @@ Note that some resources are behind a paywall (your institution may have subscri
 
 **Applying For UK Jobs: A Multi-Part Story** || BY KAREN KELSKY || SEPTEMBER 29, 2017 || https://theprofessorisin.com/2017/09/29/please-sir-i-want-some-more-employment-applying-for-uk-jobs-part-i-the-lay-of-the-land/
 
-**The Shrinking Humanities Job Market** || New analysis finds the number of doctorates awarded keeps rising, even as number of job openings drops. || By Scott Jaschik  || August 28, 2017 || https://www.insidehighered.com/news/2017/08/28/more-humanities-phds-are-awarded-job-openings-are-disappearing || 
+**The Shrinking Humanities Job Market** || New analysis finds the number of doctorates awarded keeps rising, even as number of job openings drops. || By Scott Jaschik  || August 28, 2017 || https://www.insidehighered.com/news/2017/08/28/more-humanities-phds-are-awarded-job-openings-are-disappearing
 
-**I'm an academic but I took a corporate job. Should I be ashamed?** || Anonymous Academic || 20 Jan 2017 || https://www.theguardian.com/higher-education-network/2017/jan/20/im-an-academic-but-i-took-a-corporate-job-should-i-be-ashamed || 
+**I'm an academic but I took a corporate job. Should I be ashamed?** || Anonymous Academic || 20 Jan 2017 || https://www.theguardian.com/higher-education-network/2017/jan/20/im-an-academic-but-i-took-a-corporate-job-should-i-be-ashamed
 
-**RIP, William G. Bowen — and the Bowen Report, Too** || Why he predicted a faculty hiring boom and why we eagerly believed it || By Leonard Cassuto || NOVEMBER 22, 2016 || https://www.chronicle.com/article/rip-william-g-bowen-and-the-bowen-report-too/ || 
+**RIP, William G. Bowen — and the Bowen Report, Too** || Why he predicted a faculty hiring boom and why we eagerly believed it || By Leonard Cassuto || NOVEMBER 22, 2016 || https://www.chronicle.com/article/rip-william-g-bowen-and-the-bowen-report-too/
 
-**So Many Research Scientists, So Few Openings as Professors** || By Gina Kolata || July 14, 2016 || https://www.nytimes.com/2016/07/14/upshot/so-many-research-scientists-so-few-openings-as-professors.html || 
+**So Many Research Scientists, So Few Openings as Professors** || By Gina Kolata || July 14, 2016 || https://www.nytimes.com/2016/07/14/upshot/so-many-research-scientists-so-few-openings-as-professors.html
 
-**The Ever-Tightening Job Market for Ph.D.s** || Why do so many people continue to pursue doctorates? || By Laura McKenna || APRIL 22, 2016 || https://www.theatlantic.com/education/archive/2016/04/bad-job-market-phds/479205/ || 
+**The Ever-Tightening Job Market for Ph.D.s** || Why do so many people continue to pursue doctorates? || By Laura McKenna || APRIL 22, 2016 || https://www.theatlantic.com/education/archive/2016/04/bad-job-market-phds/479205/
 
-**How to build a better PhD** || There are too many PhD students for too few academic jobs — but with imagination, the problem could be solved. || Julie Gould || 02 December 2015 || https://www.nature.com/articles/528022a || 
+**How to build a better PhD** || There are too many PhD students for too few academic jobs — but with imagination, the problem could be solved. || Julie Gould || 02 December 2015 || https://www.nature.com/articles/528022a
 
-**So How Does Tenure Work in Europe?** || Published on 07/03/2015  || By Jürgen Enders || https://www.socialsciencespace.com/2015/07/so-how-does-tenure-work-in-europe/ || 
+**So How Does Tenure Work in Europe?** || Published on 07/03/2015  || By Jürgen Enders || https://www.socialsciencespace.com/2015/07/so-how-does-tenure-work-in-europe/
 
-**Is an Exodus of Ph.D.s Causing a Brain Drain in the U.S.?** || The rise of the 'passport professor' || David Wheeler || October 2, 2014 || https://newrepublic.com/article/119668/exodus-phds-causing-brain-drain-us || 
+**Is an Exodus of Ph.D.s Causing a Brain Drain in the U.S.?** || The rise of the 'passport professor' || David Wheeler || October 2, 2014 || https://newrepublic.com/article/119668/exodus-phds-causing-brain-drain-us
 
-**What Can You Do With a Humanities Ph.D., Anyway?** || The choice to leave academia does not have to mean life as a barista. || By Elizabeth Segran || APRIL 1, 2014 || https://www.theatlantic.com/business/archive/2014/03/what-can-you-do-with-a-humanities-phd-anyway/359927/ || 
+**What Can You Do With a Humanities Ph.D., Anyway?** || The choice to leave academia does not have to mean life as a barista. || By Elizabeth Segran || APRIL 1, 2014 || https://www.theatlantic.com/business/archive/2014/03/what-can-you-do-with-a-humanities-phd-anyway/359927/
 
-**How Academia Resembles a Drug Gang** || Alexandre Afonso || December 11th, 2013 || https://blogs.lse.ac.uk/impactofsocialsciences/2013/12/11/how-academia-resembles-a-drug-gang/ || 
+**How Academia Resembles a Drug Gang** || Alexandre Afonso || December 11th, 2013 || https://blogs.lse.ac.uk/impactofsocialsciences/2013/12/11/how-academia-resembles-a-drug-gang/
 
-**Reform the PhD system or close it down** || Mark Taylor || Published: 20 April 2011 || https://www.nature.com/articles/472261a || 
+**Reform the PhD system or close it down** || Mark Taylor || Published: 20 April 2011 || https://www.nature.com/articles/472261a
 
-**The Big Lie About the ‘Life of the Mind’** || By Thomas H. Benton || FEBRUARY 8, 2010 || https://www.chronicle.com/article/the-big-lie-about-the-life-of-the-mind/ || 
+**The Big Lie About the ‘Life of the Mind’** || By Thomas H. Benton || FEBRUARY 8, 2010 || https://www.chronicle.com/article/the-big-lie-about-the-life-of-the-mind/
 
-**Graduate School in the Humanities: Just Don’t Go** || By Thomas H. Benton || JANUARY 30, 2009 || https://www.chronicle.com/article/graduate-school-in-the-humanities-just-dont-go/ || 
+**Graduate School in the Humanities: Just Don’t Go** || By Thomas H. Benton || JANUARY 30, 2009 || https://www.chronicle.com/article/graduate-school-in-the-humanities-just-dont-go/
 
 **Facts about adjuncts** || *New Faculty Majority* || n.d. (data source: 2009) || https://www.newfacultymajority.info/facts-about-adjuncts/
 
-**Is Graduate School a Cult?** || By Thomas H. Benton || JUNE 28, 2004 || https://www.chronicle.com/article/is-graduate-school-a-cult/ || 
+**Is Graduate School a Cult?** || By Thomas H. Benton || JUNE 28, 2004 || https://www.chronicle.com/article/is-graduate-school-a-cult/
   
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
@@ -222,7 +222,7 @@ Note that some resources are behind a paywall (your institution may have subscri
 
 **The glut of prizes is undermining the true value of research and teaching** || Universities are now committed to ‘celebrating success’ and to treating every failure as just a stepping stone on the way to further success. Yet this, argues Joe Moran, is a betrayal of what really matters in the academy || by Joe Moran || November 26, 2020 || https://www.timeshighereducation.com/features/glut-prizes-undermining-true-value-research-and-teaching
 
-**How welcoming is academia to LGBT staff?** || By some measures, universities are wonderfully accommodating workplaces for gays and lesbians. Six academics give us their perspective || May 5, 2016   || By Contributors || https://www.timeshighereducation.com/features/how-welcoming-is-academia-to-lesbian-gay-bisexual-transgender-lgbt-staff || 
+**How welcoming is academia to LGBT staff?** || By some measures, universities are wonderfully accommodating workplaces for gays and lesbians. Six academics give us their perspective || May 5, 2016   || By Contributors || https://www.timeshighereducation.com/features/how-welcoming-is-academia-to-lesbian-gay-bisexual-transgender-lgbt-staff
 
 **Workload survival guide for academics** || Advice on how to cope with all the work and when to say no to opportunities || February 18, 2016 || *Times Higher Education* || https://www.timeshighereducation.com/features/workload-survival-guide-for-academics
 
