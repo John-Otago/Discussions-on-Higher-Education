@@ -70,6 +70,8 @@ Note that some resources are behind a paywall (your institution may have subscri
   
   
 ## 02 The Model of Tertiary Education: Students, Academics, and Administrators  
+**US faculty influence wanes during Covid, survey finds** || Ideal of shared governance suffers, though AAUP heartened by some revivals, especially at large public universities || June 9, 2021 || Paul Basken || https://www.timeshighereducation.com/news/us-faculty-influence-wanes-during-covid-survey-finds
+
 **Tax reform ‘the real game changer’ for research commercialisation** || Economist says university innovations can rejuvenate Australian productivity, but only if ‘bizarre’ tax arrangements are addressed || June 4, 2021 || John Ross || https://www.timeshighereducation.com/news/tax-reform-real-game-changer-research-commercialisation
 
 **Our Broke Public Universities** || Look beyond flagships, and you’ll see that privatization has had devastating consequences for racial and social equity. || By Laura Hamilton and Kelly Nielsen || June 1, 2021 || https://www.chronicle.com/article/our-broke-public-universities
@@ -128,6 +130,8 @@ Note that some resources are behind a paywall (your institution may have subscri
   
   
 ## 04 The Academic Job Market  
+**Three hard truths I learned before moving to a non-academic career** || Your new manager likely doesn’t have a PhD, and she’s higher on the food chain because experience is more valued than a doctorate, says Janelle Ward || June 11, 2021 || Janelle Ward || https://www.timeshighereducation.com/career/three-hard-truths-i-learned-moving-non-academic-career
+
 **Spring Enrollment’s Final Count Is In. Colleges Lost 600,000 Students.** || By Audrey Williams June || June 10, 2021 || https://www.chronicle.com/article/spring-enrollments-final-count-is-in-colleges-lost-600-000-students
 
 **Can Yale Reform Its Humanities Doctoral Programs?** || Major universities have been slow to acknowledge the collapse of the tenure-track job market. A new report from Yale changes that. || By Leonard Cassuto || May 14, 2021 || https://www.chronicle.com/article/can-yale-reform-its-humanities-doctoral-programs
@@ -206,6 +210,8 @@ Note that some resources are behind a paywall (your institution may have subscri
   
   
 ## 05 Working in Academia
+**Grade inflation tied to women in insecure teaching roles** || Gender bias in student reviews leads vulnerable females to be more lenient in their assessments, large analysis finds || June 9, 2021 || Paul Basken || https://www.timeshighereducation.com/news/grade-inflation-tied-women-insecure-teaching-roles
+
 **Small fraction of professors ‘dominate contact with media’** || Just 10 per cent of academics account for half of all engagement with the media, according to a survey of more than 1,000 Swiss professors || June 5, 2021 || David Matthews || https://www.timeshighereducation.com/news/small-fraction-professors-dominate-contact-media
 
 **Let’s talk about sex: A backlash against gender ideology is starting in universities** || Jun 5th 2021 || *The Economist* || https://www.economist.com/international/2021/06/05/a-backlash-against-gender-ideology-is-starting-in-universities
@@ -250,6 +256,8 @@ Note that some resources are behind a paywall (your institution may have subscri
   
    
 ## 07 International Students & International Education
+**After Deep Drops, International Applications Rebound, Survey Finds** || By Karin Fischer || June 10, 2021 || https://www.chronicle.com/article/after-deep-drops-international-applications-rebound-survey-finds
+
 **Asia Summit: ‘penalty systems’ and ‘male allies’ address gender gap** || Covid has only widened gender inequalities among researchers, data show || June 4, 2021 || Joyce Lau || https://www.timeshighereducation.com/news/asia-summit-penalty-systems-and-male-allies-address-gender-gap
 
 **Covid and geopolitical tensions ‘stem Asian brain drain’** || Interplay of pandemic, geopolitics and demographics generating ‘significant movement in this part of the world’ || June 3, 2021 || John Ross || https://www.timeshighereducation.com/news/covid-and-geopolitical-tensions-stem-asian-brain-drain
