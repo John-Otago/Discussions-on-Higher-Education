@@ -36,85 +36,34 @@ Note that some resources are behind a paywall (your institution may have subscri
 ---
   
 ## 01 The Role of Tertiary Education
-**It’s Time to Break Up the Ivy League Cartel** (How Meritocracy Became Trickle-Down Education)  
-Democracy requires something more than a handful of super-rich universities.  
-By Sam Haselby and Matt Stoller  
-May 28, 2021  
-https://www.chronicle.com/article/how-meritocracy-became-trickle-down-education
+**It’s Time to Break Up the Ivy League Cartel** (How Meritocracy Became Trickle-Down Education) || Democracy requires something more than a handful of super-rich universities. || By Sam Haselby and Matt Stoller || May 28, 2021 || https://www.chronicle.com/article/how-meritocracy-became-trickle-down-education
 
-**Academic Freedom Is on the Ropes**  
-The attacks are coming from both the right and the left.  
-By Alexander C. Kafka  
-May 27, 2021  
-https://www.chronicle.com/article/academic-freedom-is-on-the-ropes
+**Academic Freedom Is on the Ropes** || The attacks are coming from both the right and the left. || By Alexander C. Kafka || May 27, 2021 || https://www.chronicle.com/article/academic-freedom-is-on-the-ropes
 
-**Rage or engage?**  
-It may feel as if the media is out to get universities. But a positive, pragmatic relationship is possible – and vital to public trust  
-May 27, 2021  
-John Gill  
-https://www.timeshighereducation.com/opinion/rage-or-engage
+**Rage or engage?** || It may feel as if the media is out to get universities. But a positive, pragmatic relationship is possible – and vital to public trust || May 27, 2021 || John Gill || https://www.timeshighereducation.com/opinion/rage-or-engage
 
-**Morton Schapiro: campuses must address their own fundamentalism**  
-Book sets out to challenge the simplistic and divisive thinking to be found in disciplines as diverse as economics and literary studies  
-April 23, 2021  
-Matthew Reisz  
-https://www.timeshighereducation.com/news/morton-schapiro-campuses-must-address-their-own-fundamentalism
+**Morton Schapiro: campuses must address their own fundamentalism** || Book sets out to challenge the simplistic and divisive thinking to be found in disciplines as diverse as economics and literary studies || April 23, 2021 || Matthew Reisz || https://www.timeshighereducation.com/news/morton-schapiro-campuses-must-address-their-own-fundamentalism
 
-**Show societal worth of research ‘to preserve academic freedom’**  
-Conference hears argument that freedoms are ‘better achieved’ by maintaining public support for universities  
-April 22, 2021  
-Simon Baker  
-https://www.timeshighereducation.com/news/show-societal-worth-research-topreserve-academic-freedom
+**Show societal worth of research ‘to preserve academic freedom’** || Conference hears argument that freedoms are ‘better achieved’ by maintaining public support for universities || April 22, 2021 || Simon Baker || https://www.timeshighereducation.com/news/show-societal-worth-research-topreserve-academic-freedom
 
-**No, American Academe Is Not Corrupting France**  
-The French government’s moral panic about U.S. theory is a racist ruse.  
-By Antoine Traisnel  
-APRIL 1, 2021  
-https://www.chronicle.com/article/no-american-academe-is-not-corrupting-france
+**No, American Academe Is Not Corrupting France** || The French government’s moral panic about U.S. theory is a racist ruse. || By Antoine Traisnel || APRIL 1, 2021 || https://www.chronicle.com/article/no-american-academe-is-not-corrupting-france
 
-**David Willetts: ‘I find the concept of over-education repellent’**  
-Graduate employment outcomes are obviously crucial. Yet we must be wary of judging courses and institutions on the basis of a few useful but misleading metrics, argues the UK’s former universities minister  
-March 18, 2021  
-David Willetts  
-https://www.timeshighereducation.com/features/david-willetts-i-find-concept-over-education-repellent
+**David Willetts: ‘I find the concept of over-education repellent’** || Graduate employment outcomes are obviously crucial. Yet we must be wary of judging courses and institutions on the basis of a few useful but misleading metrics, argues the UK’s former universities minister || March 18, 2021 || David Willetts || https://www.timeshighereducation.com/features/david-willetts-i-find-concept-over-education-repellent
 
-**Why Did a University Suspend Its Mandatory Diversity Course?**  
-By Nell Gluckman  
-MARCH 18, 2021  
-https://www.chronicle.com/article/why-did-a-university-suspend-its-mandatory-diversity-course
+**Why Did a University Suspend Its Mandatory Diversity Course?** || By Nell Gluckman || MARCH 18, 2021 || https://www.chronicle.com/article/why-did-a-university-suspend-its-mandatory-diversity-course
 
-**Social sciences’ lack of common truth criteria invites political attack**  
-Worries about Islamo-leftism in France and free speech in England reflect disciplines’ straddling of science and activism, says Alexis Artaud de La Ferrière  
-March 5, 2021  
-Alexis Artaud de La Ferrière  
-https://www.timeshighereducation.com/blog/social-sciences-lack-common-truth-criteria-invites-political-attack
+**Social sciences’ lack of common truth criteria invites political attack** || Worries about Islamo-leftism in France and free speech in England reflect disciplines’ straddling of science and activism, says Alexis Artaud de La Ferrière || March 5, 2021 || Alexis Artaud de La Ferrière || https://www.timeshighereducation.com/blog/social-sciences-lack-common-truth-criteria-invites-political-attack
 
-**Redirecting the disadvantaged into FE will further stunt UK social mobility**  
-by Chris Cunningham and Colin Samson, timeshighereducation.com  
-July 29, 2020  
-https://www.timeshighereducation.com/blog/redirecting-disadvantaged-fe-will-further-stunt-uk-social-mobility
+**Redirecting the disadvantaged into FE will further stunt UK social mobility** || by Chris Cunningham and Colin Samson, timeshighereducation.com || July 29, 2020 || https://www.timeshighereducation.com/blog/redirecting-disadvantaged-fe-will-further-stunt-uk-social-mobility
 
-**Are young universities more focused on civic engagement?**  
-by John Ross  
-June 24, 2020  
-https://www.timeshighereducation.com/world-university-rankings/are-young-universities-more-focused-civic-engagement
+**Are young universities more focused on civic engagement?** || by John Ross || June 24, 2020 || https://www.timeshighereducation.com/world-university-rankings/are-young-universities-more-focused-civic-engagement
 
-**How can we save the Mooc?**  
-As most universities digitise all their teaching, they are finding it very difficult to deliver education online. Gorgi Krlev offers three challenges to conventional wisdom  
-June 4, 2020  
-Gorgi Krlev  
-https://www.timeshighereducation.com/opinion/how-can-we-save-mooc
+**How can we save the Mooc?** || As most universities digitise all their teaching, they are finding it very difficult to deliver education online. Gorgi Krlev offers three challenges to conventional wisdom || June 4, 2020 || Gorgi Krlev || https://www.timeshighereducation.com/opinion/how-can-we-save-mooc
 
-**New Report On The Harmful Effects Of Degree Inflation**  
-Oct 31, 2017  
-Grads of Life  
-https://www.forbes.com/sites/gradsoflife/2017/10/31/new-report-on-the-harmful-effects-of-degree-inflation/
+**New Report On The Harmful Effects Of Degree Inflation** || Oct 31, 2017 || Grads of Life || https://www.forbes.com/sites/gradsoflife/2017/10/31/new-report-on-the-harmful-effects-of-degree-inflation/
 
-**8 Questions About ‘Free’ Community College**  
-Is it just a gimmick? And if so, what is the goal?  
-By Rob Jenkins  
-OCTOBER 17, 2016  
-https://www.chronicle.com/article/8-questions-about-free-community-college/
+**8 Questions About ‘Free’ Community College** || Is it just a gimmick? And if so, what is the goal? || By Rob Jenkins || OCTOBER 17, 2016 || https://www.chronicle.com/article/8-questions-about-free-community-college/
+
   
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
@@ -266,6 +215,11 @@ https://www.timeshighereducation.com/news/more-universities-planning-drop-lectur
   
   
 ## 04 The Academic Job Market  
+**Spring Enrollment’s Final Count Is In. Colleges Lost 600,000 Students.** ||
+By Audrey Williams June ||
+June 10, 2021 ||
+https://www.chronicle.com/article/spring-enrollments-final-count-is-in-colleges-lost-600-000-students
+
 **Can Yale Reform Its Humanities Doctoral Programs?**  
 Major universities have been slow to acknowledge the collapse of the tenure-track job market. A new report from Yale changes that.  
 By Leonard Cassuto  
