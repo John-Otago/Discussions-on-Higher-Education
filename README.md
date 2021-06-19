@@ -302,9 +302,7 @@ Note that some resources are behind a paywall (your institution may have subscri
 Overall, it’s a nice book on an important and perhaps urgent topic, although it’s a long read (lots of details) and many time-deprived academics may not have time to read it. Also, the chapters I’ve seen missed international students who are doing PhD in the US and their unique challenges; on a relevant note, the collapse of the academic job market is a problem facing many countries, while the book has missed international perspectives. Last, ‘career diversity’ only seems to mean ‘getting a job’, overlooking student-entrepreneurs who want to start their own business/startup or non-profit.
   
   
-**Lean Semesters: How Higher Education Reproduces Inequity** || Sekile M. Nzinga || 2020 || Johns Hopkins UP || https://jhupbooks.press.jhu.edu/title/lean-semesters  
-  
-*Note: I haven't got the chance to read this book. A review is available [here](https://doi.org/10.1177/08912432211022697).*  
+**Lean Semesters: How Higher Education Reproduces Inequity** || Sekile M. Nzinga || 2020 || Johns Hopkins UP || https://jhupbooks.press.jhu.edu/title/lean-semesters || *Note: I haven't got the chance to read this book. A review is available [here](https://doi.org/10.1177/08912432211022697).*  
   
 **The Academic's Handbook, 4th ed.** || JH Olcott & L Flores || 2020 || Duke UP || https://www.dukeupress.edu/the-academics-handbook-fourth-edition ||  || **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (Skills for Scholars series) || by Jessica McCrory Calarco || 2020 || Princeton UP || https://press.princeton.edu/books/paperback/9780691201092/a-field-guide-to-grad-school
 
