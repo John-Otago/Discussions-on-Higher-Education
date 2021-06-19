@@ -104,55 +104,23 @@ Note that some resources are behind a paywall (your institution may have subscri
   
   
 ## 03 Transforming Education: Teaching & Teaching Innovation  
-**Innovative learning environments are key to unlocking Africa’s potential**  
-Collaborative, technically enhanced experiential learning will prepare the continent’s vast young population for the digital future, says Laura Kakon  
-May 16, 2021  
-Laura Kakon  
-https://www.timeshighereducation.com/blog/innovative-learning-environments-are-key-unlocking-africas-potential
+**Innovative learning environments are key to unlocking Africa’s potential** || Collaborative, technically enhanced experiential learning will prepare the continent’s vast young population for the digital future, says Laura Kakon || May 16, 2021 || Laura Kakon || https://www.timeshighereducation.com/blog/innovative-learning-environments-are-key-unlocking-africas-potential
 
-**US college’s student inventors gaining national attention**  
-Service for local companies grabs spotlight as potential aid to competitiveness  
-May 7, 2021  
-Paul Basken  
-https://www.timeshighereducation.com/news/us-colleges-student-inventors-gaining-national-attention
+**US college’s student inventors gaining national attention** || Service for local companies grabs spotlight as potential aid to competitiveness || May 7, 2021 || Paul Basken || https://www.timeshighereducation.com/news/us-colleges-student-inventors-gaining-national-attention
 
-**HKUST plans a different kind of university in mainland China**  
-New campus to be set up with industry-friendly ‘hubs’, not faculties   
-May 7, 2021  
-Joyce Lau  
-https://www.timeshighereducation.com/news/hkust-plans-different-kind-university-mainland-china
+**HKUST plans a different kind of university in mainland China** || New campus to be set up with industry-friendly ‘hubs’, not faculties  || May 7, 2021 || Joyce Lau || https://www.timeshighereducation.com/news/hkust-plans-different-kind-university-mainland-china
 
-**Should We Stop Grading Class Participation?**  
-James M. Lang  
-April 9, 2021  
-https://www.chronicle.com/article/should-we-stop-grading-class-participation
+**Should We Stop Grading Class Participation?** || James M. Lang || April 9, 2021 || https://www.chronicle.com/article/should-we-stop-grading-class-participation
 
-**Liberal arts education must embrace employability**  
-April 2, 2021  
-Nancy Gleason  
-https://trello.com/c/WPYUaBnA/32-liberal-arts-education-must-embrace-employability
+**Liberal arts education must embrace employability** || April 2, 2021 || Nancy Gleason || https://trello.com/c/WPYUaBnA/32-liberal-arts-education-must-embrace-employability
 
-**Many science courses ‘fail to improve critical thinking’**  
-Major study finds major differences in academic development across China, India, Russia and the US  
-March 1, 2021  
-Simon Baker  
-https://www.timeshighereducation.com/news/many-science-courses-fail-improve-critical-thinking
+**Many science courses ‘fail to improve critical thinking’** || Major study finds major differences in academic development across China, India, Russia and the US || March 1, 2021 || Simon Baker || https://www.timeshighereducation.com/news/many-science-courses-fail-improve-critical-thinking
 
-**In the age of Google, why are we still so focused on testing facts?**  
-New assessment strategies are required to promote the types of learning needed in the 21st century, says Danny Oppenheimer  
-March 25, 2021  
-Danny Oppenheimer  
-https://www.timeshighereducation.com/opinion/age-google-why-are-we-still-so-focused-testing-facts
+**In the age of Google, why are we still so focused on testing facts?** || New assessment strategies are required to promote the types of learning needed in the 21st century, says Danny Oppenheimer || March 25, 2021 || Danny Oppenheimer || https://www.timeshighereducation.com/opinion/age-google-why-are-we-still-so-focused-testing-facts
 
-**Lectures on the way out in Australia and New Zealand, says survey**  
-January 31, 2021  
-John Ross  
-https://www.timeshighereducation.com/news/lectures-way-out-australia-and-new-zealand-says-survey
+**Lectures on the way out in Australia and New Zealand, says survey** || January 31, 2021 || John Ross || https://www.timeshighereducation.com/news/lectures-way-out-australia-and-new-zealand-says-survey
 
-**More universities planning to drop lectures after pandemic**  
-January 7, 2021  
-John Ross & Anna McKie  
-https://www.timeshighereducation.com/news/more-universities-planning-drop-lectures-after-pandemic
+**More universities planning to drop lectures after pandemic** || January 7, 2021 || John Ross & Anna McKie || https://www.timeshighereducation.com/news/more-universities-planning-drop-lectures-after-pandemic
   
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
@@ -160,203 +128,77 @@ https://www.timeshighereducation.com/news/more-universities-planning-drop-lectur
   
   
 ## 04 The Academic Job Market  
-**Spring Enrollment’s Final Count Is In. Colleges Lost 600,000 Students.** ||
-By Audrey Williams June ||
-June 10, 2021 ||
-https://www.chronicle.com/article/spring-enrollments-final-count-is-in-colleges-lost-600-000-students
+**Spring Enrollment’s Final Count Is In. Colleges Lost 600,000 Students.** || By Audrey Williams June || June 10, 2021 || https://www.chronicle.com/article/spring-enrollments-final-count-is-in-colleges-lost-600-000-students
 
-**Can Yale Reform Its Humanities Doctoral Programs?**  
-Major universities have been slow to acknowledge the collapse of the tenure-track job market. A new report from Yale changes that.  
-By Leonard Cassuto  
-May 14, 2021  
-https://www.chronicle.com/article/can-yale-reform-its-humanities-doctoral-programs
+**Can Yale Reform Its Humanities Doctoral Programs?** || Major universities have been slow to acknowledge the collapse of the tenure-track job market. A new report from Yale changes that. || By Leonard Cassuto || May 14, 2021 || https://www.chronicle.com/article/can-yale-reform-its-humanities-doctoral-programs
 
-**Here’s Who Was Hit Hardest by Higher Ed’s Pandemic-Driven Job Losses** (570,000+ job losses in American academe)  
-By Dan Bauman  
-April 19, 2021  
-https://www.chronicle.com/article/heres-who-was-hit-hardest-by-higher-eds-pandemic-driven-job-losses
+**Here’s Who Was Hit Hardest by Higher Ed’s Pandemic-Driven Job Losses** (570,000+ job losses in American academe) || By Dan Bauman || April 19, 2021 || https://www.chronicle.com/article/heres-who-was-hit-hardest-by-higher-eds-pandemic-driven-job-losses
 
-**Non-Academic Careers for PhD Holders**  
-*Find A PhD*  
-Last updated - 08/04/2021  
-https://www.findaphd.com/advice/doing/phd-non-academic-careers.aspx
+**Non-Academic Careers for PhD Holders** || *Find A PhD* || Last updated - 08/04/2021 || https://www.findaphd.com/advice/doing/phd-non-academic-careers.aspx
 
-**Tenure’s Broken Promise**  
-It’s scarce, unevenly distributed, and limiting scholars’ careers.  
-By Scott Carlson  
-March 11, 2021   
-https://www.chronicle.com/article/tenures-broken-promise
+**Tenure’s Broken Promise** || It’s scarce, unevenly distributed, and limiting scholars’ careers. || By Scott Carlson || March 11, 2021  || https://www.chronicle.com/article/tenures-broken-promise
 
-**(New Zealand) Seven hundred university jobs lost due to lack of international students**  
-1 March 2021  
-John Gerritsen (Radio New Zealand)  
-https://www.rnz.co.nz/news/national/437379/international-student-downturn-costs-700-university-jobs  
-[repost] https://www.newshub.co.nz/home/new-zealand/2021/03/seven-hundred-university-jobs-lost-due-to-lack-of-international-students.html
+**(New Zealand) Seven hundred university jobs lost due to lack of international students** || 1 March 2021 || John Gerritsen (Radio New Zealand) || https://www.rnz.co.nz/news/national/437379/international-student-downturn-costs-700-university-jobs || [repost] https://www.newshub.co.nz/home/new-zealand/2021/03/seven-hundred-university-jobs-lost-due-to-lack-of-international-students.html
 
-**Plus C’est La Même Chose**  
-The new reality for humanities Ph.D.s is a transformation, not a crisis of the moment, and we should recognize that, writes Frederick A. Winter.  
-By Frederick A. Winter  
-February 9, 2021  
-https://www.insidehighered.com/advice/2021/02/09/new-reality-humanities-phds-transformation-not-crisis-moment-opinion
+**Plus C’est La Même Chose** || The new reality for humanities Ph.D.s is a transformation, not a crisis of the moment, and we should recognize that, writes Frederick A. Winter. || By Frederick A. Winter || February 9, 2021 || https://www.insidehighered.com/advice/2021/02/09/new-reality-humanities-phds-transformation-not-crisis-moment-opinion
 
-**Early career academics ‘victims of their own brains’**  
-Aspirants are convinced they can succeed against the odds because they have always succeeded in the past, analysis of ‘quit lit’ suggests  
-by John Ross  
-July 21, 2020  
-https://www.timeshighereducation.com/news/early-career-academics-victims-their-own-brains
+**Early career academics ‘victims of their own brains’** || Aspirants are convinced they can succeed against the odds because they have always succeeded in the past, analysis of ‘quit lit’ suggests || by John Ross || July 21, 2020 || https://www.timeshighereducation.com/news/early-career-academics-victims-their-own-brains
 
-**The dual PhD problem of today’s startups**  
-Danny Crichton  
-July 20, 2020  
-*Tech Crunch*  
-https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/
+**The dual PhD problem of today’s startups** || Danny Crichton || July 20, 2020 || *Tech Crunch* || https://techcrunch.com/2020/07/19/the-dual-phd-problem-of-todays-startups/
 
-**UK PhD students’ academic career hopes out of step with job market**  
-Most doctoral candidates show ‘clear preference’ for academic career despite high exit levels from sector, finds Higher Education Policy Institute study  
-by Jack Grove  
-July 16, 2020  
-https://www.timeshighereducation.com/news/uk-phd-students-academic-career-hopes-out-step-job-market
+**UK PhD students’ academic career hopes out of step with job market** || Most doctoral candidates show ‘clear preference’ for academic career despite high exit levels from sector, finds Higher Education Policy Institute study || by Jack Grove || July 16, 2020 || https://www.timeshighereducation.com/news/uk-phd-students-academic-career-hopes-out-step-job-market
 
-**Lean times at the London Business School**  
-Jun 25th 2020  
-*The Economist*  
-https://www.economist.com/britain/2020/06/25/lean-times-at-the-london-business-school
+**Lean times at the London Business School** || Jun 25th 2020 || *The Economist* || https://www.economist.com/britain/2020/06/25/lean-times-at-the-london-business-school
 
-**You Can’t Kill It With Kindness**  
-Basic decency and treating people better isn’t going to get at the core issues of what makes job hunting so demoralizing and damaging for most recent Ph.D. graduates, Zeb Larson contends.  
-By Zeb Larson  
-June 23, 2020  
-https://www.insidehighered.com/advice/2020/06/23/kindness-wont-resolve-core-issues-what-makes-job-hunting-phds-so-demoralizing-and
+**You Can’t Kill It With Kindness** || Basic decency and treating people better isn’t going to get at the core issues of what makes job hunting so demoralizing and damaging for most recent Ph.D. graduates, Zeb Larson contends. || By Zeb Larson || June 23, 2020 || https://www.insidehighered.com/advice/2020/06/23/kindness-wont-resolve-core-issues-what-makes-job-hunting-phds-so-demoralizing-and
 
-**More than 17,000 jobs lost at Australian universities during Covid pandemic**  
-Further cuts are likely this year as the border remains closed to international students, Universities Australia says  
-Naaman Zhou  
-Tue 2 Feb 2021  
-https://www.theguardian.com/australia-news/2021/feb/03/more-than-17000-jobs-lost-at-australian-universities-during-covid-pandemic
+**More than 17,000 jobs lost at Australian universities during Covid pandemic** || Further cuts are likely this year as the border remains closed to international students, Universities Australia says || Naaman Zhou || Tue 2 Feb 2021 || https://www.theguardian.com/australia-news/2021/feb/03/more-than-17000-jobs-lost-at-australian-universities-during-covid-pandemic
 
-**PhDs: the tortuous truth**  
-*Nature*’s survey of more than 6,000 graduate students reveals the turbulent nature of doctoral research.  
-13 November 2019  
-Chris Woolston  
-https://www.nature.com/articles/d41586-019-03459-7
+**PhDs: the tortuous truth** || *Nature*’s survey of more than 6,000 graduate students reveals the turbulent nature of doctoral research. || 13 November 2019 || Chris Woolston || https://www.nature.com/articles/d41586-019-03459-7
 
-**The Grant Ran Out, the Job Ended — Go Ahead and Grieve**  
-By Emily Ruth Mace  
-MAY 10, 2019  
-https://www.chronicle.com/article/the-grant-ran-out-the-job-ended-go-ahead-and-grieve/
+**The Grant Ran Out, the Job Ended — Go Ahead and Grieve** || By Emily Ruth Mace || MAY 10, 2019 || https://www.chronicle.com/article/the-grant-ran-out-the-job-ended-go-ahead-and-grieve/
 
-**The academic job market is a nightmare. Here’s one way to fix it.**  
-By Colin Dickey  
-April 15, 2019  
-https://www.washingtonpost.com/outlook/2019/04/15/job-market-academics-is-nightmare-heres-one-way-fix-it/
+**The academic job market is a nightmare. Here’s one way to fix it.** || By Colin Dickey || April 15, 2019 || https://www.washingtonpost.com/outlook/2019/04/15/job-market-academics-is-nightmare-heres-one-way-fix-it/
 
-**More on the Career Paths of PhDs in English and Other Modern Languages**  
-(MLA + AHA suverys on Humanities PhD Career Outcome in the US)  
-by David Laurence  
-August 28, 2018   
-https://mlaresearch.mla.hcommons.org/2018/08/28/more-on-the-career-paths-of-phds-in-english-and-other-modern-languages/
+**More on the Career Paths of PhDs in English and Other Modern Languages** || (MLA + AHA suverys on Humanities PhD Career Outcome in the US) || by David Laurence || August 28, 2018  || https://mlaresearch.mla.hcommons.org/2018/08/28/more-on-the-career-paths-of-phds-in-english-and-other-modern-languages/
 
-**No, the World Doesn’t Need More Humanities PhDs**  
-AUG 10, 2018  
-Rob Jenkins  
-https://www.jamesgmartin.center/2018/08/no-the-world-doesnt-need-more-humanities-phds/
+**No, the World Doesn’t Need More Humanities PhDs** || AUG 10, 2018 || Rob Jenkins || https://www.jamesgmartin.center/2018/08/no-the-world-doesnt-need-more-humanities-phds/
 
-**Four things to know before starting your European academic job hunt**  
-Postdoc Boukje Cnossen shares some tips to navigate the subtle cultural differences between European countries that can loom large when you’re looking for a job  
-May 22, 2018  
-Boukje Cnossen  
-https://www.timeshighereducation.com/blog/four-things-know-starting-your-european-academic-job-hunt
+**Four things to know before starting your European academic job hunt** || Postdoc Boukje Cnossen shares some tips to navigate the subtle cultural differences between European countries that can loom large when you’re looking for a job || May 22, 2018 || Boukje Cnossen || https://www.timeshighereducation.com/blog/four-things-know-starting-your-european-academic-job-hunt
 
-**The Sky Is Falling**  
-By Eric Hayot  
-May 2018  
-https://profession.mla.org/the-sky-is-falling/
+**The Sky Is Falling** || By Eric Hayot || May 2018 || https://profession.mla.org/the-sky-is-falling/
 
-**Applying For UK Jobs: A Multi-Part Story**  
-BY KAREN KELSKY  
-SEPTEMBER 29, 2017  
-https://theprofessorisin.com/2017/09/29/please-sir-i-want-some-more-employment-applying-for-uk-jobs-part-i-the-lay-of-the-land/
+**Applying For UK Jobs: A Multi-Part Story** || BY KAREN KELSKY || SEPTEMBER 29, 2017 || https://theprofessorisin.com/2017/09/29/please-sir-i-want-some-more-employment-applying-for-uk-jobs-part-i-the-lay-of-the-land/
 
-**The Shrinking Humanities Job Market**  
-New analysis finds the number of doctorates awarded keeps rising, even as number of job openings drops.  
-By Scott Jaschik   
-August 28, 2017  
-https://www.insidehighered.com/news/2017/08/28/more-humanities-phds-are-awarded-job-openings-are-disappearing  
-  
-**I'm an academic but I took a corporate job. Should I be ashamed?**  
-Anonymous Academic  
-20 Jan 2017  
-https://www.theguardian.com/higher-education-network/2017/jan/20/im-an-academic-but-i-took-a-corporate-job-should-i-be-ashamed  
-  
-**RIP, William G. Bowen — and the Bowen Report, Too**  
-Why he predicted a faculty hiring boom and why we eagerly believed it  
-By Leonard Cassuto  
-NOVEMBER 22, 2016  
-https://www.chronicle.com/article/rip-william-g-bowen-and-the-bowen-report-too/  
-  
-**So Many Research Scientists, So Few Openings as Professors**  
-By Gina Kolata  
-July 14, 2016  
-https://www.nytimes.com/2016/07/14/upshot/so-many-research-scientists-so-few-openings-as-professors.html  
-  
-**The Ever-Tightening Job Market for Ph.D.s**  
-Why do so many people continue to pursue doctorates?  
-By Laura McKenna  
-APRIL 22, 2016  
-https://www.theatlantic.com/education/archive/2016/04/bad-job-market-phds/479205/  
-  
-**How to build a better PhD**  
-There are too many PhD students for too few academic jobs — but with imagination, the problem could be solved.  
-Julie Gould  
-02 December 2015  
-https://www.nature.com/articles/528022a  
-  
-**So How Does Tenure Work in Europe?**  
-Published on 07/03/2015   
-By Jürgen Enders  
-https://www.socialsciencespace.com/2015/07/so-how-does-tenure-work-in-europe/  
-  
-**Is an Exodus of Ph.D.s Causing a Brain Drain in the U.S.?**  
-The rise of the 'passport professor'  
-David Wheeler  
-October 2, 2014  
-https://newrepublic.com/article/119668/exodus-phds-causing-brain-drain-us  
-  
-**What Can You Do With a Humanities Ph.D., Anyway?**  
-The choice to leave academia does not have to mean life as a barista.  
-By Elizabeth Segran  
-APRIL 1, 2014  
-https://www.theatlantic.com/business/archive/2014/03/what-can-you-do-with-a-humanities-phd-anyway/359927/  
-  
-**How Academia Resembles a Drug Gang**  
-Alexandre Afonso  
-December 11th, 2013  
-https://blogs.lse.ac.uk/impactofsocialsciences/2013/12/11/how-academia-resembles-a-drug-gang/  
-  
-**Reform the PhD system or close it down**  
-Mark Taylor  
-Published: 20 April 2011  
-https://www.nature.com/articles/472261a  
-  
-**The Big Lie About the ‘Life of the Mind’**  
-By Thomas H. Benton  
-FEBRUARY 8, 2010  
-https://www.chronicle.com/article/the-big-lie-about-the-life-of-the-mind/  
-  
-**Graduate School in the Humanities: Just Don’t Go**  
-By Thomas H. Benton  
-JANUARY 30, 2009  
-https://www.chronicle.com/article/graduate-school-in-the-humanities-just-dont-go/  
+**The Shrinking Humanities Job Market** || New analysis finds the number of doctorates awarded keeps rising, even as number of job openings drops. || By Scott Jaschik  || August 28, 2017 || https://www.insidehighered.com/news/2017/08/28/more-humanities-phds-are-awarded-job-openings-are-disappearing || 
 
-**Facts about adjuncts**  
-*New Faculty Majority*  
-n.d. (data source: 2009)  
-https://www.newfacultymajority.info/facts-about-adjuncts/
+**I'm an academic but I took a corporate job. Should I be ashamed?** || Anonymous Academic || 20 Jan 2017 || https://www.theguardian.com/higher-education-network/2017/jan/20/im-an-academic-but-i-took-a-corporate-job-should-i-be-ashamed || 
 
-**Is Graduate School a Cult?**  
-By Thomas H. Benton  
-JUNE 28, 2004  
-https://www.chronicle.com/article/is-graduate-school-a-cult/  
+**RIP, William G. Bowen — and the Bowen Report, Too** || Why he predicted a faculty hiring boom and why we eagerly believed it || By Leonard Cassuto || NOVEMBER 22, 2016 || https://www.chronicle.com/article/rip-william-g-bowen-and-the-bowen-report-too/ || 
+
+**So Many Research Scientists, So Few Openings as Professors** || By Gina Kolata || July 14, 2016 || https://www.nytimes.com/2016/07/14/upshot/so-many-research-scientists-so-few-openings-as-professors.html || 
+
+**The Ever-Tightening Job Market for Ph.D.s** || Why do so many people continue to pursue doctorates? || By Laura McKenna || APRIL 22, 2016 || https://www.theatlantic.com/education/archive/2016/04/bad-job-market-phds/479205/ || 
+
+**How to build a better PhD** || There are too many PhD students for too few academic jobs — but with imagination, the problem could be solved. || Julie Gould || 02 December 2015 || https://www.nature.com/articles/528022a || 
+
+**So How Does Tenure Work in Europe?** || Published on 07/03/2015  || By Jürgen Enders || https://www.socialsciencespace.com/2015/07/so-how-does-tenure-work-in-europe/ || 
+
+**Is an Exodus of Ph.D.s Causing a Brain Drain in the U.S.?** || The rise of the 'passport professor' || David Wheeler || October 2, 2014 || https://newrepublic.com/article/119668/exodus-phds-causing-brain-drain-us || 
+
+**What Can You Do With a Humanities Ph.D., Anyway?** || The choice to leave academia does not have to mean life as a barista. || By Elizabeth Segran || APRIL 1, 2014 || https://www.theatlantic.com/business/archive/2014/03/what-can-you-do-with-a-humanities-phd-anyway/359927/ || 
+
+**How Academia Resembles a Drug Gang** || Alexandre Afonso || December 11th, 2013 || https://blogs.lse.ac.uk/impactofsocialsciences/2013/12/11/how-academia-resembles-a-drug-gang/ || 
+
+**Reform the PhD system or close it down** || Mark Taylor || Published: 20 April 2011 || https://www.nature.com/articles/472261a || 
+
+**The Big Lie About the ‘Life of the Mind’** || By Thomas H. Benton || FEBRUARY 8, 2010 || https://www.chronicle.com/article/the-big-lie-about-the-life-of-the-mind/ || 
+
+**Graduate School in the Humanities: Just Don’t Go** || By Thomas H. Benton || JANUARY 30, 2009 || https://www.chronicle.com/article/graduate-school-in-the-humanities-just-dont-go/ || 
+
+**Facts about adjuncts** || *New Faculty Majority* || n.d. (data source: 2009) || https://www.newfacultymajority.info/facts-about-adjuncts/
+
+**Is Graduate School a Cult?** || By Thomas H. Benton || JUNE 28, 2004 || https://www.chronicle.com/article/is-graduate-school-a-cult/ || 
   
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
