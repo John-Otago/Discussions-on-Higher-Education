@@ -206,65 +206,25 @@ Note that some resources are behind a paywall (your institution may have subscri
   
   
 ## 05 Working in Academia
-**Small fraction of professors ‘dominate contact with media’**  
-Just 10 per cent of academics account for half of all engagement with the media, according to a survey of more than 1,000 Swiss professors  
-June 5, 2021  
-David Matthews  
-https://www.timeshighereducation.com/news/small-fraction-professors-dominate-contact-media
+**Small fraction of professors ‘dominate contact with media’** || Just 10 per cent of academics account for half of all engagement with the media, according to a survey of more than 1,000 Swiss professors || June 5, 2021 || David Matthews || https://www.timeshighereducation.com/news/small-fraction-professors-dominate-contact-media
 
-**Let’s talk about sex: A backlash against gender ideology is starting in universities**
-Jun 5th 2021
-*The Economist*
-https://www.economist.com/international/2021/06/05/a-backlash-against-gender-ideology-is-starting-in-universities
+**Let’s talk about sex: A backlash against gender ideology is starting in universities** || Jun 5th 2021 || *The Economist* || https://www.economist.com/international/2021/06/05/a-backlash-against-gender-ideology-is-starting-in-universities
 
-**Let’s do away with pretence that researchers work eight-hour days**  
-Major scientific breakthroughs require people to be in their labs well beyond nine to five, and we ought to acknowledge this openly, suggests Eneli Kindsiko  
-June 3, 2021  
-https://www.timeshighereducation.com/cn/blog/lets-do-away-pretence-researchers-work-eight-hour-days
+**Let’s do away with pretence that researchers work eight-hour days** || Major scientific breakthroughs require people to be in their labs well beyond nine to five, and we ought to acknowledge this openly, suggests Eneli Kindsiko || June 3, 2021 || https://www.timeshighereducation.com/cn/blog/lets-do-away-pretence-researchers-work-eight-hour-days
 
-**Interdisciplinary questions: the academy’s most misunderstood fields**  
-Public confusion is one thing, but some subjects provoke quizzical and sometimes dismissive frowns even among colleagues from different departments. Here, nine academics set the record straight about what they do – and why it matters  
-May 27, 2021  
-Kim Cornish, Andrew Dawson, Josh Hiller , Andrew Penland, Cynthia B. Meyers, Kate Cantrell, David Norman, Alpesh Maisuria Ann Bradshaw  
-https://www.timeshighereducation.com/features/interdisciplinary-questions-academys-most-misunderstood-fields
+**Interdisciplinary questions: the academy’s most misunderstood fields** || Public confusion is one thing, but some subjects provoke quizzical and sometimes dismissive frowns even among colleagues from different departments. Here, nine academics set the record straight about what they do – and why it matters || May 27, 2021 || Kim Cornish, Andrew Dawson, Josh Hiller , Andrew Penland, Cynthia B. Meyers, Kate Cantrell, David Norman, Alpesh Maisuria Ann Bradshaw || https://www.timeshighereducation.com/features/interdisciplinary-questions-academys-most-misunderstood-fields
 
-**‘Trailblazing’ research agendas linked to academic mobility**  
-Scholars who stay at one university tend to take ‘safer’ and ‘less ambitious’ paths  
-May 23, 2021  
-Joyce Lau  
-https://www.timeshighereducation.com/news/trailblazing-research-agendas-linked-academic-mobility
+**‘Trailblazing’ research agendas linked to academic mobility** || Scholars who stay at one university tend to take ‘safer’ and ‘less ambitious’ paths || May 23, 2021 || Joyce Lau || https://www.timeshighereducation.com/news/trailblazing-research-agendas-linked-academic-mobility
 
-**What Ph.D.s Can Learn About Talking With Reporters**  
-A survey of academics shows they are wary of dealing with the news media but see it as a way to advance professionally.  
-By Rick Weiss  
-May 19, 2021  
-https://www.chronicle.com/article/what-ph-d-s-can-learn-about-talking-with-reporters
+**What Ph.D.s Can Learn About Talking With Reporters** || A survey of academics shows they are wary of dealing with the news media but see it as a way to advance professionally. || By Rick Weiss || May 19, 2021 || https://www.chronicle.com/article/what-ph-d-s-can-learn-about-talking-with-reporters
 
-**Why the United States has the best research universities**  
-Miguel Urquiola discusses the history of higher education in America and why it surpassed Europe.  
-By Tyler Smith  
-April 14, 2021  
-https://www.aeaweb.org/research/research-universities-incentives-resources-virtuous-circles-us  
-Full research paper: https://www.aeaweb.org/articles?id=10.1257/jep.35.1.185
+**Why the United States has the best research universities** || Miguel Urquiola discusses the history of higher education in America and why it surpassed Europe. || By Tyler Smith || April 14, 2021 || https://www.aeaweb.org/research/research-universities-incentives-resources-virtuous-circles-us || Full research paper: https://www.aeaweb.org/articles?id=10.1257/jep.35.1.185
 
-**The glut of prizes is undermining the true value of research and teaching**  
-Universities are now committed to ‘celebrating success’ and to treating every failure as just a stepping stone on the way to further success. Yet this, argues Joe Moran, is a betrayal of what really matters in the academy  
-by Joe Moran  
-November 26, 2020  
-https://www.timeshighereducation.com/features/glut-prizes-undermining-true-value-research-and-teaching
+**The glut of prizes is undermining the true value of research and teaching** || Universities are now committed to ‘celebrating success’ and to treating every failure as just a stepping stone on the way to further success. Yet this, argues Joe Moran, is a betrayal of what really matters in the academy || by Joe Moran || November 26, 2020 || https://www.timeshighereducation.com/features/glut-prizes-undermining-true-value-research-and-teaching
 
-**How welcoming is academia to LGBT staff?**  
-By some measures, universities are wonderfully accommodating workplaces for gays and lesbians. Six academics give us their perspective  
-May 5, 2016    
-By Contributors  
-https://www.timeshighereducation.com/features/how-welcoming-is-academia-to-lesbian-gay-bisexual-transgender-lgbt-staff  
+**How welcoming is academia to LGBT staff?** || By some measures, universities are wonderfully accommodating workplaces for gays and lesbians. Six academics give us their perspective || May 5, 2016   || By Contributors || https://www.timeshighereducation.com/features/how-welcoming-is-academia-to-lesbian-gay-bisexual-transgender-lgbt-staff || 
 
-**Workload survival guide for academics**  
-Advice on how to cope with all the work and when to say no to opportunities  
-February 18, 2016  
-*Times Higher Education*  
-https://www.timeshighereducation.com/features/workload-survival-guide-for-academics  
-
+**Workload survival guide for academics** || Advice on how to cope with all the work and when to say no to opportunities || February 18, 2016 || *Times Higher Education* || https://www.timeshighereducation.com/features/workload-survival-guide-for-academics || 
 
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
@@ -272,40 +232,17 @@ https://www.timeshighereducation.com/features/workload-survival-guide-for-academ
   
   
 ## 06 Research and Publication
-**Academics must become more engaged in the open access struggle**  
-Wide support for cOAlition S’ rights retention strategy would allow negotiators to take a harder line with publishers, says Alice Gibson  
-May 30, 2021  
-Alice Gibson  
-https://www.timeshighereducation.com/blog/academics-must-become-more-engaged-open-access-struggle
+**Academics must become more engaged in the open access struggle** || Wide support for cOAlition S’ rights retention strategy would allow negotiators to take a harder line with publishers, says Alice Gibson || May 30, 2021 || Alice Gibson || https://www.timeshighereducation.com/blog/academics-must-become-more-engaged-open-access-struggle
 
-**Million-dollar wait over for Australian researchers**  
-No explanation for delay that kept 15 academics on tenterhooks for months  
-May 28, 2021  
-John Ross  
-https://www.timeshighereducation.com/news/million-dollar-wait-over-australian-researchers
+**Million-dollar wait over for Australian researchers** || No explanation for delay that kept 15 academics on tenterhooks for months || May 28, 2021 || John Ross || https://www.timeshighereducation.com/news/million-dollar-wait-over-australian-researchers
 
-**Reliance on journal rankings is undermining academic integrity**  
-Careers can depend on publishing in higher-quartile journals, but the statistics are too easily gamed, says Jakša Cvitanić  
-May 21, 2021  
-Jaksa Cvitanic  
-https://www.timeshighereducation.com/blog/reliance-journal-rankings-undermining-academic-integrity
+**Reliance on journal rankings is undermining academic integrity** || Careers can depend on publishing in higher-quartile journals, but the statistics are too easily gamed, says Jakša Cvitanić || May 21, 2021 || Jaksa Cvitanic || https://www.timeshighereducation.com/blog/reliance-journal-rankings-undermining-academic-integrity
 
-**Studies that fail to replicate ‘get more citations’**  
-Articles in leading journals that can be reproduced gain 16 fewer citations a year on average, say Californian economists  
-May 21, 2021  
-Jack Grove  
-https://www.timeshighereducation.com/science/studies-fail-replicate-get-more-citations
+**Studies that fail to replicate ‘get more citations’** || Articles in leading journals that can be reproduced gain 16 fewer citations a year on average, say Californian economists || May 21, 2021 || Jack Grove || https://www.timeshighereducation.com/science/studies-fail-replicate-get-more-citations
 
-**Research grant veto powers need guidance, Australian scholars say**  
-Researchers press for ministerial code of conduct amid fears that latest political intervention may never be resolved  
-May 20, 2021  
-John Ross  
-https://www.timeshighereducation.com/news/research-grant-veto-powers-need-guidance-australian-scholars-say
+**Research grant veto powers need guidance, Australian scholars say** || Researchers press for ministerial code of conduct amid fears that latest political intervention may never be resolved || May 20, 2021 || John Ross || https://www.timeshighereducation.com/news/research-grant-veto-powers-need-guidance-australian-scholars-say
 
-**Why Disability Studies Scholars Are Protesting a Prominent Textbook**  
-By Nell Gluckman  
-APRIL 13, 2021  
-https://www.chronicle.com/article/why-disability-studies-scholars-are-protesting-a-prominent-textbook
+**Why Disability Studies Scholars Are Protesting a Prominent Textbook** || By Nell Gluckman || APRIL 13, 2021 || https://www.chronicle.com/article/why-disability-studies-scholars-are-protesting-a-prominent-textbook 
   
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
@@ -313,111 +250,46 @@ https://www.chronicle.com/article/why-disability-studies-scholars-are-protesting
   
    
 ## 07 International Students & International Education
-**Asia Summit: ‘penalty systems’ and ‘male allies’ address gender gap**  
-Covid has only widened gender inequalities among researchers, data show  
-June 4, 2021  
-Joyce Lau  
-https://www.timeshighereducation.com/news/asia-summit-penalty-systems-and-male-allies-address-gender-gap
+**Asia Summit: ‘penalty systems’ and ‘male allies’ address gender gap** || Covid has only widened gender inequalities among researchers, data show || June 4, 2021 || Joyce Lau || https://www.timeshighereducation.com/news/asia-summit-penalty-systems-and-male-allies-address-gender-gap
 
-**Covid and geopolitical tensions ‘stem Asian brain drain’**  
-Interplay of pandemic, geopolitics and demographics generating ‘significant movement in this part of the world’  
-June 3, 2021  
-John Ross  
-https://www.timeshighereducation.com/news/covid-and-geopolitical-tensions-stem-asian-brain-drain
+**Covid and geopolitical tensions ‘stem Asian brain drain’** || Interplay of pandemic, geopolitics and demographics generating ‘significant movement in this part of the world’ || June 3, 2021 || John Ross || https://www.timeshighereducation.com/news/covid-and-geopolitical-tensions-stem-asian-brain-drain
 
-**US-China tensions offer ‘opportunities’ for Australian universities**  
-Geopolitical rivalry, security concerns and America’s ‘roaring 20s’ optimism generate R&D prospects down under, ambassador says  
-June 3, 2021  
-John Ross  
-https://www.timeshighereducation.com/news/us-china-tensions-offer-opportunities-australian-universities
+**US-China tensions offer ‘opportunities’ for Australian universities** || Geopolitical rivalry, security concerns and America’s ‘roaring 20s’ optimism generate R&D prospects down under, ambassador says || June 3, 2021 || John Ross || https://www.timeshighereducation.com/news/us-china-tensions-offer-opportunities-australian-universities
 
-**Universities ‘beacons of hope’ in ‘undiplomatic times’**  
-But academics need to navigate political tensions, even in their classrooms  
-June 2, 2021  
-Joyce Lau  
-https://www.timeshighereducation.com/news/universities-beacons-hope-undiplomatic-times
+**Universities ‘beacons of hope’ in ‘undiplomatic times’** || But academics need to navigate political tensions, even in their classrooms || June 2, 2021 || Joyce Lau || https://www.timeshighereducation.com/news/universities-beacons-hope-undiplomatic-times
 
-**East Asia gets back to business as usual as the storm wanes**  
-Largely sheltered from the pandemic-related financial fallout that has beset higher education in Western nations, East Asian institutions are being boosted by state funds and local philanthropists and are looking to be even more competitive internationally  
-June 2, 2021  
-Joyce Lau  
-https://www.timeshighereducation.com/world-university-rankings/east-asia-gets-back-business-usual-storm-wanes
+**East Asia gets back to business as usual as the storm wanes** || Largely sheltered from the pandemic-related financial fallout that has beset higher education in Western nations, East Asian institutions are being boosted by state funds and local philanthropists and are looking to be even more competitive internationally || June 2, 2021 || Joyce Lau || https://www.timeshighereducation.com/world-university-rankings/east-asia-gets-back-business-usual-storm-wanes
 
-**UK study visa numbers return to pre-pandemic levels**  
-Latest data from the Home Office show recovery in the number of visas granted over autumn and winter  
-May 29, 2021  
-Simon Baker  
-https://www.timeshighereducation.com/news/uk-study-visa-numbers-return-pre-pandemic-levels
+**UK study visa numbers return to pre-pandemic levels** || Latest data from the Home Office show recovery in the number of visas granted over autumn and winter || May 29, 2021 || Simon Baker || https://www.timeshighereducation.com/news/uk-study-visa-numbers-return-pre-pandemic-levels
 
-**Education in China is becoming increasingly unfair to the poor**  
-The hukou system of household registration exacerbates a huge divide  
-May 29th 2021  
-*The Economist*  
-https://www.economist.com/china/2021/05/27/education-in-china-is-becoming-increasingly-unfair-to-the-poor
+**Education in China is becoming increasingly unfair to the poor** || The hukou system of household registration exacerbates a huge divide || May 29th 2021 || *The Economist* || https://www.economist.com/china/2021/05/27/education-in-china-is-becoming-increasingly-unfair-to-the-poor
 
-**Rigid system pushes Chinese students to unscrupulous agents**  
-Thousands of families are on a ‘high risk’ path to overseas education  
-May 21, 2021  
-Joyce Lau  
-https://www.timeshighereducation.com/news/rigid-system-pushes-chinese-students-unscrupulous-agents
+**Rigid system pushes Chinese students to unscrupulous agents** || Thousands of families are on a ‘high risk’ path to overseas education || May 21, 2021 || Joyce Lau || https://www.timeshighereducation.com/news/rigid-system-pushes-chinese-students-unscrupulous-agents
 
-**Recruitment agents ‘closing Australia desks’ in China**  
-Resurgent student flows set to bypass Australia and New Zealand as education agents in most regions usher clients to more welcoming countries  
-May 18, 2021  
-John Ross  
-https://www.timeshighereducation.com/news/recruitment-agents-closing-australia-desks-china
+**Recruitment agents ‘closing Australia desks’ in China** || Resurgent student flows set to bypass Australia and New Zealand as education agents in most regions usher clients to more welcoming countries || May 18, 2021 || John Ross || https://www.timeshighereducation.com/news/recruitment-agents-closing-australia-desks-china
 
-**Lost ground on international recruitment ‘may never be made up’**  
-Covid is compounding other major shifts in international flows to leave a permanent realignment, experts suggest  
-May 13, 2021  
-Simon Baker  
-https://www.timeshighereducation.com/news/lost-ground-international-recruitment-may-never-be-made  
-  
-**How high can China fly?**  
-The country’s universities have shot up global rankings on the back of huge investment and a ruthless focus on publication. But as the country gears up for its next five-year plan, Joyce Lau asks whether stratospheric ambitions for a ‘Chinese Harvard’ can be met  
-January 7, 2021  
-Joyce Lau  
-https://www.timeshighereducation.com/features/how-high-can-china-fly  
-  
-**Covid-19 will not dent Chinese demand for international education**  
-Coronavirus will not stop China’s growing and ambitious middle class from seeking a Western university education for their children, says Sabrina Wang  
-October 31, 2020  
-Sabrina Wang  
-https://www.timeshighereducation.com/blog/covid-19-will-not-dent-chinese-demand-international-education  
-  
-**Coping with the rational chaos of Chinese higher education**  
-Chinese universities now operate on a confusing ‘mixture of Chinese and Western institutional logics’. An anonymous scholar describes the practical and emotional challenges of dealing with constant uncertainty  
-September 17, 2020  
-Anonymous  
-https://www.timeshighereducation.com/features/coping-rational-chaos-chinese-higher-educationChina’s   
-  
-**China’s Double-First Class programme should open to regional universities**  
-by Li Qingquan  
-July 21, 2020  
-https://www.timeshighereducation.com/blog/chinas-double-first-class-programme-should-open-regional-universities  
-  
-**Which nations will weather the storm on international recruitment?**  
-by Paul Basken  
-June 18, 2020  
-https://www.timeshighereducation.com/news/which-nations-will-weather-storm-international-recruitment  
-  
-**Asian higher education at the demographic cliff edge**  
-by Joyce Lau  
-June 3, 2020  
-https://www.timeshighereducation.com/world-university-rankings/asian-higher-education-atthe-demographic-cliff-edge    
+**Lost ground on international recruitment ‘may never be made up’** || Covid is compounding other major shifts in international flows to leave a permanent realignment, experts suggest || May 13, 2021 || Simon Baker || https://www.timeshighereducation.com/news/lost-ground-international-recruitment-may-never-be-made
+
+**How high can China fly?** || The country’s universities have shot up global rankings on the back of huge investment and a ruthless focus on publication. But as the country gears up for its next five-year plan, Joyce Lau asks whether stratospheric ambitions for a ‘Chinese Harvard’ can be met || January 7, 2021 || Joyce Lau || https://www.timeshighereducation.com/features/how-high-can-china-fly
+
+**Covid-19 will not dent Chinese demand for international education** || Coronavirus will not stop China’s growing and ambitious middle class from seeking a Western university education for their children, says Sabrina Wang || October 31, 2020 || Sabrina Wang || https://www.timeshighereducation.com/blog/covid-19-will-not-dent-chinese-demand-international-education
+
+**Coping with the rational chaos of Chinese higher education** || Chinese universities now operate on a confusing ‘mixture of Chinese and Western institutional logics’. An anonymous scholar describes the practical and emotional challenges of dealing with constant uncertainty || September 17, 2020 || Anonymous || https://www.timeshighereducation.com/features/coping-rational-chaos-chinese-higher-educationChina’s
+
+**China’s Double-First Class programme should open to regional universities** || by Li Qingquan || July 21, 2020 || https://www.timeshighereducation.com/blog/chinas-double-first-class-programme-should-open-regional-universities
+
+**Which nations will weather the storm on international recruitment?** || by Paul Basken || June 18, 2020 || https://www.timeshighereducation.com/news/which-nations-will-weather-storm-international-recruitment
+
+**Asian higher education at the demographic cliff edge** || by Joyce Lau || June 3, 2020 || https://www.timeshighereducation.com/world-university-rankings/asian-higher-education-atthe-demographic-cliff-edge
   
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
 ---
-
+  
     
 ## 08 Relevant Books
-**The New PhD: How to Build a Better Graduate Education**  
-L Cassuto & R Weisbuch  
-2021  
-Johns Hopkins UP  
-https://jhupbooks.press.jhu.edu/title/new-phd
-
+**The New PhD: How to Build a Better Graduate Education** || L Cassuto & R Weisbuch || 2021 || Johns Hopkins UP || https://jhupbooks.press.jhu.edu/title/new-phd  
+  
 *Note: I've read the Introduction and Chapters 1, 3, and 7-10.*  
 - Introduction: the big picture.
 - Chap 1: a very good summary of past attempts in the US since 1990.
@@ -430,81 +302,28 @@ https://jhupbooks.press.jhu.edu/title/new-phd
 Overall, it’s a nice book on an important and perhaps urgent topic, although it’s a long read (lots of details) and many time-deprived academics may not have time to read it. Also, the chapters I’ve seen missed international students who are doing PhD in the US and their unique challenges; on a relevant note, the collapse of the academic job market is a problem facing many countries, while the book has missed international perspectives. Last, ‘career diversity’ only seems to mean ‘getting a job’, overlooking student-entrepreneurs who want to start their own business/startup or non-profit.
   
   
-  
-**Lean Semesters: How Higher Education Reproduces Inequity**  
-Sekile M. Nzinga  
-2020  
-Johns Hopkins UP  
-https://jhupbooks.press.jhu.edu/title/lean-semesters  
+**Lean Semesters: How Higher Education Reproduces Inequity** || Sekile M. Nzinga || 2020 || Johns Hopkins UP || https://jhupbooks.press.jhu.edu/title/lean-semesters  
   
 *Note: I haven't got the chance to read this book. A review is available [here](https://doi.org/10.1177/08912432211022697).*  
   
-**The Academic's Handbook, 4th ed.**  
-JH Olcott & L Flores  
-2020  
-Duke UP  
-https://www.dukeupress.edu/the-academics-handbook-fourth-edition  
-  
-**A Field Guide to Grad School: Uncovering the Hidden Curriculum** (Skills for Scholars series)  
-by Jessica McCrory Calarco  
-2020  
-Princeton UP  
-https://press.princeton.edu/books/paperback/9780691201092/a-field-guide-to-grad-school
+**The Academic's Handbook, 4th ed.** || JH Olcott & L Flores || 2020 || Duke UP || https://www.dukeupress.edu/the-academics-handbook-fourth-edition ||  || **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (Skills for Scholars series) || by Jessica McCrory Calarco || 2020 || Princeton UP || https://press.princeton.edu/books/paperback/9780691201092/a-field-guide-to-grad-school
 
-**Leaving Academia: A Practical Guide** (Skills for Scholars series)  
-CL Caterine  
-2020  
-Princeton UP  
-https://press.princeton.edu/books/hardcover/9780691200200/leaving-academia  
+**Leaving Academia: A Practical Guide** (Skills for Scholars series) || CL Caterine || 2020 || Princeton UP || https://press.princeton.edu/books/hardcover/9780691200200/leaving-academia || 
+**Going Alt-Ac: A Guide to Alternative Academic Careers** || KE Linder et al. || 2020 || Stylus Publishing || https://styluspub.presswarehouse.com/browse/book/9781620368312/Going-Alt-Ac
 
-**Going Alt-Ac: A Guide to Alternative Academic Careers**  
-KE Linder et al.  
-2020  
-Stylus Publishing  
-https://styluspub.presswarehouse.com/browse/book/9781620368312/Going-Alt-Ac
+**Writing your journal article in twelve weeks: a guide to academic publishing success** 2nd ed. || Wendy Laura Belcher || 2019 || University of Chicago Press || https://press.uchicago.edu/ucp/books/book/chicago/W/bo26985005.html
 
-**Writing your journal article in twelve weeks: a guide to academic publishing success** 2nd ed.  
-Wendy Laura Belcher  
-2019  
-University of Chicago Press  
-https://press.uchicago.edu/ucp/books/book/chicago/W/bo26985005.html
+**The Craft of Research** 4th ed. || WC Booth et al. || 2016 || University of Chicago Press || https://press.uchicago.edu/ucp/books/book/chicago/C/bo23521678.html
 
-**The Craft of Research** 4th ed.  
-WC Booth et al.  
-2016  
-University of Chicago Press  
-https://press.uchicago.edu/ucp/books/book/chicago/C/bo23521678.html
+**How To Get A PhD: A Handbook for Students and Their Supervisors** 6th ed. || E Phillips || 2015 || Open UP || https://www.amazon.com/How-Get-Phd-Handbook-Supervisors/dp/0335264123/
 
-**How To Get A PhD: A Handbook for Students and Their Supervisors** 6th ed.  
-E Phillips  
-2015  
-Open UP  
-https://www.amazon.com/How-Get-Phd-Handbook-Supervisors/dp/0335264123/
+**The Academic Job Search Handbook** 5th ed. || JM Vick et al. || 2016 || U of Pennsylvania Press || https://www.upenn.edu/pennpress/book/915.html
 
-**The Academic Job Search Handbook** 5th ed.  
-JM Vick et al.  
-2016  
-U of Pennsylvania Press  
-https://www.upenn.edu/pennpress/book/915.html  
+**University Startups and Spin-Offs: Guide for Entrepreneurs in Academia** || M Stagars || 2015 || Apress || https://www.apress.com/gp/book/9781484206249 || https://link.springer.com/book/10.1007/978-1-4842-0623-2
 
-**University Startups and Spin-Offs: Guide for Entrepreneurs in Academia**  
-M Stagars  
-2015  
-Apress  
-https://www.apress.com/gp/book/9781484206249  
-https://link.springer.com/book/10.1007/978-1-4842-0623-2
+**The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job** || K Kelsky || 2015 || Crown || https://theprofessorisin.com/buy-the-book/
 
-**The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job**  
-K Kelsky  
-2015  
-Crown  
-https://theprofessorisin.com/buy-the-book/
-
-**Surviving Your Academic Job Hunt: Advice for Humanities PhDs** 2nd ed.  
-K Hume  
-2011  
-Palgrave  
-https://www.palgrave.com/gp/book/9780230109469
+**Surviving Your Academic Job Hunt: Advice for Humanities PhDs** 2nd ed. || K Hume || 2011 || Palgrave || https://www.palgrave.com/gp/book/9780230109469
   
    
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
