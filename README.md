@@ -63,7 +63,6 @@ Note that some resources are behind a paywall (your institution may have subscri
 **New Report On The Harmful Effects Of Degree Inflation** || Oct 31, 2017 || Grads of Life || https://www.forbes.com/sites/gradsoflife/2017/10/31/new-report-on-the-harmful-effects-of-degree-inflation/
 
 **8 Questions About ‘Free’ Community College** || Is it just a gimmick? And if so, what is the goal? || By Rob Jenkins || OCTOBER 17, 2016 || https://www.chronicle.com/article/8-questions-about-free-community-college/
-
   
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
@@ -71,87 +70,33 @@ Note that some resources are behind a paywall (your institution may have subscri
   
   
 ## 02 The Model of Tertiary Education: Students, Academics, and Administrators  
-**Tax reform ‘the real game changer’ for research commercialisation**  
-Economist says university innovations can rejuvenate Australian productivity, but only if ‘bizarre’ tax arrangements are addressed  
-June 4, 2021  
-John Ross  
-https://www.timeshighereducation.com/news/tax-reform-real-game-changer-research-commercialisation
+**Tax reform ‘the real game changer’ for research commercialisation** || Economist says university innovations can rejuvenate Australian productivity, but only if ‘bizarre’ tax arrangements are addressed || June 4, 2021 || John Ross || https://www.timeshighereducation.com/news/tax-reform-real-game-changer-research-commercialisation
 
-**Our Broke Public Universities**  
-Look beyond flagships, and you’ll see that privatization has had devastating consequences for racial and social equity.  
-By Laura Hamilton and Kelly Nielsen  
-June 1, 2021  
-https://www.chronicle.com/article/our-broke-public-universities
+**Our Broke Public Universities** || Look beyond flagships, and you’ll see that privatization has had devastating consequences for racial and social equity. || By Laura Hamilton and Kelly Nielsen || June 1, 2021 || https://www.chronicle.com/article/our-broke-public-universities
 
-**Cameras of Merit or Engines of Inequality? College Ranking Systems and the Enrollment of Disadvantaged Students**  
-James Chu  
-*American Journal of Sociology*  
-Volume 126, Number 6, May 2021  
-https://www.journals.uchicago.edu/doi/full/10.1086/714916
+**Cameras of Merit or Engines of Inequality? College Ranking Systems and the Enrollment of Disadvantaged Students** || James Chu || *American Journal of Sociology* || Volume 126, Number 6, May 2021 || https://www.journals.uchicago.edu/doi/full/10.1086/714916
 
-**A $250 Million Fund Steers HBCU Endowments Into Venture Capital**  
-The Advancement Initiative aims to help less prosperous schools bridge the wealth gap through investments in late-stage startups.  
-By Lizette Chapman and Janet Lorin  
-May 27, 2021  
-https://www.bloomberg.com/news/articles/2021-05-27/advancement-initiative-wants-to-steer-hbcu-endowments-into-venture-capital
+**A $250 Million Fund Steers HBCU Endowments Into Venture Capital** || The Advancement Initiative aims to help less prosperous schools bridge the wealth gap through investments in late-stage startups. || By Lizette Chapman and Janet Lorin || May 27, 2021 || https://www.bloomberg.com/news/articles/2021-05-27/advancement-initiative-wants-to-steer-hbcu-endowments-into-venture-capital
 
-**Limited relief for universities in New Zealand budget**  
-Underwhelming increases in teaching subsidies and student benefits, while research misses out  
-May 20, 2021  
-John Ross  
-https://www.timeshighereducation.com/news/limited-relief-universities-newzealand-budget
+**Limited relief for universities in New Zealand budget** || Underwhelming increases in teaching subsidies and student benefits, while research misses out || May 20, 2021 || John Ross || https://www.timeshighereducation.com/news/limited-relief-universities-newzealand-budget
 
-**David Swensen, an influential investor, died on May 5th**  
-At Yale, Mr Swensen perfected the modern endowment model  
-May 15th 2021  
-*The Economist*  
-https://www.economist.com/finance-and-economics/2021/05/15/david-swensen-an-influential-investor-died-on-may-5th
+**David Swensen, an influential investor, died on May 5th** || At Yale, Mr Swensen perfected the modern endowment model || May 15th 2021 || *The Economist* || https://www.economist.com/finance-and-economics/2021/05/15/david-swensen-an-influential-investor-died-on-may-5th
 
-**Arizona State’s Success Story: Model or Mirage?**  
-Michael Crow champions his campus as a new ideal. But does much of it simply boil down to cost control?  
-By Steven Brint  
-May 14, 2021  
-https://www.chronicle.com/article/arizona-states-success-story-model-or-mirage
+**Arizona State’s Success Story: Model or Mirage?** || Michael Crow champions his campus as a new ideal. But does much of it simply boil down to cost control? || By Steven Brint || May 14, 2021 || https://www.chronicle.com/article/arizona-states-success-story-model-or-mirage
 
-**How Students Are Furthering Academe’s Corporatization**  
-By insisting on bureaucratic solutions to diversity problems, they are empowering administrations at the expense of the faculty.  
-By Amna Khalid  
-May 4, 2021  
-https://www.chronicle.com/article/how-students-are-furthering-academes-corporatization
+**How Students Are Furthering Academe’s Corporatization** || By insisting on bureaucratic solutions to diversity problems, they are empowering administrations at the expense of the faculty. || By Amna Khalid || May 4, 2021 || https://www.chronicle.com/article/how-students-are-furthering-academes-corporatization
 
-**A Yale Law Prof Was Disciplined for Holding Dinner Parties. There’s More to the Story.**  
-By Tom Bartlett  
-APRIL 22, 2021  
-https://www.chronicle.com/article/a-yale-law-prof-was-disciplined-for-holding-dinner-parties-theres-more-to-the-story
+**A Yale Law Prof Was Disciplined for Holding Dinner Parties. There’s More to the Story.** || By Tom Bartlett || APRIL 22, 2021 || https://www.chronicle.com/article/a-yale-law-prof-was-disciplined-for-holding-dinner-parties-theres-more-to-the-story
 
-**Only academics can run universities effectively**  
-The tired stereotype of the unworldly scholar has often been used to justify giving excessive influence over university management to businesspeople and administrators. There is ample evidence that this is a recipe for disaster, argues Terence Kealey  
-January 21, 2021  
-Terence Kealey  
-https://www.timeshighereducation.com/features/only-academics-can-run-universities-effectively
+**Only academics can run universities effectively** || The tired stereotype of the unworldly scholar has often been used to justify giving excessive influence over university management to businesspeople and administrators. There is ample evidence that this is a recipe for disaster, argues Terence Kealey || January 21, 2021 || Terence Kealey || https://www.timeshighereducation.com/features/only-academics-can-run-universities-effectively
 
-**Can Germany’s renowned vocational education system be exported?**  
-English ministers advised to start looking at key features like partnership with employers rather than using German system as ‘trademark’  
-August 19, 2020  
-John Morgan  
-https://www.timeshighereducation.com/news/can-germanys-renowned-vocational-education-system-be-exported
+**Can Germany’s renowned vocational education system be exported?** || English ministers advised to start looking at key features like partnership with employers rather than using German system as ‘trademark’ || August 19, 2020 || John Morgan || https://www.timeshighereducation.com/news/can-germanys-renowned-vocational-education-system-be-exported
 
-**Pandemic crisis touted as time to finally embrace older students**  
-by Paul Basken  
-July 24, 2020   
-https://www.timeshighereducation.com/news/pandemic-crisis-touted-time-finally-embrace-older-students
+**Pandemic crisis touted as time to finally embrace older students** || by Paul Basken || July 24, 2020  || https://www.timeshighereducation.com/news/pandemic-crisis-touted-time-finally-embrace-older-students
 
-**Identity politics is undermining university administration**  
-Professionals must be able to connect with students from different backgrounds, but obsessing about inter-group differences doesn't help, says an anonymous academic.  
-by Joseph Guarneri  
-June  3, 2020   
-https://www.timeshighereducation.com/blog/identity-politics-undermining-university-administration
+**Identity politics is undermining university administration** || Professionals must be able to connect with students from different backgrounds, but obsessing about inter-group differences doesn't help, says an anonymous academic. || by Joseph Guarneri || June  3, 2020  || https://www.timeshighereducation.com/blog/identity-politics-undermining-university-administration
 
-**Is this the crisis higher education needs to have?**  
-The Covid-19 pandemic offers universities a once-in-a-generation opportunity to put their dysfunctional strategies behind them, argue Timothy Devinney and Grahame Dowling  
-May 14, 2020  
-Timothy Devinney & Grahame Dowling  
-https://www.timeshighereducation.com/features/crisis-higher-education-needs-have
+**Is this the crisis higher education needs to have?** || The Covid-19 pandemic offers universities a once-in-a-generation opportunity to put their dysfunctional strategies behind them, argue Timothy Devinney and Grahame Dowling || May 14, 2020 || Timothy Devinney & Grahame Dowling || https://www.timeshighereducation.com/features/crisis-higher-education-needs-have
   
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
