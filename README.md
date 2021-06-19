@@ -224,7 +224,7 @@ Note that some resources are behind a paywall (your institution may have subscri
 
 **How welcoming is academia to LGBT staff?** || By some measures, universities are wonderfully accommodating workplaces for gays and lesbians. Six academics give us their perspective || May 5, 2016   || By Contributors || https://www.timeshighereducation.com/features/how-welcoming-is-academia-to-lesbian-gay-bisexual-transgender-lgbt-staff || 
 
-**Workload survival guide for academics** || Advice on how to cope with all the work and when to say no to opportunities || February 18, 2016 || *Times Higher Education* || https://www.timeshighereducation.com/features/workload-survival-guide-for-academics || 
+**Workload survival guide for academics** || Advice on how to cope with all the work and when to say no to opportunities || February 18, 2016 || *Times Higher Education* || https://www.timeshighereducation.com/features/workload-survival-guide-for-academics
 
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
@@ -304,9 +304,12 @@ Overall, it’s a nice book on an important and perhaps urgent topic, although i
   
 **Lean Semesters: How Higher Education Reproduces Inequity** || Sekile M. Nzinga || 2020 || Johns Hopkins UP || https://jhupbooks.press.jhu.edu/title/lean-semesters || *Note: I haven't got the chance to read this book. A review is available [here](https://doi.org/10.1177/08912432211022697).*  
   
-**The Academic's Handbook, 4th ed.** || JH Olcott & L Flores || 2020 || Duke UP || https://www.dukeupress.edu/the-academics-handbook-fourth-edition ||  || **A Field Guide to Grad School: Uncovering the Hidden Curriculum** (Skills for Scholars series) || by Jessica McCrory Calarco || 2020 || Princeton UP || https://press.princeton.edu/books/paperback/9780691201092/a-field-guide-to-grad-school
+**The Academic's Handbook, 4th ed.** || JH Olcott & L Flores || 2020 || Duke UP || https://www.dukeupress.edu/the-academics-handbook-fourth-edition 
 
-**Leaving Academia: A Practical Guide** (Skills for Scholars series) || CL Caterine || 2020 || Princeton UP || https://press.princeton.edu/books/hardcover/9780691200200/leaving-academia || 
+**A Field Guide to Grad School: Uncovering the Hidden Curriculum** (Skills for Scholars series) || by Jessica McCrory Calarco || 2020 || Princeton UP || https://press.princeton.edu/books/paperback/9780691201092/a-field-guide-to-grad-school
+
+**Leaving Academia: A Practical Guide** (Skills for Scholars series) || CL Caterine || 2020 || Princeton UP || https://press.princeton.edu/books/hardcover/9780691200200/leaving-academia
+
 **Going Alt-Ac: A Guide to Alternative Academic Careers** || KE Linder et al. || 2020 || Stylus Publishing || https://styluspub.presswarehouse.com/browse/book/9781620368312/Going-Alt-Ac
 
 **Writing your journal article in twelve weeks: a guide to academic publishing success** 2nd ed. || Wendy Laura Belcher || 2019 || University of Chicago Press || https://press.uchicago.edu/ucp/books/book/chicago/W/bo26985005.html
