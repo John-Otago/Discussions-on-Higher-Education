@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 1.6.24  
-Last update: 19 June 2021
+Version: 1.6.25  
+Last update: 20 June 2021
 
 Compiled by J.W.
 
