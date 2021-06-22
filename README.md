@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
 Version: 1.6.25  
-Last update: 20 June 2021
+Last update: 22 June 2021
 
 Compiled by J.W.
 
@@ -210,6 +210,8 @@ Note that some resources are behind a paywall (your institution may have subscri
   
   
 ## 05 Working in Academia
+**Your Most Important Resource Is Eyeing the Door** || What colleges and universities need now is compassion, but not for the reasons you might think. || By Sarah Rose Cavanagh || June 16, 2021 || https://www.chronicle.com/article/your-most-important-resource-is-eyeing-the-door
+
 **Grade inflation tied to women in insecure teaching roles** || Gender bias in student reviews leads vulnerable females to be more lenient in their assessments, large analysis finds || June 9, 2021 || Paul Basken || https://www.timeshighereducation.com/news/grade-inflation-tied-women-insecure-teaching-roles
 
 **Small fraction of professors ‘dominate contact with media’** || Just 10 per cent of academics account for half of all engagement with the media, according to a survey of more than 1,000 Swiss professors || June 5, 2021 || David Matthews || https://www.timeshighereducation.com/news/small-fraction-professors-dominate-contact-media
@@ -225,6 +227,8 @@ Note that some resources are behind a paywall (your institution may have subscri
 **What Ph.D.s Can Learn About Talking With Reporters** || A survey of academics shows they are wary of dealing with the news media but see it as a way to advance professionally. || By Rick Weiss || May 19, 2021 || https://www.chronicle.com/article/what-ph-d-s-can-learn-about-talking-with-reporters
 
 **Why the United States has the best research universities** || Miguel Urquiola discusses the history of higher education in America and why it surpassed Europe. || By Tyler Smith || April 14, 2021 || https://www.aeaweb.org/research/research-universities-incentives-resources-virtuous-circles-us || Full research paper: https://www.aeaweb.org/articles?id=10.1257/jep.35.1.185
+
+**“On the Verge of Burnout”: Covid-19’s impact on faculty well-being  and career plans** || *The Chronicle of Higher Education* || https://connect.chronicle.com/rs/931-EKA-218/images/Covid%26FacultyCareerPaths_Fidelity_ResearchBrief_v3%20%281%29.pdf
 
 **The glut of prizes is undermining the true value of research and teaching** || Universities are now committed to ‘celebrating success’ and to treating every failure as just a stepping stone on the way to further success. Yet this, argues Joe Moran, is a betrayal of what really matters in the academy || by Joe Moran || November 26, 2020 || https://www.timeshighereducation.com/features/glut-prizes-undermining-true-value-research-and-teaching
 
