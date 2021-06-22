@@ -242,6 +242,9 @@ Note that some resources are behind a paywall (your institution may have subscri
   
   
 ## 06 Research and Publication
+
+**COVID-19 and socio-economics** || Gregory Jackson, *Socio-Economic Review* || 21 June 2021 || https://doi.org/10.1093/ser/mwab030
+
 **Journal Citation Reports (JCR)™ 2021: updates** || Clarivate || https://clarivate.com/blog/tag/jcr2021/
 
 **Academics must become more engaged in the open access struggle** || Wide support for cOAlition S’ rights retention strategy would allow negotiators to take a harder line with publishers, says Alice Gibson || May 30, 2021 || Alice Gibson || https://www.timeshighereducation.com/blog/academics-must-become-more-engaged-open-access-struggle
