@@ -242,7 +242,7 @@ Note that some resources are behind a paywall (your institution may have subscri
   
   
 ## 06 Research and Publication
-
+**10 Tips on Grant Writing From a Seasoned Reviewer** || If you understand how grant decisions are made, you’ll know on which parts of the application to focus your time and energy. || By Jude P. Mikal || June 18, 2021 || https://www.chronicle.com/article/10-tips-on-grant-writing-from-a-seasoned-reviewer
 
 **‘World standard’ review for Australian research assessment** || Rating scale for Excellence in Research for Australia to be recalibrated, with Indigenous studies incorporated as a field in its own right || June 16, 2021 || John Ross || https://www.timeshighereducation.com/news/world-standard-review-australian-research-assessment
 
