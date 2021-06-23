@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
 Version: 1.6.25  
-Last update: 22 June 2021
+Last update: 23 June 2021
 
 Compiled by J.W.
 
@@ -242,6 +242,9 @@ Note that some resources are behind a paywall (your institution may have subscri
   
   
 ## 06 Research and Publication
+
+
+**‘World standard’ review for Australian research assessment** || Rating scale for Excellence in Research for Australia to be recalibrated, with Indigenous studies incorporated as a field in its own right || June 16, 2021 || John Ross || https://www.timeshighereducation.com/news/world-standard-review-australian-research-assessment
 
 **COVID-19 and socio-economics** || Gregory Jackson, *Socio-Economic Review* || 21 June 2021 || https://doi.org/10.1093/ser/mwab030
 
