@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
 Version: 1.6.25  
-Last update: 23 June 2021
+Last update: 24 June 2021
 
 Compiled by J.W.
 
@@ -70,6 +70,8 @@ Note that some resources are behind a paywall (your institution may have subscri
   
   
 ## 02 The Model of Tertiary Education: Students, Academics, and Administrators  
+**For College Finances, There’s No ‘Return to Normal’** || The critical problems facing higher education won’t end with the pandemic. || By Mark S. LeClair || June 15, 2021 || https://www.chronicle.com/article/for-college-finances-theres-no-return-to-normal
+
 **US faculty influence wanes during Covid, survey finds** || Ideal of shared governance suffers, though AAUP heartened by some revivals, especially at large public universities || June 9, 2021 || Paul Basken || https://www.timeshighereducation.com/news/us-faculty-influence-wanes-during-covid-survey-finds
 
 **Tax reform ‘the real game changer’ for research commercialisation** || Economist says university innovations can rejuvenate Australian productivity, but only if ‘bizarre’ tax arrangements are addressed || June 4, 2021 || John Ross || https://www.timeshighereducation.com/news/tax-reform-real-game-changer-research-commercialisation
