@@ -263,6 +263,8 @@ Note that some resources are behind a paywall (your institution may have subscri
 **Research grant veto powers need guidance, Australian scholars say** || Researchers press for ministerial code of conduct amid fears that latest political intervention may never be resolved || May 20, 2021 || John Ross || https://www.timeshighereducation.com/news/research-grant-veto-powers-need-guidance-australian-scholars-say
 
 **Why Disability Studies Scholars Are Protesting a Prominent Textbook** || By Nell Gluckman || APRIL 13, 2021 || https://www.chronicle.com/article/why-disability-studies-scholars-are-protesting-a-prominent-textbook 
+
+**One Discipline's Soaring Publishing Expectations** || It's not just you: sociology's publishing expectations have doubled in recent decades, by some measures, and that threatens research ingenuity, according to one study. || Colleen Flaherty || March 27, 2019 || https://www.insidehighered.com/news/2019/03/27/sociologys-publishing-expectations-have-doubled-recent-decades
   
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
