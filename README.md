@@ -246,6 +246,8 @@ Note that some resources are behind a paywall (your institution may have subscri
   
   
 ## 06 Research and Publication
+**The 2021 Journal Citation Reports (released)** || June 30, 2021 || Clarivate || https://clarivate.com/blog/the-2021-journal-citation-reports-a-continuing-evolution-in-journal-intelligence/
+
 **10 Tips on Grant Writing From a Seasoned Reviewer** || If you understand how grant decisions are made, you’ll know on which parts of the application to focus your time and energy. || By Jude P. Mikal || June 18, 2021 || https://www.chronicle.com/article/10-tips-on-grant-writing-from-a-seasoned-reviewer
 
 **‘World standard’ review for Australian research assessment** || Rating scale for Excellence in Research for Australia to be recalibrated, with Indigenous studies incorporated as a field in its own right || June 16, 2021 || John Ross || https://www.timeshighereducation.com/news/world-standard-review-australian-research-assessment
@@ -257,6 +259,8 @@ Note that some resources are behind a paywall (your institution may have subscri
 **Academics must become more engaged in the open access struggle** || Wide support for cOAlition S’ rights retention strategy would allow negotiators to take a harder line with publishers, says Alice Gibson || May 30, 2021 || Alice Gibson || https://www.timeshighereducation.com/blog/academics-must-become-more-engaged-open-access-struggle
 
 **Million-dollar wait over for Australian researchers** || No explanation for delay that kept 15 academics on tenterhooks for months || May 28, 2021 || John Ross || https://www.timeshighereducation.com/news/million-dollar-wait-over-australian-researchers
+
+**Shanghai Rankings: 2021 Global Ranking of Academic Subjects** || May 26, 2021 || https://www.shanghairanking.com/rankings/gras/2021 || Methodology: https://www.shanghairanking.com/methodology/gras/2021
 
 **Reliance on journal rankings is undermining academic integrity** || Careers can depend on publishing in higher-quartile journals, but the statistics are too easily gamed, says Jakša Cvitanić || May 21, 2021 || Jaksa Cvitanic || https://www.timeshighereducation.com/blog/reliance-journal-rankings-undermining-academic-integrity
 
