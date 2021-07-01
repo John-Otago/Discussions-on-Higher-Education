@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 1.6.25  
-Last update: 25 June 2021
+Version: 1.6.26  
+Last update: 2 July 2021
 
 Compiled by J.W.
 
@@ -108,6 +108,8 @@ Note that some resources are behind a paywall (your institution may have subscri
   
   
 ## 03 Transforming Education: Teaching & Teaching Innovation  
+**Death of three-hour exam looms as pandemic reshapes assessment** || Many UK institutions say they do not plan to return to pre-pandemic methods and will use next academic year to test new approaches || June 23, 2021 || Anna McKie || https://www.timeshighereducation.com/news/death-three-hour-exam-looms-pandemic-reshapes-assessment
+
 **Innovative learning environments are key to unlocking Africa’s potential** || Collaborative, technically enhanced experiential learning will prepare the continent’s vast young population for the digital future, says Laura Kakon || May 16, 2021 || Laura Kakon || https://www.timeshighereducation.com/blog/innovative-learning-environments-are-key-unlocking-africas-potential
 
 **US college’s student inventors gaining national attention** || Service for local companies grabs spotlight as potential aid to competitiveness || May 7, 2021 || Paul Basken || https://www.timeshighereducation.com/news/us-colleges-student-inventors-gaining-national-attention
