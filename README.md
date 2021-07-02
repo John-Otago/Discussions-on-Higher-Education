@@ -246,6 +246,8 @@ Note that some resources are behind a paywall (your institution may have subscri
   
   
 ## 06 Research and Publication
+**Journal impact factor gets a sibling that adjusts for scientific field** || Cathleen O’Grady || Jun. 30, 2021 || https://www.sciencemag.org/news/2021/06/journal-impact-factor-gets-sibling-adjusts-scientific-field
+
 **The 2021 Journal Citation Reports (released)** || June 30, 2021 || Clarivate || https://clarivate.com/blog/the-2021-journal-citation-reports-a-continuing-evolution-in-journal-intelligence/
 
 **10 Tips on Grant Writing From a Seasoned Reviewer** || If you understand how grant decisions are made, you’ll know on which parts of the application to focus your time and energy. || By Jude P. Mikal || June 18, 2021 || https://www.chronicle.com/article/10-tips-on-grant-writing-from-a-seasoned-reviewer
