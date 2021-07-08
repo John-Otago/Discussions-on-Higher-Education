@@ -24,14 +24,14 @@ Note that some publications are behind a paywall (your institution may have subs
 ---
   
 ## Table of Contents
-[01 The Role of Tertiary Education](https://github.com/John-Otago/Discussions-on-Higher-Ed#01-the-role-of-tertiary-education)  
-[02 The Model of Tertiary Education: Students, Academics, and Administrators](https://github.com/John-Otago/Discussions-on-Higher-Ed#02-the-model-of-tertiary-education-students-academics-and-administrators)  
-[03 Transforming Education: Teaching & Teaching Innovation](https://github.com/John-Otago/Discussions-on-Higher-Ed#03-transforming-education-teaching--teaching-innovation)  
-[04 The Academic Job Market](https://github.com/John-Otago/Discussions-on-Higher-Education#04-the-academic-job-market)  
-[05 Working in Academia](https://github.com/John-Otago/Discussions-on-Higher-Education#05-working-in-academia)  
-[06 Research and Publication](https://github.com/John-Otago/Discussions-on-Higher-Education#06-research-and-publication)  
-[07 International Students & International Education](https://github.com/John-Otago/Discussions-on-Higher-Education#07-international-students--international-education)  
-[08 Relevant Books](https://github.com/John-Otago/Discussions-on-Higher-Education#08-relevant-books)  
+[01 The Role of Tertiary Education](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#01-the-role-of-tertiary-education)  
+[02 The Model of Tertiary Education: Students, Academics, and Administrators](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#02-the-model-of-tertiary-education-students-academics-and-administrators)  
+[03 Transforming Education: Teaching & Teaching Innovation](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#03-transforming-education-teaching--teaching-innovation)  
+[04 The Academic Job Market](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#04-the-academic-job-market)  
+[05 Working in Academia](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#05-working-in-academia)  
+[06 Research and Publication](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#06-research-and-publication)  
+[07 International Students & International Education](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#07-international-students--international-education)  
+[08 Relevant Books](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#08-relevant-books)  
   
 ---
   
@@ -65,7 +65,7 @@ Note that some publications are behind a paywall (your institution may have subs
 **8 Questions About ‘Free’ Community College** || Is it just a gimmick? And if so, what is the goal? || By Rob Jenkins || OCTOBER 17, 2016 || https://www.chronicle.com/article/8-questions-about-free-community-college/
   
   
-### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
+### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#table-of-contents)
 ---
   
   
@@ -103,7 +103,7 @@ Note that some publications are behind a paywall (your institution may have subs
 **Is this the crisis higher education needs to have?** || The Covid-19 pandemic offers universities a once-in-a-generation opportunity to put their dysfunctional strategies behind them, argue Timothy Devinney and Grahame Dowling || May 14, 2020 || Timothy Devinney & Grahame Dowling || https://www.timeshighereducation.com/features/crisis-higher-education-needs-have
   
   
-### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
+### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#table-of-contents)
 ---
   
   
@@ -129,7 +129,7 @@ Note that some publications are behind a paywall (your institution may have subs
 **More universities planning to drop lectures after pandemic** || January 7, 2021 || John Ross & Anna McKie || https://www.timeshighereducation.com/news/more-universities-planning-drop-lectures-after-pandemic
   
   
-### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
+### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#table-of-contents)
 ---
   
   
@@ -209,7 +209,7 @@ Note that some publications are behind a paywall (your institution may have subs
 **Is Graduate School a Cult?** || By Thomas H. Benton || JUNE 28, 2004 || https://www.chronicle.com/article/is-graduate-school-a-cult/
   
   
-### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
+### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#table-of-contents)
 ---
   
   
@@ -241,7 +241,7 @@ Note that some publications are behind a paywall (your institution may have subs
 **Workload survival guide for academics** || Advice on how to cope with all the work and when to say no to opportunities || February 18, 2016 || *Times Higher Education* || https://www.timeshighereducation.com/features/workload-survival-guide-for-academics
 
   
-### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
+### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#table-of-contents)
 ---
   
   
@@ -279,7 +279,7 @@ Note that some publications are behind a paywall (your institution may have subs
 **One Discipline's Soaring Publishing Expectations** || It's not just you: sociology's publishing expectations have doubled in recent decades, by some measures, and that threatens research ingenuity, according to one study. || Colleen Flaherty || March 27, 2019 || https://www.insidehighered.com/news/2019/03/27/sociologys-publishing-expectations-have-doubled-recent-decades
   
   
-### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
+### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#table-of-contents)
 ---
   
    
@@ -319,7 +319,7 @@ Note that some publications are behind a paywall (your institution may have subs
 **Asian higher education at the demographic cliff edge** || by Joyce Lau || June 3, 2020 || https://www.timeshighereducation.com/world-university-rankings/asian-higher-education-atthe-demographic-cliff-edge
   
   
-### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
+### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#table-of-contents)
 ---
   
     
@@ -361,6 +361,6 @@ Note that some publications are behind a paywall (your institution may have subs
 **Surviving Your Academic Job Hunt: Advice for Humanities PhDs** 2nd ed. || K Hume || 2011 || Palgrave || https://www.palgrave.com/gp/book/9780230109469
   
    
-### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Ed#table-of-contents)
+### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#table-of-contents)
 ---
    
