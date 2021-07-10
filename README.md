@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 1.6.26  
-Last update: 8 July 2021
+Version: 1.7.28  
+Last update: 11 July 2021
 
 Compiled by J.W.
 
@@ -36,6 +36,8 @@ Note that some publications are behind a paywall (your institution may have subs
 ---
   
 ## 01 The Role of Tertiary Education
+**Political Science Has Its Own Lab Leaks** || When ideas get out from academia into the wild, they can be surprisingly dangerous. || By Paul Musgrave || Jul 3, 2021 || *Foreign Policy* || https://foreignpolicy.com/2021/07/03/political-science-dangerous-lab-leaks/
+
 **It’s Time to Break Up the Ivy League Cartel** (How Meritocracy Became Trickle-Down Education) || Democracy requires something more than a handful of super-rich universities. || By Sam Haselby and Matt Stoller || May 28, 2021 || https://www.chronicle.com/article/how-meritocracy-became-trickle-down-education
 
 **Academic Freedom Is on the Ropes** || The attacks are coming from both the right and the left. || By Alexander C. Kafka || May 27, 2021 || https://www.chronicle.com/article/academic-freedom-is-on-the-ropes
@@ -108,6 +110,8 @@ Note that some publications are behind a paywall (your institution may have subs
   
   
 ## 03 Transforming Education: Teaching & Teaching Innovation  
+**2U-edX deal shows short courses ‘here to stay’** || The $800 million deal could prompt further consolidation within sector, experts say || July 3, 2021 || Anna McKie || https://www.timeshighereducation.com/news/2u-edx-deal-shows-short-courses-here-stay
+
 **Death of three-hour exam looms as pandemic reshapes assessment** || Many UK institutions say they do not plan to return to pre-pandemic methods and will use next academic year to test new approaches || June 23, 2021 || Anna McKie || https://www.timeshighereducation.com/news/death-three-hour-exam-looms-pandemic-reshapes-assessment
 
 **Innovative learning environments are key to unlocking Africa’s potential** || Collaborative, technically enhanced experiential learning will prepare the continent’s vast young population for the digital future, says Laura Kakon || May 16, 2021 || Laura Kakon || https://www.timeshighereducation.com/blog/innovative-learning-environments-are-key-unlocking-africas-potential
