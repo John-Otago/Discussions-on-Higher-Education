@@ -288,6 +288,10 @@ Note that some publications are behind a paywall (your institution may have subs
   
    
 ## 07 International Students & International Education
+**Arts university a milestone for Singapore** || City state’s first university of the arts to be the more than the sum of its parts || July 4, 2021 || John Ross || https://www.timeshighereducation.com/news/arts-university-milestone-singapore  
+  
+**Indian PhD enrolment up 60 per cent in five years** || Nationwide survey shows overall gains in capacity, enrolment and gender balance || June 19, 2021 || Joyce Lau || https://www.timeshighereducation.com/news/indian-phd-enrolment-60-cent-five-years  
+  
 **After Deep Drops, International Applications Rebound, Survey Finds** || By Karin Fischer || June 10, 2021 || https://www.chronicle.com/article/after-deep-drops-international-applications-rebound-survey-finds
 
 **Asia Summit: ‘penalty systems’ and ‘male allies’ address gender gap** || Covid has only widened gender inequalities among researchers, data show || June 4, 2021 || Joyce Lau || https://www.timeshighereducation.com/news/asia-summit-penalty-systems-and-male-allies-address-gender-gap
