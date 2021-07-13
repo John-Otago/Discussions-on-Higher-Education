@@ -60,10 +60,8 @@ Note that some publications are behind a paywall (your institution may have subs
 
 **Are young universities more focused on civic engagement?** || by John Ross || June 24, 2020 || https://www.timeshighereducation.com/world-university-rankings/are-young-universities-more-focused-civic-engagement
 
-**How can we save the Mooc?** || As most universities digitise all their teaching, they are finding it very difficult to deliver education online. Gorgi Krlev offers three challenges to conventional wisdom || June 4, 2020 || Gorgi Krlev || https://www.timeshighereducation.com/opinion/how-can-we-save-mooc
-
-**Gold standard of PhD ‘under threat’, professors claim** || Debate sparked by criticism of growth of PhDs by publication, and allegations that corruption and nepotism are undermining the reliability of the academic doctorate || March 14, 2019 || Jack Grove || https://www.timeshighereducation.com/news/gold-standard-phd-under-threat-professors-claim
-
+**How can we save the Mooc?** || As most universities digitise all their teaching, they are finding it very difficult to deliver education online. Gorgi Krlev offers three challenges to conventional wisdom || June 4, 2020 || Gorgi Krlev || https://www.timeshighereducation.com/opinion/how-can-we-save-mooc  
+  
 **New Report On The Harmful Effects Of Degree Inflation** || Oct 31, 2017 || Grads of Life || https://www.forbes.com/sites/gradsoflife/2017/10/31/new-report-on-the-harmful-effects-of-degree-inflation/
 
 **8 Questions About ‘Free’ Community College** || Is it just a gimmick? And if so, what is the goal? || By Rob Jenkins || OCTOBER 17, 2016 || https://www.chronicle.com/article/8-questions-about-free-community-college/
@@ -104,7 +102,9 @@ Note that some publications are behind a paywall (your institution may have subs
 
 **Identity politics is undermining university administration** || Professionals must be able to connect with students from different backgrounds, but obsessing about inter-group differences doesn't help, says an anonymous academic. || by Joseph Guarneri || June  3, 2020  || https://www.timeshighereducation.com/blog/identity-politics-undermining-university-administration
 
-**Is this the crisis higher education needs to have?** || The Covid-19 pandemic offers universities a once-in-a-generation opportunity to put their dysfunctional strategies behind them, argue Timothy Devinney and Grahame Dowling || May 14, 2020 || Timothy Devinney & Grahame Dowling || https://www.timeshighereducation.com/features/crisis-higher-education-needs-have
+**Is this the crisis higher education needs to have?** || The Covid-19 pandemic offers universities a once-in-a-generation opportunity to put their dysfunctional strategies behind them, argue Timothy Devinney and Grahame Dowling || May 14, 2020 || Timothy Devinney & Grahame Dowling || https://www.timeshighereducation.com/features/crisis-higher-education-needs-have  
+  
+**Gold standard of PhD ‘under threat’, professors claim** || Debate sparked by criticism of growth of PhDs by publication, and allegations that corruption and nepotism are undermining the reliability of the academic doctorate || March 14, 2019 || Jack Grove || https://www.timeshighereducation.com/news/gold-standard-phd-under-threat-professors-claim  
   
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#table-of-contents)
