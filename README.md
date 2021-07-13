@@ -256,6 +256,8 @@ Note that some publications are behind a paywall (your institution may have subs
   
 **Predatory journals undermining PhD by publication route** || Australian university limits journals accepted for doctorates amid mounting concern among academics || July 7, 2021 || John Ross || https://www.timeshighereducation.com/news/predatory-journals-undermining-phd-publication-route  
   
+**How to find the right journal for your research** || Joanna Wilkinson, *Clarivate* || July 1, 2021 || https://clarivate.com/blog/how-to-find-the-right-journal-for-your-research-using-actual-data/ || *Note: it's from Clarivate after the release of the latest JCR.*  
+  
 **Journal impact factor gets a sibling that adjusts for scientific field** || Cathleen O’Grady || Jun. 30, 2021 || https://www.sciencemag.org/news/2021/06/journal-impact-factor-gets-sibling-adjusts-scientific-field
 
 **The 2021 Journal Citation Reports (released)** || June 30, 2021 || Clarivate || https://clarivate.com/blog/the-2021-journal-citation-reports-a-continuing-evolution-in-journal-intelligence/
