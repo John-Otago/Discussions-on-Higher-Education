@@ -62,6 +62,8 @@ Note that some publications are behind a paywall (your institution may have subs
 
 **How can we save the Mooc?** || As most universities digitise all their teaching, they are finding it very difficult to deliver education online. Gorgi Krlev offers three challenges to conventional wisdom || June 4, 2020 || Gorgi Krlev || https://www.timeshighereducation.com/opinion/how-can-we-save-mooc
 
+**Gold standard of PhD ‘under threat’, professors claim** || Debate sparked by criticism of growth of PhDs by publication, and allegations that corruption and nepotism are undermining the reliability of the academic doctorate || March 14, 2019 || Jack Grove || https://www.timeshighereducation.com/news/gold-standard-phd-under-threat-professors-claim
+
 **New Report On The Harmful Effects Of Degree Inflation** || Oct 31, 2017 || Grads of Life || https://www.forbes.com/sites/gradsoflife/2017/10/31/new-report-on-the-harmful-effects-of-degree-inflation/
 
 **8 Questions About ‘Free’ Community College** || Is it just a gimmick? And if so, what is the goal? || By Rob Jenkins || OCTOBER 17, 2016 || https://www.chronicle.com/article/8-questions-about-free-community-college/
