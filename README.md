@@ -19,6 +19,8 @@ Putting together this collection with regular updates is time-consuming and can 
 
 For graduate students (including those starting or finishing graduate schools), [04 The Academic Job Market](https://github.com/John-Otago/Discussions-on-Higher-Education#04-the-academic-job-market) would be a useful section. Also consult my [PhD+ Project](https://github.com/John-Otago/PhD-Plus/blob/main/README.md) for more resources & advice. 
 
+[Section 06 Research and Publication](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#06-research-and-publication) may also help students and early-career researchers. Check out my project [Selected Journals in HASS](https://github.com/John-Otago/Key-Journals-in-HASS) as well.
+
 Note that some publications are behind a paywall (your institution may have subscriptions). 
   
 ---
