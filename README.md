@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
 Version: 1.7.28  
-Last update: 13 July 2021
+Last update: 15 July 2021
 
 Compiled by J.W.
 
@@ -254,6 +254,8 @@ Note that some publications are behind a paywall (your institution may have subs
   
   
 ## 06 Research and Publication
+**Systematic Bias in the Progress of Research** || Amir Rubin & Eran Rubin || *Journal of Political Economy* || July 12, 2021 || https://www.journals.uchicago.edu/doi/full/10.1086/715021
+
 **UKRI accepts open access monographs must be ‘fully funded’** || Funder’s policy lead on open access talks of ‘ring-fenced path’ to cover costs || July 9, 2021 || Simon Baker || https://www.timeshighereducation.com/news/ukri-accepts-open-access-monographs-must-be-fully-funded  
   
 **Predatory journals undermining PhD by publication route** || Australian university limits journals accepted for doctorates amid mounting concern among academics || July 7, 2021 || John Ross || https://www.timeshighereducation.com/news/predatory-journals-undermining-phd-publication-route  
