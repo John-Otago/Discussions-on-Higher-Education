@@ -142,6 +142,9 @@ Note that some publications are behind a paywall (your institution may have subs
   
   
 ## 04 The Academic Job Market  
+**Admin 101: How to Interpret Reference Letters** || Be wary of rock-star recommenders, over-the-top praise, and glaring omissions. || By David D. Perlmutter || 
+July 8, 2021 || https://www.chronicle.com/article/admin-101-how-to-interpret-reference-letters
+
 **Three hard truths I learned before moving to a non-academic career** || Your new manager likely doesn’t have a PhD, and she’s higher on the food chain because experience is more valued than a doctorate, says Janelle Ward || June 11, 2021 || Janelle Ward || https://www.timeshighereducation.com/career/three-hard-truths-i-learned-moving-non-academic-career
 
 **Spring Enrollment’s Final Count Is In. Colleges Lost 600,000 Students.** || By Audrey Williams June || June 10, 2021 || https://www.chronicle.com/article/spring-enrollments-final-count-is-in-colleges-lost-600-000-students
