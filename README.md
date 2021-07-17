@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
 Version: 1.7.28  
-Last update: 15 July 2021
+Last update: 17 July 2021
 
 Compiled by J.W.
 
@@ -361,6 +361,8 @@ July 8, 2021 || https://www.chronicle.com/article/admin-101-how-to-interpret-ref
 >
 >Overall, it’s a nice book on an important and perhaps urgent topic, although it’s a long read (lots of details) and many time-deprived academics may not have time to read it. Also, the chapters I’ve seen missed international students who are doing PhD in the US and their unique challenges; on a relevant note, the collapse of the academic job market is a problem facing many countries, while the book has missed international perspectives. Last, ‘career diversity’ only seems to mean ‘getting a job’, overlooking student-entrepreneurs who want to start their own business/startup or non-profit.
   
+**Minds Wide Shut: How the New Fundamentalisms Divide Us** || GS Morson & M Schapiro || 2021 || Princeton University Press || https://press.princeton.edu/books/hardcover/9780691214917/minds-wide-shut  
+  
 **Lean Semesters: How Higher Education Reproduces Inequity** || Sekile M. Nzinga || 2020 || Johns Hopkins UP || https://jhupbooks.press.jhu.edu/title/lean-semesters || *Note: I haven't got the chance to read this book. A review is available [here](https://doi.org/10.1177/08912432211022697).*  
   
 **The Academic's Handbook, 4th ed.** || JH Olcott & L Flores || 2020 || Duke UP || https://www.dukeupress.edu/the-academics-handbook-fourth-edition 
@@ -371,18 +373,24 @@ July 8, 2021 || https://www.chronicle.com/article/admin-101-how-to-interpret-ref
 
 **Going Alt-Ac: A Guide to Alternative Academic Careers** || KE Linder et al. || 2020 || Stylus Publishing || https://styluspub.presswarehouse.com/browse/book/9781620368312/Going-Alt-Ac
 
-**Writing your journal article in twelve weeks: a guide to academic publishing success** 2nd ed. || Wendy Laura Belcher || 2019 || University of Chicago Press || https://press.uchicago.edu/ucp/books/book/chicago/W/bo26985005.html
-
+**Writing your journal article in twelve weeks: a guide to academic publishing success** 2nd ed. || WL Belcher || 2019 || University of Chicago Press || https://press.uchicago.edu/ucp/books/book/chicago/W/bo26985005.html
+  
+**Succeeding Outside the Academy: Career Paths beyond the Humanities, Social Sciences, and STEM** || J Fruscione & KJ Baker (eds) || 2018 || University Press of Kansas || https://kansaspress.ku.edu/978-0-7006-2688-5.html  
+  
+**Cents and Sensibility: What Economics Can Learn from the Humanities** || GS Morson & M Schapiro || 2017 || Princeton University Press || https://press.princeton.edu/books/hardcover/9780691176680/cents-and-sensibility  
+  
 **The Craft of Research** 4th ed. || WC Booth et al. || 2016 || University of Chicago Press || https://press.uchicago.edu/ucp/books/book/chicago/C/bo23521678.html
-
-**How To Get A PhD: A Handbook for Students and Their Supervisors** 6th ed. || E Phillips || 2015 || Open UP || https://www.amazon.com/How-Get-Phd-Handbook-Supervisors/dp/0335264123/
 
 **The Academic Job Search Handbook** 5th ed. || JM Vick et al. || 2016 || U of Pennsylvania Press || https://www.upenn.edu/pennpress/book/915.html
 
+**How To Get A PhD: A Handbook for Students and Their Supervisors** 6th ed. || E Phillips || 2015 || Open UP || https://www.amazon.com/How-Get-Phd-Handbook-Supervisors/dp/0335264123/
+
 **University Startups and Spin-Offs: Guide for Entrepreneurs in Academia** || M Stagars || 2015 || Apress || https://www.apress.com/gp/book/9781484206249 || https://link.springer.com/book/10.1007/978-1-4842-0623-2
 
-**The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job** || K Kelsky || 2015 || Crown || https://theprofessorisin.com/buy-the-book/
-
+**The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job** || K Kelsky || 2015 || Crown || https://theprofessorisin.com/buy-the-book/  
+  
+**So What Are You Going to Do with That? Finding Careers Outside Academia (3rd ed.)** || S Basalla & M Debelius || 2014 || University of Chicago Press || https://press.uchicago.edu/ucp/books/book/chicago/S/bo19503047.html  
+  
 **Surviving Your Academic Job Hunt: Advice for Humanities PhDs** 2nd ed. || K Hume || 2011 || Palgrave || https://www.palgrave.com/gp/book/9780230109469
   
    
