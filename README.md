@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 1.7.28  
-Last update: 17 July 2021
+Version: 1.7.29  
+Last update: 19 July 2021
 
 Compiled by J.W.
 
@@ -142,6 +142,8 @@ Note that some publications are behind a paywall (your institution may have subs
   
   
 ## 04 The Academic Job Market  
+**Do You Really Need a Ph.D.?** || As empowering as the notion of the alternative-academic path is, deciding to pursue a Ph.D. when the career you want doesn’t require a doctorate may not be the best choice, argues Arie Spirgel. || Arie Spirgel || July 15, 2021 || https://www.insidehighered.com/advice/2021/07/15/why-you-shouldnt-get-phd-if-you-dont-plan-be-academe-opinion  
+  
 **Admin 101: How to Interpret Reference Letters** || Be wary of rock-star recommenders, over-the-top praise, and glaring omissions. || By David D. Perlmutter || 
 July 8, 2021 || https://www.chronicle.com/article/admin-101-how-to-interpret-reference-letters
 
@@ -259,6 +261,8 @@ July 8, 2021 || https://www.chronicle.com/article/admin-101-how-to-interpret-ref
   
   
 ## 06 Research and Publication
+**When Should You Submit Your Scholarly Book Proposal?** || Laura Portwood-Stacer || July 13, 2021 || https://www.insidehighered.com/advice/2021/07/13/advice-when-submit-your-scholarly-book-proposal-opinion  
+  
 **Systematic Bias in the Progress of Research** || Amir Rubin & Eran Rubin || *Journal of Political Economy* || July 12, 2021 || https://www.journals.uchicago.edu/doi/full/10.1086/715021
 
 **UKRI accepts open access monographs must be ‘fully funded’** || Funder’s policy lead on open access talks of ‘ring-fenced path’ to cover costs || July 9, 2021 || Simon Baker || https://www.timeshighereducation.com/news/ukri-accepts-open-access-monographs-must-be-fully-funded  
