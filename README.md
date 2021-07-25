@@ -1,11 +1,11 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 1.7.29  
-Last update: 24 July 2021
+Version: 1.7.30  
+Last update: 26 July 2021
 
 Compiled by J.W.
 
-This is a collection of relevant discussions on tertiary education, mostly from the two publications I read regularly: *Times Higher Education* (UK-based with global coverage) and *The Chronicle of Higher Education* (US-based with mainly local coverage). There are a few other sources, too.
+This is a curated collection of relevant discussions on tertiary education, mostly from the two publications I read regularly: *Times Higher Education* (UK-based with global coverage) and *The Chronicle of Higher Education* (US-based with mainly local coverage). There are a few other sources, too.
 
 It started as a personal collection that I put in a digital notebook, together with many other magazine and newspaper articles, but gradually I realised the benefits of sharing my collection with colleagues and students as well as the wider community. Simply collecting and hoarding these resources create little value; sharing them does.
 
