@@ -29,7 +29,7 @@ Note that some publications are behind a paywall (your institution may have subs
 
 01 Aug 2021
 - Section 7 no longer includes specific reports on emerging countries (too many) to keep the focus on major international trends.
-- I have removed the *Chronicle* from my reading list due to its narrow coverage (both geographically and thematically). 
+- I no longer read the *Chronicle* due to its narrow geographical focus and often one-sided view (*THE* has a much broader coverage and appears more balanced). 
 
 ---
   
@@ -82,6 +82,8 @@ Note that some publications are behind a paywall (your institution may have subs
   
   
 ## 02 The Model of Tertiary Education: Students, Academics, and Administrators  
+**America’s Collapsing Meritocracy Is a Recipe for Revolt** || Chinese history shows what happens when an old system loses its force. || By Paul Musgrave || July 16, 2021 || https://foreignpolicy.com/2021/07/16/taiping-rebellion-addison-rae-meritocracy-exams-rebellion/
+
 **For College Finances, There’s No ‘Return to Normal’** || The critical problems facing higher education won’t end with the pandemic. || By Mark S. LeClair || June 15, 2021 || https://www.chronicle.com/article/for-college-finances-theres-no-return-to-normal
 
 **US faculty influence wanes during Covid, survey finds** || Ideal of shared governance suffers, though AAUP heartened by some revivals, especially at large public universities || June 9, 2021 || Paul Basken || https://www.timeshighereducation.com/news/us-faculty-influence-wanes-during-covid-survey-finds
@@ -152,6 +154,8 @@ Note that some publications are behind a paywall (your institution may have subs
   
   
 ## 04 The Academic Job Market  
+**New wave of redundancies sweeps Australian universities** || Hundreds of roles at risk as fresh wave of coronavirus restrictions sweeps across country || July 18, 2021 || John Ross || https://www.timeshighereducation.com/news/new-wave-redundancies-sweeps-australian-universities
+
 **Do You Really Need a Ph.D.?** || As empowering as the notion of the alternative-academic path is, deciding to pursue a Ph.D. when the career you want doesn’t require a doctorate may not be the best choice, argues Arie Spirgel. || Arie Spirgel || July 15, 2021 || https://www.insidehighered.com/advice/2021/07/15/why-you-shouldnt-get-phd-if-you-dont-plan-be-academe-opinion  
   
 **Admin 101: How to Interpret Reference Letters** || Be wary of rock-star recommenders, over-the-top praise, and glaring omissions. || By David D. Perlmutter || 
