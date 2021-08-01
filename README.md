@@ -7,7 +7,7 @@ Compiled by J.W.
 
 This is a curated collection of relevant discussions on tertiary education, mostly from the two publications I read regularly: *Times Higher Education* (UK-based with global coverage) and *The Chronicle of Higher Education* (US-based with mainly local coverage). There are a few other sources, too.
 
-It started as a personal collection that I put in a digital notebook before I realised the benefits of sharing my collection with colleagues and students as well as the wider community. Simply collecting and hoarding these resources create little value; sharing them does.
+It started as a personal collection before I realised the benefits of sharing my collection with colleagues and students as well as the wider community. Simply collecting and hoarding these resources create little value; sharing them does.
 
 I always endeavour to collect a diverse range of opinions and reports, so I won't end up in an echo chamber, although we are all (to various degrees) subject to biases and may be unconsciously inclined to the opinions that align with our existing knowledge and beliefs. My reliance on a small range of publications may also limit the scope of this collection.
 
