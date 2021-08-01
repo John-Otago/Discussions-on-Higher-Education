@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 1.7.30  
-Last update: 26 July 2021
+Version: 1.8.31  
+Last update: 01 Aug 2021
 
 Compiled by J.W.
 
@@ -23,6 +23,14 @@ For graduate students (including those starting or finishing graduate schools), 
 
 Note that some publications are behind a paywall (your institution may have subscriptions). 
   
+---
+  
+**UPDATES**  
+
+01 Aug 2021
+- Section 7 no longer includes reports about specific emerging countries (too many to cover). It will focus on international trends with wider impacts.
+- I no longer read the *Chronicle* due to its narrow coverage (both geographically and thematically). 
+
 ---
   
 ## Table of Contents
@@ -253,6 +261,8 @@ July 8, 2021 || https://www.chronicle.com/article/admin-101-how-to-interpret-ref
 
 **The glut of prizes is undermining the true value of research and teaching** || Universities are now committed to ‘celebrating success’ and to treating every failure as just a stepping stone on the way to further success. Yet this, argues Joe Moran, is a betrayal of what really matters in the academy || by Joe Moran || November 26, 2020 || https://www.timeshighereducation.com/features/glut-prizes-undermining-true-value-research-and-teaching
 
+**Coping with the rational chaos of Chinese higher education** || Chinese universities now operate on a confusing ‘mixture of Chinese and Western institutional logics’. An anonymous scholar describes the practical and emotional challenges of dealing with constant uncertainty || September 17, 2020 || Anonymous || https://www.timeshighereducation.com/features/coping-rational-chaos-chinese-higher-educationChina’s
+
 **How welcoming is academia to LGBT staff?** || By some measures, universities are wonderfully accommodating workplaces for gays and lesbians. Six academics give us their perspective || May 5, 2016   || By Contributors || https://www.timeshighereducation.com/features/how-welcoming-is-academia-to-lesbian-gay-bisexual-transgender-lgbt-staff
 
 **Workload survival guide for academics** || Advice on how to cope with all the work and when to say no to opportunities || February 18, 2016 || *Times Higher Education* || https://www.timeshighereducation.com/features/workload-survival-guide-for-academics
@@ -310,14 +320,8 @@ July 8, 2021 || https://www.chronicle.com/article/admin-101-how-to-interpret-ref
 ---
   
    
-## 07 International Students & International Education
-**Arts university a milestone for Singapore** || City state’s first university of the arts to be the more than the sum of its parts || July 4, 2021 || John Ross || https://www.timeshighereducation.com/news/arts-university-milestone-singapore  
-  
-**Indian PhD enrolment up 60 per cent in five years** || Nationwide survey shows overall gains in capacity, enrolment and gender balance || June 19, 2021 || Joyce Lau || https://www.timeshighereducation.com/news/indian-phd-enrolment-60-cent-five-years  
-  
+## 07 International Students & International Education 
 **After Deep Drops, International Applications Rebound, Survey Finds** || By Karin Fischer || June 10, 2021 || https://www.chronicle.com/article/after-deep-drops-international-applications-rebound-survey-finds
-
-**Asia Summit: ‘penalty systems’ and ‘male allies’ address gender gap** || Covid has only widened gender inequalities among researchers, data show || June 4, 2021 || Joyce Lau || https://www.timeshighereducation.com/news/asia-summit-penalty-systems-and-male-allies-address-gender-gap
 
 **Covid and geopolitical tensions ‘stem Asian brain drain’** || Interplay of pandemic, geopolitics and demographics generating ‘significant movement in this part of the world’ || June 3, 2021 || John Ross || https://www.timeshighereducation.com/news/covid-and-geopolitical-tensions-stem-asian-brain-drain
 
@@ -329,10 +333,6 @@ July 8, 2021 || https://www.chronicle.com/article/admin-101-how-to-interpret-ref
 
 **UK study visa numbers return to pre-pandemic levels** || Latest data from the Home Office show recovery in the number of visas granted over autumn and winter || May 29, 2021 || Simon Baker || https://www.timeshighereducation.com/news/uk-study-visa-numbers-return-pre-pandemic-levels
 
-**Education in China is becoming increasingly unfair to the poor** || The hukou system of household registration exacerbates a huge divide || May 29th 2021 || *The Economist* || https://www.economist.com/china/2021/05/27/education-in-china-is-becoming-increasingly-unfair-to-the-poor
-
-**Rigid system pushes Chinese students to unscrupulous agents** || Thousands of families are on a ‘high risk’ path to overseas education || May 21, 2021 || Joyce Lau || https://www.timeshighereducation.com/news/rigid-system-pushes-chinese-students-unscrupulous-agents
-
 **Recruitment agents ‘closing Australia desks’ in China** || Resurgent student flows set to bypass Australia and New Zealand as education agents in most regions usher clients to more welcoming countries || May 18, 2021 || John Ross || https://www.timeshighereducation.com/news/recruitment-agents-closing-australia-desks-china
 
 **Lost ground on international recruitment ‘may never be made up’** || Covid is compounding other major shifts in international flows to leave a permanent realignment, experts suggest || May 13, 2021 || Simon Baker || https://www.timeshighereducation.com/news/lost-ground-international-recruitment-may-never-be-made
@@ -340,10 +340,6 @@ July 8, 2021 || https://www.chronicle.com/article/admin-101-how-to-interpret-ref
 **How high can China fly?** || The country’s universities have shot up global rankings on the back of huge investment and a ruthless focus on publication. But as the country gears up for its next five-year plan, Joyce Lau asks whether stratospheric ambitions for a ‘Chinese Harvard’ can be met || January 7, 2021 || Joyce Lau || https://www.timeshighereducation.com/features/how-high-can-china-fly
 
 **Covid-19 will not dent Chinese demand for international education** || Coronavirus will not stop China’s growing and ambitious middle class from seeking a Western university education for their children, says Sabrina Wang || October 31, 2020 || Sabrina Wang || https://www.timeshighereducation.com/blog/covid-19-will-not-dent-chinese-demand-international-education
-
-**Coping with the rational chaos of Chinese higher education** || Chinese universities now operate on a confusing ‘mixture of Chinese and Western institutional logics’. An anonymous scholar describes the practical and emotional challenges of dealing with constant uncertainty || September 17, 2020 || Anonymous || https://www.timeshighereducation.com/features/coping-rational-chaos-chinese-higher-educationChina’s
-
-**China’s Double-First Class programme should open to regional universities** || by Li Qingquan || July 21, 2020 || https://www.timeshighereducation.com/blog/chinas-double-first-class-programme-should-open-regional-universities
 
 **Which nations will weather the storm on international recruitment?** || by Paul Basken || June 18, 2020 || https://www.timeshighereducation.com/news/which-nations-will-weather-storm-international-recruitment
 
