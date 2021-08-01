@@ -25,11 +25,11 @@ Note that some publications are behind a paywall (your institution may have subs
   
 ---
   
-**UPDATES**  
+**Major Updates**  
 
 01 Aug 2021
-- Section 7 no longer includes reports about specific emerging countries (too many to cover). It will focus on international trends with wider impacts.
-- I no longer read the *Chronicle* due to its narrow coverage (both geographically and thematically). 
+- Section 7 no longer includes specific reports on emerging countries (too many) to keep the focus on major international trends.
+- I have removed the *Chronicle* from my reading list due to its narrow coverage (both geographically and thematically). 
 
 ---
   
