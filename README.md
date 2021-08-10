@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 1.8.31  
-Last update: 01 Aug 2021
+Version: 1.8.32  
+Last update: 10 Aug 2021
 
 Compiled by J.W.
 
@@ -29,8 +29,8 @@ Note that some publications are behind a paywall (your institution may have subs
 
 01 Aug 2021
 - Section 7 no longer includes specific reports on emerging countries (too many) to keep the focus on major international trends.
-- I no longer read the *Chronicle* due to its narrow geographical focus and often one-sided view (*THE* has a much broader coverage and appears more balanced). 
-
+- I have removed the *Chronicle* from my reading list.  
+  
 ---
   
 ## Table of Contents
@@ -117,6 +117,8 @@ Note that some publications are behind a paywall (your institution may have subs
 **Is this the crisis higher education needs to have?** || The Covid-19 pandemic offers universities a once-in-a-generation opportunity to put their dysfunctional strategies behind them, argue Timothy Devinney and Grahame Dowling || May 14, 2020 || Timothy Devinney & Grahame Dowling || https://www.timeshighereducation.com/features/crisis-higher-education-needs-have  
   
 **Gold standard of PhD ‘under threat’, professors claim** || Debate sparked by criticism of growth of PhDs by publication, and allegations that corruption and nepotism are undermining the reliability of the academic doctorate || March 14, 2019 || Jack Grove || https://www.timeshighereducation.com/news/gold-standard-phd-under-threat-professors-claim  
+  
+**Academics under pressure to bump up student grades, Guardian survey shows** || Academics say teaching reforms are damaging the quality of education and making their workloads unmanageable || Rebecca Ratcliffe and Claire Shaw || 18 May 2015 || https://www.theguardian.com/higher-education-network/2015/may/18/academics-under-pressure-to-bump-up-student-grades-guardian-survey-shows  
   
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#table-of-contents)
@@ -269,7 +271,12 @@ July 8, 2021 || https://www.chronicle.com/article/admin-101-how-to-interpret-ref
 
 **How welcoming is academia to LGBT staff?** || By some measures, universities are wonderfully accommodating workplaces for gays and lesbians. Six academics give us their perspective || May 5, 2016   || By Contributors || https://www.timeshighereducation.com/features/how-welcoming-is-academia-to-lesbian-gay-bisexual-transgender-lgbt-staff
 
-**Workload survival guide for academics** || Advice on how to cope with all the work and when to say no to opportunities || February 18, 2016 || *Times Higher Education* || https://www.timeshighereducation.com/features/workload-survival-guide-for-academics
+**Workload survival guide for academics** || Advice on how to cope with all the work and when to say no to opportunities || February 18, 2016 || *Times Higher Education* || https://www.timeshighereducation.com/features/workload-survival-guide-for-academics  
+  
+**Me and My Shadow CV** || What would my vita look like if it recorded not just the successes of my professional life but also the many, many rejections? || 
+By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-and-my-shadow-cv/
+  
+**Advice for New Hires** || Pamela Oliver shares advice for those starting their first semester as assistant professors. || By Pamela Oliver || August 28, 2013 || https://www.insidehighered.com/advice/2013/08/28/essay-advice-those-starting-careers-assistant-professors  
 
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#table-of-contents)
