@@ -46,6 +46,8 @@ Note that some publications are behind a paywall (your institution may have subs
 ---
   
 ## 01 The Role of Tertiary Education
+**UK’s innovation strategy to specify ‘missions’ and ‘strategic tech’** || Minister bills new strategy as helping UK to keep pace with ‘global innovation race’ || July 22, 2021 || John Morgan || https://www.timeshighereducation.com/news/uks-innovation-strategy-specify-missions-and-strategictech  
+
 **Political Science Has Its Own Lab Leaks** || When ideas get out from academia into the wild, they can be surprisingly dangerous. || By Paul Musgrave || Jul 3, 2021 || *Foreign Policy* || https://foreignpolicy.com/2021/07/03/political-science-dangerous-lab-leaks/
 
 **It’s Time to Break Up the Ivy League Cartel** (How Meritocracy Became Trickle-Down Education) || Democracy requires something more than a handful of super-rich universities. || By Sam Haselby and Matt Stoller || May 28, 2021 || https://www.chronicle.com/article/how-meritocracy-became-trickle-down-education
