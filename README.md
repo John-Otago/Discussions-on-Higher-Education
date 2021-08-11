@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
 Version: 1.8.32  
-Last update: 10 Aug 2021
+Last update: 12 Aug 2021
 
 Compiled by J.W.
 
@@ -284,6 +284,8 @@ By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-an
   
   
 ## 06 Research and Publication
+**Methods and madness: Data don’t lie, but they can lead scientists to opposite conclusions** || Analytical methods can also influence results || _The Economist_ || Jul 31st 2021 || https://www.economist.com/science-and-technology/2021/07/28/data-dont-lie-but-they-can-lead-scientists-to-opposite-conclusions  
+
 **When Should You Submit Your Scholarly Book Proposal?** || Laura Portwood-Stacer || July 13, 2021 || https://www.insidehighered.com/advice/2021/07/13/advice-when-submit-your-scholarly-book-proposal-opinion  
   
 **Systematic Bias in the Progress of Research** || Amir Rubin & Eran Rubin || *Journal of Political Economy* || July 12, 2021 || https://www.journals.uchicago.edu/doi/full/10.1086/715021
@@ -323,6 +325,8 @@ By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-an
 **Research grant veto powers need guidance, Australian scholars say** || Researchers press for ministerial code of conduct amid fears that latest political intervention may never be resolved || May 20, 2021 || John Ross || https://www.timeshighereducation.com/news/research-grant-veto-powers-need-guidance-australian-scholars-say
 
 **Why Disability Studies Scholars Are Protesting a Prominent Textbook** || By Nell Gluckman || APRIL 13, 2021 || https://www.chronicle.com/article/why-disability-studies-scholars-are-protesting-a-prominent-textbook 
+
+**A Meta-Scientific Perspective on “Thinking: Fast and Slow"** || _Replicability-Index_ || December 30, 2020 || https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/  
 
 **One Discipline's Soaring Publishing Expectations** || It's not just you: sociology's publishing expectations have doubled in recent decades, by some measures, and that threatens research ingenuity, according to one study. || Colleen Flaherty || March 27, 2019 || https://www.insidehighered.com/news/2019/03/27/sociologys-publishing-expectations-have-doubled-recent-decades
   
