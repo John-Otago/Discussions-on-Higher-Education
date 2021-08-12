@@ -84,7 +84,9 @@ Note that some publications are behind a paywall (your institution may have subs
   
   
 ## 02 The Model of Tertiary Education: Students, Academics, and Administrators  
-**America’s Collapsing Meritocracy Is a Recipe for Revolt** || Chinese history shows what happens when an old system loses its force. || By Paul Musgrave || July 16, 2021 || https://foreignpolicy.com/2021/07/16/taiping-rebellion-addison-rae-meritocracy-exams-rebellion/
+**America’s Collapsing Meritocracy Is a Recipe for Revolt** || Chinese history shows what happens when an old system loses its force. || By Paul Musgrave || July 16, 2021 || https://foreignpolicy.com/2021/07/16/taiping-rebellion-addison-rae-meritocracy-exams-rebellion/  
+
+**Is it a good idea to treat postgraduate researchers as staff?** || As a union steps up the fight in the UK, wide variation in the treatment of PhD candidates continues around the world || July 13, 2021 || Jack Grove || https://www.timeshighereducation.com/news/it-good-idea-treat-postgraduate-researchers-asstaff  
 
 **For College Finances, There’s No ‘Return to Normal’** || The critical problems facing higher education won’t end with the pandemic. || By Mark S. LeClair || June 15, 2021 || https://www.chronicle.com/article/for-college-finances-theres-no-return-to-normal
 
