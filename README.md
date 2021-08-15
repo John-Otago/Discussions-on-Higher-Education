@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
 Version: 1.8.33  
-Last update: 15 Aug 2021
+Last update: 16 Aug 2021
 
 Compiled by J.W.
 
@@ -46,6 +46,8 @@ Note that some publications are behind a paywall (your institution may have subs
 ---
   
 ## 01 The Role of Tertiary Education
+**Nicholas Dirks: the ‘two cultures’ must finally be reconciled** || 11 Aug 2021 || By Nicholas Dirks || https://www.timeshighereducation.com/unijobs/article/nicholas-dirks-the-two-cultures-must-finally-be-reconciled/  
+
 **UK’s innovation strategy to specify ‘missions’ and ‘strategic tech’** || Minister bills new strategy as helping UK to keep pace with ‘global innovation race’ || July 22, 2021 || John Morgan || https://www.timeshighereducation.com/news/uks-innovation-strategy-specify-missions-and-strategictech  
 
 **Political Science Has Its Own Lab Leaks** || When ideas get out from academia into the wild, they can be surprisingly dangerous. || By Paul Musgrave || Jul 3, 2021 || *Foreign Policy* || https://foreignpolicy.com/2021/07/03/political-science-dangerous-lab-leaks/
@@ -412,6 +414,8 @@ By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-an
 
 **The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job** || K Kelsky || 2015 || Crown || https://theprofessorisin.com/buy-the-book/  
   
+**Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life** || W Deresiewicz || 2014 || Free Press || https://www.amazon.com/Excellent-Sheep-Miseducation-American-Meaningful/dp/1476702721/  
+
 **So What Are You Going to Do with That? Finding Careers Outside Academia (3rd ed.)** || S Basalla & M Debelius || 2014 || University of Chicago Press || https://press.uchicago.edu/ucp/books/book/chicago/S/bo19503047.html  
   
 **Surviving Your Academic Job Hunt: Advice for Humanities PhDs** 2nd ed. || K Hume || 2011 || Palgrave || https://www.palgrave.com/gp/book/9780230109469
