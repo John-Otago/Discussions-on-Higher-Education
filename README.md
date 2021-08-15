@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 1.8.32  
-Last update: 12 Aug 2021
+Version: 1.8.33  
+Last update: 15 Aug 2021
 
 Compiled by J.W.
 
@@ -288,6 +288,8 @@ By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-an
   
   
 ## 06 Research and Publication
+**UKRI open access policy mandates free-to-read monographs** || Publishers criticise continued embrace of ‘green’ model alongside ‘gold’, but funder insists it has struck the right balance || August 6, 2021 || Anna McKie || https://www.timeshighereducation.com/news/ukri-open-access-policy-mandates-free-read-monographs  
+
 **Methods and madness: Data don’t lie, but they can lead scientists to opposite conclusions** || Analytical methods can also influence results || _The Economist_ || Jul 31st 2021 || https://www.economist.com/science-and-technology/2021/07/28/data-dont-lie-but-they-can-lead-scientists-to-opposite-conclusions  
 
 **When Should You Submit Your Scholarly Book Proposal?** || Laura Portwood-Stacer || July 13, 2021 || https://www.insidehighered.com/advice/2021/07/13/advice-when-submit-your-scholarly-book-proposal-opinion  
