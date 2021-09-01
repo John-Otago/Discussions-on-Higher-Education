@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 1.8.33  
-Last update: 16 Aug 2021
+Version: 1.9.35  
+Last update: 1 Sep 2021
 
 Compiled by J.W.
 
@@ -46,6 +46,8 @@ Note that some publications are behind a paywall (your institution may have subs
 ---
   
 ## 01 The Role of Tertiary Education
+**Is STEM growth really stunting the humanities?** || The narrative that the humanities are haemorrhaging students, funding and political favour is deeply felt around the world. But the evidence of the disciplines’ decline is considerably more nuanced, finds Simon Baker || August 19, 2021 || Simon Baker || https://www.timeshighereducation.com/features/stem-growth-really-stunting-humanities  
+
 **Nicholas Dirks: the ‘two cultures’ must finally be reconciled** || 11 Aug 2021 || By Nicholas Dirks || https://www.timeshighereducation.com/unijobs/article/nicholas-dirks-the-two-cultures-must-finally-be-reconciled/  
 
 **UK’s innovation strategy to specify ‘missions’ and ‘strategic tech’** || Minister bills new strategy as helping UK to keep pace with ‘global innovation race’ || July 22, 2021 || John Morgan || https://www.timeshighereducation.com/news/uks-innovation-strategy-specify-missions-and-strategictech  
