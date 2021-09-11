@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 1.9.35  
-Last update: 1 Sep 2021
+Version: 1.9.36  
+Last update: 11 Sep 2021
 
 Compiled by J.W.
 
@@ -46,6 +46,8 @@ Note that some publications are behind a paywall (your institution may have subs
 ---
   
 ## 01 The Role of Tertiary Education
+**Spiegelhalter: scientists straying too far into policy advocacy** || Cambridge statistician tells THE World Academic Summit that experts’ media role in pandemic had not been ‘unalloyed success’ || September 3, 2021 || Simon Baker || https://www.timeshighereducation.com/news/spiegelhalter-scientists-straying-too-far-policy-advocacy  
+  
 **Is STEM growth really stunting the humanities?** || The narrative that the humanities are haemorrhaging students, funding and political favour is deeply felt around the world. But the evidence of the disciplines’ decline is considerably more nuanced, finds Simon Baker || August 19, 2021 || Simon Baker || https://www.timeshighereducation.com/features/stem-growth-really-stunting-humanities  
 
 **Nicholas Dirks: the ‘two cultures’ must finally be reconciled** || 11 Aug 2021 || By Nicholas Dirks || https://www.timeshighereducation.com/unijobs/article/nicholas-dirks-the-two-cultures-must-finally-be-reconciled/  
@@ -292,6 +294,8 @@ By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-an
   
   
 ## 06 Research and Publication
+**UKRI’s new open access policy will hinder open science** || Only unrestricted access to journal articles’ version of record will fulfil the aims of the open access movement, says Carrie Webster || September 3, 2021 || Carrie Webster || https://www.timeshighereducation.com/blog/ukris-new-open-access-policy-will-hinder-open-science
+
 **UKRI open access policy mandates free-to-read monographs** || Publishers criticise continued embrace of ‘green’ model alongside ‘gold’, but funder insists it has struck the right balance || August 6, 2021 || Anna McKie || https://www.timeshighereducation.com/news/ukri-open-access-policy-mandates-free-read-monographs  
 
 **Methods and madness: Data don’t lie, but they can lead scientists to opposite conclusions** || Analytical methods can also influence results || _The Economist_ || Jul 31st 2021 || https://www.economist.com/science-and-technology/2021/07/28/data-dont-lie-but-they-can-lead-scientists-to-opposite-conclusions  
@@ -346,6 +350,8 @@ By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-an
   
    
 ## 07 International Students & International Education 
+**Branch campuses coming of age as pandemic disrupts mobility** || But offshore bulwarks take many forms – and in some institutions, staying at home works best || September 2, 2021 || John Ross || https://www.timeshighereducation.com/news/branch-campuses-coming-age-pandemic-disrupts-mobility
+
 **After Deep Drops, International Applications Rebound, Survey Finds** || By Karin Fischer || June 10, 2021 || https://www.chronicle.com/article/after-deep-drops-international-applications-rebound-survey-finds
 
 **Covid and geopolitical tensions ‘stem Asian brain drain’** || Interplay of pandemic, geopolitics and demographics generating ‘significant movement in this part of the world’ || June 3, 2021 || John Ross || https://www.timeshighereducation.com/news/covid-and-geopolitical-tensions-stem-asian-brain-drain
