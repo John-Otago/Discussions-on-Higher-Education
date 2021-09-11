@@ -35,7 +35,7 @@ Note that some publications are behind a paywall (your institution may have subs
   
 ## Table of Contents
 [01 The Role of Tertiary Education](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#01-the-role-of-tertiary-education)  
-[02 The Model of Tertiary Education: Students, Academics, and Administrators](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#02-the-model-of-tertiary-education-students-academics-and-administrators)  
+[02 The Model of Tertiary Education](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#02-the-model-of-tertiary-education-students-academics-and-administrators)  
 [03 Transforming Education: Teaching & Teaching Innovation](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#03-transforming-education-teaching--teaching-innovation)  
 [04 The Academic Job Market](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#04-the-academic-job-market)  
 [05 Working in Academia](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#05-working-in-academia)  
