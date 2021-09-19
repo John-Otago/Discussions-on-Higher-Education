@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 1.9.36  
-Last update: 11 Sep 2021
+Version: 1.9.38  
+Last update: 19 Sep 2021
 
 Compiled by J.W.
 
@@ -136,6 +136,8 @@ Note that some publications are behind a paywall (your institution may have subs
   
   
 ## 03 Transforming Education: Teaching & Teaching Innovation  
+**Want better student engagement? Turn your course into a game** || Gamification is not a magic bullet and it will not magically make the most boring task exciting, but it can be a catalyst for change || September 4, 2021 || John Ross || https://beta.timeshighereducation.com/news/want-better-student-engagement-turn-your-course-agame  
+
 **Why, Post-Pandemic, Your Campus Needs More ‘Super Courses’** || The case for seizing the moment and offering more courses on big social, economic, and health issues. || By Ken Bain and Marsha Marshall Bain || July 6, 2021 || https://www.chronicle.com/article/why-post-pandemic-your-campus-needs-more-super-courses
 
 **2U-edX deal shows short courses ‘here to stay’** || The $800 million deal could prompt further consolidation within sector, experts say || July 3, 2021 || Anna McKie || https://www.timeshighereducation.com/news/2u-edx-deal-shows-short-courses-here-stay
