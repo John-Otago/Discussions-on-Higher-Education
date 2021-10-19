@@ -257,6 +257,8 @@ July 8, 2021 || https://www.chronicle.com/article/admin-101-how-to-interpret-ref
   
   
 ## 05 Working in Academia
+**Cancel culture: ‘fish out of water’ academics feel it most** || While right-leaning scholars are most likely to feel silenced in the West, in the developing world, left-wingers are more likely to self-censor || September 29, 2021 || Anna McKie || https://www.timeshighereducation.com/news/cancel-culture-fish-out-water-academics-feel-it-most  
+
 **When marking is such an ordeal, is it any wonder errors creep in?** || The summer marking marathon is among the most dreary of academic duties. Thank goodness students can appeal, says Brian Bloch || July 9, 2021 || Brian Bloch || https://www.timeshighereducation.com/blog/when-marking-such-ordeal-it-any-wonder-errors-creep  
   
 **Your Most Important Resource Is Eyeing the Door** || What colleges and universities need now is compassion, but not for the reasons you might think. || By Sarah Rose Cavanagh || June 16, 2021 || https://www.chronicle.com/article/your-most-important-resource-is-eyeing-the-door
@@ -354,6 +356,8 @@ By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-an
   
    
 ## 07 International Students & International Education 
+**Is Western academia keeping up with Asia’s rise?** || In the third decade of the so-called Asian century, European and North American universities and governments continue to neglect the world’s most populous continent. As Asia grows ever more powerful, this must change, scholars tell Joyce Lau || September 30, 2021 || Joyce Lau || https://www.timeshighereducation.com/features/western-academia-keeping-asias-rise  
+
 **Branch campuses coming of age as pandemic disrupts mobility** || But offshore bulwarks take many forms – and in some institutions, staying at home works best || September 2, 2021 || John Ross || https://www.timeshighereducation.com/news/branch-campuses-coming-age-pandemic-disrupts-mobility
 
 **After Deep Drops, International Applications Rebound, Survey Finds** || By Karin Fischer || June 10, 2021 || https://www.chronicle.com/article/after-deep-drops-international-applications-rebound-survey-finds
