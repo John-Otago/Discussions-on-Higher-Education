@@ -1,6 +1,6 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 1.10.42  
+Version: 1.11.46  
 Last update: 19 Oct 2021
 
 Compiled by J.W.
@@ -300,6 +300,8 @@ By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-an
   
   
 ## 06 Research and Publication
+**Open access switch picks up pace in Australia and New Zealand** || Springer pact follows agreement with Cambridge University Press, as other big publishers prepare to follow suit || October 20, 2021 || John Ross || https://www.timeshighereducation.com/news/open-access-switch-picks-pace-inaustralia-and-new-zealand
+
 **UKRI’s new open access policy will hinder open science** || Only unrestricted access to journal articles’ version of record will fulfil the aims of the open access movement, says Carrie Webster || September 3, 2021 || Carrie Webster || https://www.timeshighereducation.com/blog/ukris-new-open-access-policy-will-hinder-open-science
 
 **UKRI open access policy mandates free-to-read monographs** || Publishers criticise continued embrace of ‘green’ model alongside ‘gold’, but funder insists it has struck the right balance || August 6, 2021 || Anna McKie || https://www.timeshighereducation.com/news/ukri-open-access-policy-mandates-free-read-monographs  
