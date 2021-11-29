@@ -417,7 +417,7 @@ By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-an
 **Teaching Common Sense: The Grand Strategy Program at Yale University** || L Kulman || 2016 || Prospecta Press || https://www.amazon.com/Teaching-Common-Sense-Strategy-University/dp/1632260689/  
   
   
-*Note: there are many more books on relevant topics that I'm unable to included.*
+*Note: there are many more books on relevant topics that I'm unable to include.*
   
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#table-of-contents)
