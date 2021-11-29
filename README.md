@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 1.11.48  
-Last update: 22 Nov 2021
+Version: 1.11.49  
+Last update: 29 Nov 2021
 
 Compiled by J.W.
 
@@ -396,7 +396,7 @@ By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-an
 ## 08 Relevant Books
 **The New PhD: How to Build a Better Graduate Education** || L Cassuto & R Weisbuch || 2021 || Johns Hopkins UP || https://jhupbooks.press.jhu.edu/title/new-phd  
 >*Note: I've read the Introduction and Chapters 1, 3, and 7-10.*  
->- Introduction: the big picture.
+>- Introduction: the big picture, including the collapsed academic job markets for PhD graduates.
 >- Chap 1: a very good summary of past attempts in the US since 1990.
 >- Chap 3: important but the suggested approaches (e.g. workshops/courses and career counselling) are a bit cliche; internship sounds great but will add time; I doubt if a 'time neutral' approach (p. 129) really exists to prepare PhD students for diverse careers (more preparation = more time); 'without lengthening an already long time to degree' probably means students need to work longer hours within the overall timeframe to prepare for non-academic careers in addition to conducting academic research, or they need to significantly increase their productivity, or both (longer hours + increased productivity).
 >- Chap 7: the first part doesn't seem to be relevant; I also disagree that '[t]he literature that analyzes graduate student advising is scant' (p. 225; this is a heavily researched area in Education, albeit seldom on career diversity per se); the rest of the chapter offers good advice--these methods inevitably add more work (and more time) for the already overworked advisors and students, and may become a 'tick-the-box' thing (p. 227) with little substance as the authors have pointed out.
@@ -405,42 +405,21 @@ By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-an
 >- Chap 10: again, an interesting chapter; I like their discussion on p. 297—my take is that, if you are productive in producing scholarship, then you should also be productive in writing op-eds (quality and speed are both important in academic productivity); besides, if you are invited to write op-eds based on your research, you should be somewhat established in your field; finally, the rest of the chapter is also great, and other forms of public scholarship I can add include universal open-access publication/self-archiving, open-source software, open data, and book-writing for the general public.  
 >
 >Overall, it’s a nice book on an important and perhaps urgent topic, although it’s a long read (lots of details) and many time-deprived academics may not have time to read it. Also, the chapters I’ve seen missed international students who are doing PhD in the US and their unique challenges; on a relevant note, the collapse of the academic job market is a problem facing many countries, while the book has missed international perspectives. Last, ‘career diversity’ only seems to mean ‘getting a job’, overlooking student-entrepreneurs who want to start their own business/startup or non-profit.
-  
-**Minds Wide Shut: How the New Fundamentalisms Divide Us** || GS Morson & M Schapiro || 2021 || Princeton University Press || https://press.princeton.edu/books/hardcover/9780691214917/minds-wide-shut  
-  
+    
 **Lean Semesters: How Higher Education Reproduces Inequity** || Sekile M. Nzinga || 2020 || Johns Hopkins UP || https://jhupbooks.press.jhu.edu/title/lean-semesters || *Note: I haven't got the chance to read this book. A review is available [here](https://doi.org/10.1177/08912432211022697).*  
-  
-**The Academic's Handbook, 4th ed.** || JH Olcott & L Flores || 2020 || Duke UP || https://www.dukeupress.edu/the-academics-handbook-fourth-edition 
-
-**A Field Guide to Grad School: Uncovering the Hidden Curriculum** (Skills for Scholars series) || by Jessica McCrory Calarco || 2020 || Princeton UP || https://press.princeton.edu/books/paperback/9780691201092/a-field-guide-to-grad-school
-
-**Leaving Academia: A Practical Guide** (Skills for Scholars series) || CL Caterine || 2020 || Princeton UP || https://press.princeton.edu/books/hardcover/9780691200200/leaving-academia
-
-**Going Alt-Ac: A Guide to Alternative Academic Careers** || KE Linder et al. || 2020 || Stylus Publishing || https://styluspub.presswarehouse.com/browse/book/9781620368312/Going-Alt-Ac
-
-**Writing your journal article in twelve weeks: a guide to academic publishing success** 2nd ed. || WL Belcher || 2019 || University of Chicago Press || https://press.uchicago.edu/ucp/books/book/chicago/W/bo26985005.html
-  
-**Succeeding Outside the Academy: Career Paths beyond the Humanities, Social Sciences, and STEM** || J Fruscione & KJ Baker (eds) || 2018 || University Press of Kansas || https://kansaspress.ku.edu/978-0-7006-2688-5.html  
   
 **Cents and Sensibility: What Economics Can Learn from the Humanities** || GS Morson & M Schapiro || 2017 || Princeton University Press || https://press.princeton.edu/books/hardcover/9780691176680/cents-and-sensibility  
   
-**The Craft of Research** 4th ed. || WC Booth et al. || 2016 || University of Chicago Press || https://press.uchicago.edu/ucp/books/book/chicago/C/bo23521678.html
-
-**The Academic Job Search Handbook** 5th ed. || JM Vick et al. || 2016 || U of Pennsylvania Press || https://www.upenn.edu/pennpress/book/915.html
-
-**How To Get A PhD: A Handbook for Students and Their Supervisors** 6th ed. || E Phillips || 2015 || Open UP || https://www.amazon.com/How-Get-Phd-Handbook-Supervisors/dp/0335264123/
-
-**University Startups and Spin-Offs: Guide for Entrepreneurs in Academia** || M Stagars || 2015 || Apress || https://www.apress.com/gp/book/9781484206249 || https://link.springer.com/book/10.1007/978-1-4842-0623-2
-
-**The Professor Is In: The Essential Guide to Turning Your Ph.D. into a Job** || K Kelsky || 2015 || Crown || https://theprofessorisin.com/buy-the-book/  
+**Minds Wide Shut: How the New Fundamentalisms Divide Us** || GS Morson & M Schapiro || 2021 || Princeton University Press || https://press.princeton.edu/books/hardcover/9780691214917/minds-wide-shut  
   
 **Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life** || W Deresiewicz || 2014 || Free Press || https://www.amazon.com/Excellent-Sheep-Miseducation-American-Meaningful/dp/1476702721/  
 
-**So What Are You Going to Do with That? Finding Careers Outside Academia (3rd ed.)** || S Basalla & M Debelius || 2014 || University of Chicago Press || https://press.uchicago.edu/ucp/books/book/chicago/S/bo19503047.html  
+**Teaching Common Sense: The Grand Strategy Program at Yale University** || L Kulman || 2016 || Prospecta Press || https://www.amazon.com/Teaching-Common-Sense-Strategy-University/dp/1632260689/  
   
-**Surviving Your Academic Job Hunt: Advice for Humanities PhDs** 2nd ed. || K Hume || 2011 || Palgrave || https://www.palgrave.com/gp/book/9780230109469
   
-   
+*Note: there are many more books on relevant topics that I'm unable to included.*
+  
+  
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#table-of-contents)
 ---
    
