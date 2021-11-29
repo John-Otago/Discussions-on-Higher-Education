@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
 Version: 1.11.49  
-Last update: 29 Nov 2021
+Last update: 30 Nov 2021
 
 Compiled by J.W.
 
@@ -415,6 +415,8 @@ By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-an
 **Excellent Sheep: The Miseducation of the American Elite and the Way to a Meaningful Life** || W Deresiewicz || 2014 || Free Press || https://www.amazon.com/Excellent-Sheep-Miseducation-American-Meaningful/dp/1476702721/  
 
 **Teaching Common Sense: The Grand Strategy Program at Yale University** || L Kulman || 2016 || Prospecta Press || https://www.amazon.com/Teaching-Common-Sense-Strategy-University/dp/1632260689/  
+
+**Super Courses: The Future of Teaching and Learning** || K Bain || 2021 || Princeton UP || https://press.princeton.edu/books/hardcover/9780691185460/super-courses
   
   
 *Note: there are many more books on relevant topics that I'm unable to include.*
