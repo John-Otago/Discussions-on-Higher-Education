@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 1.11.49  
-Last update: 30 Nov 2021
+Version: 1.12.50  
+Last update: 6 Dec 2021
 
 Compiled by J.W.
 
@@ -360,6 +360,8 @@ By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-an
   
    
 ## 07 International Students & International Education 
+**Is the honeymoon period over for liberal arts in Asia?** || Saikat Majumdar surveys developments from the Gulf to South Korea in light of the closure of Yale-NUS College || November 25, 2021 || Saikat Majumdar || https://www.timeshighereducation.com/depth/honeymoon-period-over-liberal-arts-asia  
+  
 **Is Western academia keeping up with Asia’s rise?** || In the third decade of the so-called Asian century, European and North American universities and governments continue to neglect the world’s most populous continent. As Asia grows ever more powerful, this must change, scholars tell Joyce Lau || September 30, 2021 || Joyce Lau || https://www.timeshighereducation.com/features/western-academia-keeping-asias-rise  
 
 **Branch campuses coming of age as pandemic disrupts mobility** || But offshore bulwarks take many forms – and in some institutions, staying at home works best || September 2, 2021 || John Ross || https://www.timeshighereducation.com/news/branch-campuses-coming-age-pandemic-disrupts-mobility
