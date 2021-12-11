@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
 Version: 1.12.50  
-Last update: 6 Dec 2021
+Last update: 12 Dec 2021
 
 Compiled by J.W.
 
@@ -136,6 +136,8 @@ Note that some publications are behind a paywall (your institution may have subs
   
   
 ## 03 Transforming Education: Teaching & Teaching Innovation  
+**Tan Eng Chye on fully embracing lifelong learning** || The National University of Singapore president says changing mindsets has been the most challenging aspect of overhauling approach to education || December 7, 2021 || Rosa Ellis || https://www.timeshighereducation.com/talking-leadership/talking-leadership-5-tan-eng-chye-fully-embracing-lifelong-learning  
+
 **Hands-on teaching gains evidence but struggles with adoption** || Research keeps affirming benefits of ‘active learning’ styles but faculty resistance persists, experts find || October 1, 2021 || Paul Basken || https://www.timeshighereducation.com/news/hands-teaching-gains-evidence-struggles-adoption  
 
 **Want better student engagement? Turn your course into a game** || Gamification is not a magic bullet and it will not magically make the most boring task exciting, but it can be a catalyst for change || September 4, 2021 || John Ross || https://beta.timeshighereducation.com/news/want-better-student-engagement-turn-your-course-agame  
