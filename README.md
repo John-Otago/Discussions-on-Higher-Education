@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 1.12.50  
-Last update: 12 Dec 2021
+Version: 2.1.1  
+Last update: 04 Jan 2022
 
 Compiled by J.W.
 
@@ -260,7 +260,9 @@ July 8, 2021 || https://www.chronicle.com/article/admin-101-how-to-interpret-ref
   
 ## 05 Working in Academia
 **Ageing workforce in non-science fields ‘not good news’ for UK** || While some disciplines naturally have older researchers, more job security is needed to attract young, experts say || November 19, 2021 || Simon Baker || https://www.timeshighereducation.com/news/ageing-workforce-non-science-fields-not-good-news-uk  
-
+  
+**Four in 10 UK PhD students ‘at high risk of suicide’, says study** || Loneliness and intellectual insecurity highlighted as prime reasons for elevated suicide risk among doctoral researchers || October 14, 2021 || Jack Grove || https://www.timeshighereducation.com/news/four-10-uk-phd-students-high-risk-suicide-says-study  
+  
 **Cancel culture: ‘fish out of water’ academics feel it most** || While right-leaning scholars are most likely to feel silenced in the West, in the developing world, left-wingers are more likely to self-censor || September 29, 2021 || Anna McKie || https://www.timeshighereducation.com/news/cancel-culture-fish-out-water-academics-feel-it-most  
 
 **When marking is such an ordeal, is it any wonder errors creep in?** || The summer marking marathon is among the most dreary of academic duties. Thank goodness students can appeal, says Brian Bloch || July 9, 2021 || Brian Bloch || https://www.timeshighereducation.com/blog/when-marking-such-ordeal-it-any-wonder-errors-creep  
