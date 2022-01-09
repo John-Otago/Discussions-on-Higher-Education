@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 2.1.1  
-Last update: 04 Jan 2022
+Version: 2.1.2  
+Last update: 10 Jan 2022
 
 Compiled by J.W.
 
@@ -136,6 +136,8 @@ Note that some publications are behind a paywall (your institution may have subs
   
   
 ## 03 Transforming Education: Teaching & Teaching Innovation  
+**Is block teaching the future of university pedagogy?** || Teaching modules intensively, rather than in parallel, has had positive results at the handful of institutions that have tried it. But would it work for all students and all subjects? And would academics trade autonomy in course design for more research time? Anna McKie reports || January 6, 2022 || Anna McKie || https://www.timeshighereducation.com/depth/block-teaching-future-university-pedagogy  
+  
 **Tan Eng Chye on fully embracing lifelong learning** || The National University of Singapore president says changing mindsets has been the most challenging aspect of overhauling approach to education || December 7, 2021 || Rosa Ellis || https://www.timeshighereducation.com/talking-leadership/talking-leadership-5-tan-eng-chye-fully-embracing-lifelong-learning  
 
 **Hands-on teaching gains evidence but struggles with adoption** || Research keeps affirming benefits of ‘active learning’ styles but faculty resistance persists, experts find || October 1, 2021 || Paul Basken || https://www.timeshighereducation.com/news/hands-teaching-gains-evidence-struggles-adoption  
