@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 2.1.2  
-Last update: 10 Jan 2022
+Version: 2.1.8  
+Last update: 19 Jan 2022
 
 Compiled by J.W.
 
@@ -261,6 +261,8 @@ July 8, 2021 || https://www.chronicle.com/article/admin-101-how-to-interpret-ref
   
   
 ## 05 Working in Academia
+**‘Too ugly to teach’: universities ‘must end’ anonymous evaluation** || Continuing to offer anonymous surveys just invites abuse of lecturers, say Australian researchers || January 14, 2022 || Pola Lem || https://www.timeshighereducation.com/news/too-ugly-teach-universities-mustend-anonymous-evaluation  
+  
 **Ageing workforce in non-science fields ‘not good news’ for UK** || While some disciplines naturally have older researchers, more job security is needed to attract young, experts say || November 19, 2021 || Simon Baker || https://www.timeshighereducation.com/news/ageing-workforce-non-science-fields-not-good-news-uk  
   
 **Four in 10 UK PhD students ‘at high risk of suicide’, says study** || Loneliness and intellectual insecurity highlighted as prime reasons for elevated suicide risk among doctoral researchers || October 14, 2021 || Jack Grove || https://www.timeshighereducation.com/news/four-10-uk-phd-students-high-risk-suicide-says-study  
