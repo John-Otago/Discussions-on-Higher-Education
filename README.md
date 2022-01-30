@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
 Version: 2.1.8  
-Last update: 19 Jan 2022
+Last update: 30 Jan 2022
 
 Compiled by J.W.
 
@@ -90,6 +90,8 @@ Note that some publications are behind a paywall (your institution may have subs
   
   
 ## 02 The Model of Tertiary Education: Students, Academics, and Administrators  
+Talking leadership 10: Yong Hoon Lee on science and technology education || The Ulsan National Institute of Science and Technology president discusses project-based learning, securing government funding and demographic decline || January 25, 2022 || Ellie Bothwell || https://www.timeshighereducation.com/talking-leadership/talking-leadership-10-yong-hoon-lee-science-and-technology-education
+
 **America’s Collapsing Meritocracy Is a Recipe for Revolt** || Chinese history shows what happens when an old system loses its force. || By Paul Musgrave || July 16, 2021 || https://foreignpolicy.com/2021/07/16/taiping-rebellion-addison-rae-meritocracy-exams-rebellion/  
 
 **Is it a good idea to treat postgraduate researchers as staff?** || As a union steps up the fight in the UK, wide variation in the treatment of PhD candidates continues around the world || July 13, 2021 || Jack Grove || https://www.timeshighereducation.com/news/it-good-idea-treat-postgraduate-researchers-asstaff  
