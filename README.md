@@ -312,6 +312,8 @@ By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-an
   
   
 ## 06 Research and Publication
+Death of academic journal greatly exaggerated, says ERC president || Open access platforms are no substitute for peer-reviewed periodicals, says Maria Leptin || January 27, 2022 || Jack Grove || https://www.timeshighereducation.com/news/death-academic-journal-greatly-exaggerated-says-erc-president
+
 **Open access switch picks up pace in Australia and New Zealand** || Springer pact follows agreement with Cambridge University Press, as other big publishers prepare to follow suit || October 20, 2021 || John Ross || https://www.timeshighereducation.com/news/open-access-switch-picks-pace-inaustralia-and-new-zealand
 
 **UKRI’s new open access policy will hinder open science** || Only unrestricted access to journal articles’ version of record will fulfil the aims of the open access movement, says Carrie Webster || September 3, 2021 || Carrie Webster || https://www.timeshighereducation.com/blog/ukris-new-open-access-policy-will-hinder-open-science
