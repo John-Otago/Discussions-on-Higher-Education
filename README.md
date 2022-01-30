@@ -17,7 +17,7 @@ The collection was first released in 2021, although I have been collecting relev
 
 Putting together this collection with regular updates is time-consuming and can be physically and emotionally exhausting. I do not necessarily agree with everything collected here, and many issues facing us are highly complicated and politically sensitive. I don't like polarisation and hope we can find a way to talk to each other for better social cohesion to address the common challenges facing us—that's the purpose of this collection for informed discussion.
 
-For graduate students (including those starting or finishing graduate schools), [04 The Academic Job Market](https://github.com/John-Otago/Discussions-on-Higher-Education#04-the-academic-job-market) would be a useful section. Also consult my [PhD+ Project](https://github.com/John-Otago/PhD-Plus/blob/main/README.md) for more resources & advice. 
+For graduate students, [04 The Academic Job Market](https://github.com/John-Otago/Discussions-on-Higher-Education#04-the-academic-job-market) would be a useful section. Also consult my [PhD+ Project](https://github.com/John-Otago/PhD-Plus/blob/main/README.md) for more resources & advice. 
 
 [Section 06 Research and Publication](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#06-research-and-publication) may also help students and early-career researchers. Check out my project [Selected Journals in HASS](https://github.com/John-Otago/Selected-Journals-in-HASS) as well.
 
