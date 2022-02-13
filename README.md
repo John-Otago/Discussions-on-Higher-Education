@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 2.2.9  
-Last update: 6 Feb 2022
+Version: 2.2.10  
+Last update: 13 Feb 2022
 
 Compiled by J.W.
 
@@ -312,6 +312,8 @@ By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-an
   
   
 ## 06 Research and Publication
+**Peer review will only improve if journals’ decisions are audited** || Establishing a peer review accreditation scheme would also help incentivise higher standards, says Arfan Ghani || February 11, 2022 || Arfan Ghani || https://www.timeshighereducation.com/blog/peer-review-will-only-improve-if-journals-decisions-are-audited  
+  
 **Scientific publishing: Preprints on the coronavirus have been impressively reliable** || The case for publishing in expensive, restrictive scientific journals continues to weaken || Feb 5th 2022 || The Economnist || https://www.economist.com/science-and-technology/preprints-on-the-coronavirus-have-been-impressively-reliable/21807492
 
 **Death of academic journal greatly exaggerated, says ERC president** || Open access platforms are no substitute for peer-reviewed periodicals, says Maria Leptin || January 27, 2022 || Jack Grove || https://www.timeshighereducation.com/news/death-academic-journal-greatly-exaggerated-says-erc-president
