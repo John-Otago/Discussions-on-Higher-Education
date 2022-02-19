@@ -291,18 +291,15 @@ July 8, 2021 || https://www.chronicle.com/article/admin-101-how-to-interpret-ref
 
 **Why the United States has the best research universities** || Miguel Urquiola discusses the history of higher education in America and why it surpassed Europe. || By Tyler Smith || April 14, 2021 || https://www.aeaweb.org/research/research-universities-incentives-resources-virtuous-circles-us || Full research paper: https://www.aeaweb.org/articles?id=10.1257/jep.35.1.185
 
-**“On the Verge of Burnout”: Covid-19’s impact on faculty well-being  and career plans** || *The Chronicle of Higher Education* || https://connect.chronicle.com/rs/931-EKA-218/images/Covid%26FacultyCareerPaths_Fidelity_ResearchBrief_v3%20%281%29.pdf
+**“On the Verge of Burnout”: Covid-19’s impact on faculty well-being and career plans** || *The Chronicle of Higher Education* || https://connect.chronicle.com/rs/931-EKA-218/images/Covid%26FacultyCareerPaths_Fidelity_ResearchBrief_v3%20%281%29.pdf
 
 **The glut of prizes is undermining the true value of research and teaching** || Universities are now committed to ‘celebrating success’ and to treating every failure as just a stepping stone on the way to further success. Yet this, argues Joe Moran, is a betrayal of what really matters in the academy || by Joe Moran || November 26, 2020 || https://www.timeshighereducation.com/features/glut-prizes-undermining-true-value-research-and-teaching
 
 **Coping with the rational chaos of Chinese higher education** || Chinese universities now operate on a confusing ‘mixture of Chinese and Western institutional logics’. An anonymous scholar describes the practical and emotional challenges of dealing with constant uncertainty || September 17, 2020 || Anonymous || https://www.timeshighereducation.com/features/coping-rational-chaos-chinese-higher-educationChina’s
 
-**How welcoming is academia to LGBT staff?** || By some measures, universities are wonderfully accommodating workplaces for gays and lesbians. Six academics give us their perspective || May 5, 2016   || By Contributors || https://www.timeshighereducation.com/features/how-welcoming-is-academia-to-lesbian-gay-bisexual-transgender-lgbt-staff
-
 **Workload survival guide for academics** || Advice on how to cope with all the work and when to say no to opportunities || February 18, 2016 || *Times Higher Education* || https://www.timeshighereducation.com/features/workload-survival-guide-for-academics  
   
-**Me and My Shadow CV** || What would my vita look like if it recorded not just the successes of my professional life but also the many, many rejections? || 
-By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-and-my-shadow-cv/
+**Me and My Shadow CV** || What would my vita look like if it recorded not just the successes of my professional life but also the many, many rejections? || By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-and-my-shadow-cv/
   
 **Advice for New Hires** || Pamela Oliver shares advice for those starting their first semester as assistant professors. || By Pamela Oliver || August 28, 2013 || https://www.insidehighered.com/advice/2013/08/28/essay-advice-those-starting-careers-assistant-professors  
 
@@ -312,8 +309,6 @@ By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-an
   
   
 ## 06 Research and Publication
-**Need a citation? Then make your paper harder to read** || Study analysing readability and citations suggests academics may have an incentive to keep their abstracts complex || February 17, 2022 || Simon Baker || https://www.timeshighereducation.com/news/need-citation-then-make-your-paper-harder-read  
-  
 **Peer review will only improve if journals’ decisions are audited** || Establishing a peer review accreditation scheme would also help incentivise higher standards, says Arfan Ghani || February 11, 2022 || Arfan Ghani || https://www.timeshighereducation.com/blog/peer-review-will-only-improve-if-journals-decisions-are-audited  
   
 **Scientific publishing: Preprints on the coronavirus have been impressively reliable** || The case for publishing in expensive, restrictive scientific journals continues to weaken || Feb 5th 2022 || The Economnist || https://www.economist.com/science-and-technology/preprints-on-the-coronavirus-have-been-impressively-reliable/21807492
@@ -336,37 +331,15 @@ By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-an
   
 **Predatory journals undermining PhD by publication route** || Australian university limits journals accepted for doctorates amid mounting concern among academics || July 7, 2021 || John Ross || https://www.timeshighereducation.com/news/predatory-journals-undermining-phd-publication-route  
   
-**How to find the right journal for your research** || Joanna Wilkinson, *Clarivate* || July 1, 2021 || https://clarivate.com/blog/how-to-find-the-right-journal-for-your-research-using-actual-data/ || *Note: it's from Clarivate after the release of the latest JCR.*  
-  
 **Journal impact factor gets a sibling that adjusts for scientific field** || Cathleen O’Grady || Jun. 30, 2021 || https://www.sciencemag.org/news/2021/06/journal-impact-factor-gets-sibling-adjusts-scientific-field
-
-**The 2021 Journal Citation Reports (released)** || June 30, 2021 || Clarivate || https://clarivate.com/blog/the-2021-journal-citation-reports-a-continuing-evolution-in-journal-intelligence/
 
 **10 Tips on Grant Writing From a Seasoned Reviewer** || If you understand how grant decisions are made, you’ll know on which parts of the application to focus your time and energy. || By Jude P. Mikal || June 18, 2021 || https://www.chronicle.com/article/10-tips-on-grant-writing-from-a-seasoned-reviewer
 
-**‘World standard’ review for Australian research assessment** || Rating scale for Excellence in Research for Australia to be recalibrated, with Indigenous studies incorporated as a field in its own right || June 16, 2021 || John Ross || https://www.timeshighereducation.com/news/world-standard-review-australian-research-assessment
-
 **COVID-19 and socio-economics** || Gregory Jackson, *Socio-Economic Review* || 21 June 2021 || https://doi.org/10.1093/ser/mwab030
-
-**Journal Citation Reports (JCR)™ 2021: updates** || Clarivate || https://clarivate.com/blog/tag/jcr2021/
-
->*Note:*  
->- *AHCI journals are now included in the JCR (as of 2021) but still have no Impact Factors; however, they now have JCI (Journal Impact Indicators) as all the other journals.*
->- *JCI is based on the Category Normalized Citation Impact (CNCI), offering ‘a single value that is easy to interpret and compare’ across all the fields to measure citations: 1.0 = average, 2.0 = twice the average, 3.0 = three times the average, etc.*
   
 **Academics must become more engaged in the open access struggle** || Wide support for cOAlition S’ rights retention strategy would allow negotiators to take a harder line with publishers, says Alice Gibson || May 30, 2021 || Alice Gibson || https://www.timeshighereducation.com/blog/academics-must-become-more-engaged-open-access-struggle
-
-**Million-dollar wait over for Australian researchers** || No explanation for delay that kept 15 academics on tenterhooks for months || May 28, 2021 || John Ross || https://www.timeshighereducation.com/news/million-dollar-wait-over-australian-researchers
-
-**Shanghai Rankings: 2021 Global Ranking of Academic Subjects** || May 26, 2021 || https://www.shanghairanking.com/rankings/gras/2021 || Methodology: https://www.shanghairanking.com/methodology/gras/2021
-
-**Reliance on journal rankings is undermining academic integrity** || Careers can depend on publishing in higher-quartile journals, but the statistics are too easily gamed, says Jakša Cvitanić || May 21, 2021 || Jaksa Cvitanic || https://www.timeshighereducation.com/blog/reliance-journal-rankings-undermining-academic-integrity
-
-**Studies that fail to replicate ‘get more citations’** || Articles in leading journals that can be reproduced gain 16 fewer citations a year on average, say Californian economists || May 21, 2021 || Jack Grove || https://www.timeshighereducation.com/science/studies-fail-replicate-get-more-citations
-
-**Research grant veto powers need guidance, Australian scholars say** || Researchers press for ministerial code of conduct amid fears that latest political intervention may never be resolved || May 20, 2021 || John Ross || https://www.timeshighereducation.com/news/research-grant-veto-powers-need-guidance-australian-scholars-say
-
-**Why Disability Studies Scholars Are Protesting a Prominent Textbook** || By Nell Gluckman || APRIL 13, 2021 || https://www.chronicle.com/article/why-disability-studies-scholars-are-protesting-a-prominent-textbook 
+  
+**Reliance on journal rankings is undermining academic integrity** || Careers can depend on publishing in higher-quartile journals, but the statistics are too easily gamed, says Jakša Cvitanić || May 21, 2021 || Jaksa Cvitanic || https://www.timeshighereducation.com/blog/reliance-journal-rankings-undermining-academic-integrity  
 
 **A Meta-Scientific Perspective on “Thinking: Fast and Slow"** || _Replicability-Index_ || December 30, 2020 || https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/  
 
@@ -378,15 +351,13 @@ By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-an
   
    
 ## 07 International Students & International Education 
-Australia-China research collaboration nosedives || Funding council statistics lend weight to anecdotal accounts that academics are self-censoring scholarship on superpower || February 17, 2022 || John Ross || https://www.timeshighereducation.com/news/australia-china-research-collaboration-nosedives  
+**Australia-China research collaboration nosedives** || Funding council statistics lend weight to anecdotal accounts that academics are self-censoring scholarship on superpower || February 17, 2022 || John Ross || https://www.timeshighereducation.com/news/australia-china-research-collaboration-nosedives  
   
 **Is the honeymoon period over for liberal arts in Asia?** || Saikat Majumdar surveys developments from the Gulf to South Korea in light of the closure of Yale-NUS College || November 25, 2021 || Saikat Majumdar || https://www.timeshighereducation.com/depth/honeymoon-period-over-liberal-arts-asia  
   
 **Is Western academia keeping up with Asia’s rise?** || In the third decade of the so-called Asian century, European and North American universities and governments continue to neglect the world’s most populous continent. As Asia grows ever more powerful, this must change, scholars tell Joyce Lau || September 30, 2021 || Joyce Lau || https://www.timeshighereducation.com/features/western-academia-keeping-asias-rise  
 
 **Branch campuses coming of age as pandemic disrupts mobility** || But offshore bulwarks take many forms – and in some institutions, staying at home works best || September 2, 2021 || John Ross || https://www.timeshighereducation.com/news/branch-campuses-coming-age-pandemic-disrupts-mobility
-
-**After Deep Drops, International Applications Rebound, Survey Finds** || By Karin Fischer || June 10, 2021 || https://www.chronicle.com/article/after-deep-drops-international-applications-rebound-survey-finds
 
 **Covid and geopolitical tensions ‘stem Asian brain drain’** || Interplay of pandemic, geopolitics and demographics generating ‘significant movement in this part of the world’ || June 3, 2021 || John Ross || https://www.timeshighereducation.com/news/covid-and-geopolitical-tensions-stem-asian-brain-drain
 
@@ -395,18 +366,6 @@ Australia-China research collaboration nosedives || Funding council statistics l
 **Universities ‘beacons of hope’ in ‘undiplomatic times’** || But academics need to navigate political tensions, even in their classrooms || June 2, 2021 || Joyce Lau || https://www.timeshighereducation.com/news/universities-beacons-hope-undiplomatic-times
 
 **East Asia gets back to business as usual as the storm wanes** || Largely sheltered from the pandemic-related financial fallout that has beset higher education in Western nations, East Asian institutions are being boosted by state funds and local philanthropists and are looking to be even more competitive internationally || June 2, 2021 || Joyce Lau || https://www.timeshighereducation.com/world-university-rankings/east-asia-gets-back-business-usual-storm-wanes
-
-**UK study visa numbers return to pre-pandemic levels** || Latest data from the Home Office show recovery in the number of visas granted over autumn and winter || May 29, 2021 || Simon Baker || https://www.timeshighereducation.com/news/uk-study-visa-numbers-return-pre-pandemic-levels
-
-**Recruitment agents ‘closing Australia desks’ in China** || Resurgent student flows set to bypass Australia and New Zealand as education agents in most regions usher clients to more welcoming countries || May 18, 2021 || John Ross || https://www.timeshighereducation.com/news/recruitment-agents-closing-australia-desks-china
-
-**Lost ground on international recruitment ‘may never be made up’** || Covid is compounding other major shifts in international flows to leave a permanent realignment, experts suggest || May 13, 2021 || Simon Baker || https://www.timeshighereducation.com/news/lost-ground-international-recruitment-may-never-be-made
-
-**How high can China fly?** || The country’s universities have shot up global rankings on the back of huge investment and a ruthless focus on publication. But as the country gears up for its next five-year plan, Joyce Lau asks whether stratospheric ambitions for a ‘Chinese Harvard’ can be met || January 7, 2021 || Joyce Lau || https://www.timeshighereducation.com/features/how-high-can-china-fly
-
-**Covid-19 will not dent Chinese demand for international education** || Coronavirus will not stop China’s growing and ambitious middle class from seeking a Western university education for their children, says Sabrina Wang || October 31, 2020 || Sabrina Wang || https://www.timeshighereducation.com/blog/covid-19-will-not-dent-chinese-demand-international-education
-
-**Which nations will weather the storm on international recruitment?** || by Paul Basken || June 18, 2020 || https://www.timeshighereducation.com/news/which-nations-will-weather-storm-international-recruitment
 
 **Asian higher education at the demographic cliff edge** || by Joyce Lau || June 3, 2020 || https://www.timeshighereducation.com/world-university-rankings/asian-higher-education-atthe-demographic-cliff-edge
   
