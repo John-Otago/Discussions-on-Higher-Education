@@ -26,7 +26,10 @@ Note that some publications are behind a paywall (your institution may have subs
 ---
   
 **Major Updates**  
-
+  
+20 Feb 2022  
+- Removed a large number of past news reports that no longer offer long-term values  
+  
 01 Aug 2021
 - Section 7 no longer includes specific reports on emerging countries (too many) to keep the focus on major international trends.
 - I have removed the *Chronicle* from my reading list.  
