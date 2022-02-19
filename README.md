@@ -312,7 +312,7 @@ By Devoney Looser || October 18, 2015 || https://www.chronicle.com/article/me-an
   
   
 ## 06 Research and Publication
-Need a citation? Then make your paper harder to read || Study analysing readability and citations suggests academics may have an incentive to keep their abstracts complex || February 17, 2022 || Simon Baker || https://www.timeshighereducation.com/news/need-citation-then-make-your-paper-harder-read
+**Need a citation? Then make your paper harder to read** || Study analysing readability and citations suggests academics may have an incentive to keep their abstracts complex || February 17, 2022 || Simon Baker || https://www.timeshighereducation.com/news/need-citation-then-make-your-paper-harder-read  
   
 **Peer review will only improve if journals’ decisions are audited** || Establishing a peer review accreditation scheme would also help incentivise higher standards, says Arfan Ghani || February 11, 2022 || Arfan Ghani || https://www.timeshighereducation.com/blog/peer-review-will-only-improve-if-journals-decisions-are-audited  
   
@@ -378,6 +378,8 @@ Need a citation? Then make your paper harder to read || Study analysing readabil
   
    
 ## 07 International Students & International Education 
+Australia-China research collaboration nosedives || Funding council statistics lend weight to anecdotal accounts that academics are self-censoring scholarship on superpower || February 17, 2022 || John Ross || https://www.timeshighereducation.com/news/australia-china-research-collaboration-nosedives  
+  
 **Is the honeymoon period over for liberal arts in Asia?** || Saikat Majumdar surveys developments from the Gulf to South Korea in light of the closure of Yale-NUS College || November 25, 2021 || Saikat Majumdar || https://www.timeshighereducation.com/depth/honeymoon-period-over-liberal-arts-asia  
   
 **Is Western academia keeping up with Asia’s rise?** || In the third decade of the so-called Asian century, European and North American universities and governments continue to neglect the world’s most populous continent. As Asia grows ever more powerful, this must change, scholars tell Joyce Lau || September 30, 2021 || Joyce Lau || https://www.timeshighereducation.com/features/western-academia-keeping-asias-rise  
