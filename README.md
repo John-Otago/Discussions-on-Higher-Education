@@ -180,12 +180,9 @@ Talking leadership 10: Yong Hoon Lee on science and technology education || The 
 
 **Do You Really Need a Ph.D.?** || As empowering as the notion of the alternative-academic path is, deciding to pursue a Ph.D. when the career you want doesn’t require a doctorate may not be the best choice, argues Arie Spirgel. || Arie Spirgel || July 15, 2021 || https://www.insidehighered.com/advice/2021/07/15/why-you-shouldnt-get-phd-if-you-dont-plan-be-academe-opinion  
   
-**Admin 101: How to Interpret Reference Letters** || Be wary of rock-star recommenders, over-the-top praise, and glaring omissions. || By David D. Perlmutter || 
-July 8, 2021 || https://www.chronicle.com/article/admin-101-how-to-interpret-reference-letters
+**Admin 101: How to Interpret Reference Letters** || Be wary of rock-star recommenders, over-the-top praise, and glaring omissions. || By David D. Perlmutter || July 8, 2021 || https://www.chronicle.com/article/admin-101-how-to-interpret-reference-letters
 
 **Three hard truths I learned before moving to a non-academic career** || Your new manager likely doesn’t have a PhD, and she’s higher on the food chain because experience is more valued than a doctorate, says Janelle Ward || June 11, 2021 || Janelle Ward || https://www.timeshighereducation.com/career/three-hard-truths-i-learned-moving-non-academic-career
-
-**Spring Enrollment’s Final Count Is In. Colleges Lost 600,000 Students.** || By Audrey Williams June || June 10, 2021 || https://www.chronicle.com/article/spring-enrollments-final-count-is-in-colleges-lost-600-000-students
 
 **Can Yale Reform Its Humanities Doctoral Programs?** || Major universities have been slow to acknowledge the collapse of the tenure-track job market. A new report from Yale changes that. || By Leonard Cassuto || May 14, 2021 || https://www.chronicle.com/article/can-yale-reform-its-humanities-doctoral-programs
 
