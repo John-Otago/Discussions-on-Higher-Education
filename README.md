@@ -70,19 +70,13 @@ Note that some publications are behind a paywall (your institution may have subs
 
 **David Willetts: ‘I find the concept of over-education repellent’** || Graduate employment outcomes are obviously crucial. Yet we must be wary of judging courses and institutions on the basis of a few useful but misleading metrics, argues the UK’s former universities minister || March 18, 2021 || David Willetts || https://www.timeshighereducation.com/features/david-willetts-i-find-concept-over-education-repellent
 
-**Why Did a University Suspend Its Mandatory Diversity Course?** || By Nell Gluckman || MARCH 18, 2021 || https://www.chronicle.com/article/why-did-a-university-suspend-its-mandatory-diversity-course
-
 **Social sciences’ lack of common truth criteria invites political attack** || Worries about Islamo-leftism in France and free speech in England reflect disciplines’ straddling of science and activism, says Alexis Artaud de La Ferrière || March 5, 2021 || Alexis Artaud de La Ferrière || https://www.timeshighereducation.com/blog/social-sciences-lack-common-truth-criteria-invites-political-attack
 
 **Redirecting the disadvantaged into FE will further stunt UK social mobility** || by Chris Cunningham and Colin Samson, timeshighereducation.com || July 29, 2020 || https://www.timeshighereducation.com/blog/redirecting-disadvantaged-fe-will-further-stunt-uk-social-mobility
 
 **Are young universities more focused on civic engagement?** || by John Ross || June 24, 2020 || https://www.timeshighereducation.com/world-university-rankings/are-young-universities-more-focused-civic-engagement
-
-**How can we save the Mooc?** || As most universities digitise all their teaching, they are finding it very difficult to deliver education online. Gorgi Krlev offers three challenges to conventional wisdom || June 4, 2020 || Gorgi Krlev || https://www.timeshighereducation.com/opinion/how-can-we-save-mooc  
   
 **New Report On The Harmful Effects Of Degree Inflation** || Oct 31, 2017 || Grads of Life || https://www.forbes.com/sites/gradsoflife/2017/10/31/new-report-on-the-harmful-effects-of-degree-inflation/
-
-**8 Questions About ‘Free’ Community College** || Is it just a gimmick? And if so, what is the goal? || By Rob Jenkins || OCTOBER 17, 2016 || https://www.chronicle.com/article/8-questions-about-free-community-college/
   
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#table-of-contents)
@@ -90,15 +84,13 @@ Note that some publications are behind a paywall (your institution may have subs
   
   
 ## 02 The Model of Tertiary Education: Students, Academics, and Administrators  
-Talking leadership 10: Yong Hoon Lee on science and technology education || The Ulsan National Institute of Science and Technology president discusses project-based learning, securing government funding and demographic decline || January 25, 2022 || Ellie Bothwell || https://www.timeshighereducation.com/talking-leadership/talking-leadership-10-yong-hoon-lee-science-and-technology-education
+Yong Hoon Lee on science and technology education || The Ulsan National Institute of Science and Technology president discusses project-based learning, securing government funding and demographic decline || January 25, 2022 || Ellie Bothwell || https://www.timeshighereducation.com/talking-leadership/talking-leadership-10-yong-hoon-lee-science-and-technology-education
 
 **America’s Collapsing Meritocracy Is a Recipe for Revolt** || Chinese history shows what happens when an old system loses its force. || By Paul Musgrave || July 16, 2021 || https://foreignpolicy.com/2021/07/16/taiping-rebellion-addison-rae-meritocracy-exams-rebellion/  
 
 **Is it a good idea to treat postgraduate researchers as staff?** || As a union steps up the fight in the UK, wide variation in the treatment of PhD candidates continues around the world || July 13, 2021 || Jack Grove || https://www.timeshighereducation.com/news/it-good-idea-treat-postgraduate-researchers-asstaff  
 
 **For College Finances, There’s No ‘Return to Normal’** || The critical problems facing higher education won’t end with the pandemic. || By Mark S. LeClair || June 15, 2021 || https://www.chronicle.com/article/for-college-finances-theres-no-return-to-normal
-
-**US faculty influence wanes during Covid, survey finds** || Ideal of shared governance suffers, though AAUP heartened by some revivals, especially at large public universities || June 9, 2021 || Paul Basken || https://www.timeshighereducation.com/news/us-faculty-influence-wanes-during-covid-survey-finds
 
 **Tax reform ‘the real game changer’ for research commercialisation** || Economist says university innovations can rejuvenate Australian productivity, but only if ‘bizarre’ tax arrangements are addressed || June 4, 2021 || John Ross || https://www.timeshighereducation.com/news/tax-reform-real-game-changer-research-commercialisation
 
@@ -108,21 +100,15 @@ Talking leadership 10: Yong Hoon Lee on science and technology education || The 
 
 **A $250 Million Fund Steers HBCU Endowments Into Venture Capital** || The Advancement Initiative aims to help less prosperous schools bridge the wealth gap through investments in late-stage startups. || By Lizette Chapman and Janet Lorin || May 27, 2021 || https://www.bloomberg.com/news/articles/2021-05-27/advancement-initiative-wants-to-steer-hbcu-endowments-into-venture-capital
 
-**Limited relief for universities in New Zealand budget** || Underwhelming increases in teaching subsidies and student benefits, while research misses out || May 20, 2021 || John Ross || https://www.timeshighereducation.com/news/limited-relief-universities-newzealand-budget
-
 **David Swensen, an influential investor, died on May 5th** || At Yale, Mr Swensen perfected the modern endowment model || May 15th 2021 || *The Economist* || https://www.economist.com/finance-and-economics/2021/05/15/david-swensen-an-influential-investor-died-on-may-5th
 
 **Arizona State’s Success Story: Model or Mirage?** || Michael Crow champions his campus as a new ideal. But does much of it simply boil down to cost control? || By Steven Brint || May 14, 2021 || https://www.chronicle.com/article/arizona-states-success-story-model-or-mirage
 
 **How Students Are Furthering Academe’s Corporatization** || By insisting on bureaucratic solutions to diversity problems, they are empowering administrations at the expense of the faculty. || By Amna Khalid || May 4, 2021 || https://www.chronicle.com/article/how-students-are-furthering-academes-corporatization
 
-**A Yale Law Prof Was Disciplined for Holding Dinner Parties. There’s More to the Story.** || By Tom Bartlett || APRIL 22, 2021 || https://www.chronicle.com/article/a-yale-law-prof-was-disciplined-for-holding-dinner-parties-theres-more-to-the-story
-
 **Only academics can run universities effectively** || The tired stereotype of the unworldly scholar has often been used to justify giving excessive influence over university management to businesspeople and administrators. There is ample evidence that this is a recipe for disaster, argues Terence Kealey || January 21, 2021 || Terence Kealey || https://www.timeshighereducation.com/features/only-academics-can-run-universities-effectively
 
 **Can Germany’s renowned vocational education system be exported?** || English ministers advised to start looking at key features like partnership with employers rather than using German system as ‘trademark’ || August 19, 2020 || John Morgan || https://www.timeshighereducation.com/news/can-germanys-renowned-vocational-education-system-be-exported
-
-**Pandemic crisis touted as time to finally embrace older students** || by Paul Basken || July 24, 2020  || https://www.timeshighereducation.com/news/pandemic-crisis-touted-time-finally-embrace-older-students
 
 **Identity politics is undermining university administration** || Professionals must be able to connect with students from different backgrounds, but obsessing about inter-group differences doesn't help, says an anonymous academic. || by Joseph Guarneri || June  3, 2020  || https://www.timeshighereducation.com/blog/identity-politics-undermining-university-administration
 
@@ -169,6 +155,8 @@ Talking leadership 10: Yong Hoon Lee on science and technology education || The 
 **Lectures on the way out in Australia and New Zealand, says survey** || January 31, 2021 || John Ross || https://www.timeshighereducation.com/news/lectures-way-out-australia-and-new-zealand-says-survey
 
 **More universities planning to drop lectures after pandemic** || January 7, 2021 || John Ross & Anna McKie || https://www.timeshighereducation.com/news/more-universities-planning-drop-lectures-after-pandemic
+
+**How can we save the Mooc?** || As most universities digitise all their teaching, they are finding it very difficult to deliver education online. Gorgi Krlev offers three challenges to conventional wisdom || June 4, 2020 || Gorgi Krlev || https://www.timeshighereducation.com/opinion/how-can-we-save-mooc  
   
   
 ### [Back to Table of Contents](https://github.com/John-Otago/Discussions-on-Higher-Education/blob/main/README.md#table-of-contents)
