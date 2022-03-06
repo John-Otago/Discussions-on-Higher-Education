@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 2.2.11  
-Last update: 20 Feb 2022
+Version: 2.3.13  
+Last update: 6 Mar 2022
 
 Compiled by J.W.
 
@@ -49,6 +49,8 @@ Note that some publications are behind a paywall (your institution may have subs
 ---
   
 ## 01 The Role of Tertiary Education
+**Biden pitches value of career-focused teaching** || With data showing better post-secondary pathway, administration wants more job-oriented course offerings || March 5, 2022 || Paul Basken || https://www.timeshighereducation.com/news/biden-pitches-value-career-focused-teaching  
+
 **Spiegelhalter: scientists straying too far into policy advocacy** || Cambridge statistician tells THE World Academic Summit that experts’ media role in pandemic had not been ‘unalloyed success’ || September 3, 2021 || Simon Baker || https://www.timeshighereducation.com/news/spiegelhalter-scientists-straying-too-far-policy-advocacy  
   
 **Is STEM growth really stunting the humanities?** || The narrative that the humanities are haemorrhaging students, funding and political favour is deeply felt around the world. But the evidence of the disciplines’ decline is considerably more nuanced, finds Simon Baker || August 19, 2021 || Simon Baker || https://www.timeshighereducation.com/features/stem-growth-really-stunting-humanities  
@@ -339,6 +341,8 @@ Yong Hoon Lee on science and technology education || The Ulsan National Institut
   
    
 ## 07 International Students & International Education 
+**Top Chinese graduates opt to stay at home for postgraduate study** || Proportion of leavers going overseas for further courses on a downward trend that predates pandemic || March 2, 2022 || Jing Liu || https://www.timeshighereducation.com/news/top-chinese-graduates-opt-stay-home-postgraduate-study  
+
 **Australia-China research collaboration nosedives** || Funding council statistics lend weight to anecdotal accounts that academics are self-censoring scholarship on superpower || February 17, 2022 || John Ross || https://www.timeshighereducation.com/news/australia-china-research-collaboration-nosedives  
   
 **Is the honeymoon period over for liberal arts in Asia?** || Saikat Majumdar surveys developments from the Gulf to South Korea in light of the closure of Yale-NUS College || November 25, 2021 || Saikat Majumdar || https://www.timeshighereducation.com/depth/honeymoon-period-over-liberal-arts-asia  
