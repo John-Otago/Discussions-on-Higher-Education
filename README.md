@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 2.3.13  
-Last update: 6 Mar 2022
+Version: 2.3.15  
+Last update: 20 Mar 2022
 
 Compiled by J.W.
 
@@ -49,6 +49,8 @@ Note that some publications are behind a paywall (your institution may have subs
 ---
   
 ## 01 The Role of Tertiary Education
+**Are the UK’s former polytechnics the solution to levelling up?** || Three decades after the abolition of the binary divide between universities and polytechnics, some commentators still lament the supposed loss of locally focused vocational education. But even as the political winds buffet them, do post-92s offer the solution to the UK’s skills problem? John Morgan reports || March 17, 2022 || John Morgan || https://www.timeshighereducation.com/depth/are-uks-former-polytechnics-solution-levelling
+  
 **Biden pitches value of career-focused teaching** || With data showing better post-secondary pathway, administration wants more job-oriented course offerings || March 5, 2022 || Paul Basken || https://www.timeshighereducation.com/news/biden-pitches-value-career-focused-teaching  
 
 **Spiegelhalter: scientists straying too far into policy advocacy** || Cambridge statistician tells THE World Academic Summit that experts’ media role in pandemic had not been ‘unalloyed success’ || September 3, 2021 || Simon Baker || https://www.timeshighereducation.com/news/spiegelhalter-scientists-straying-too-far-policy-advocacy  
