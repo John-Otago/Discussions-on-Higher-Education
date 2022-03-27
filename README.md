@@ -257,6 +257,8 @@ Yong Hoon Lee on science and technology education || The Ulsan National Institut
   
   
 ## 05 Working in Academia
+**Our to-do lists can’t grow forever. It’s time to try subtraction** || The default mode of human problem-solving is to add complexity. But we must try harder to resist, say Leidy Klotz and Robert Sutton || March 24, 2022 || Leidy Klotz & Robert Sutton || https://www.timeshighereducation.com/blog/our-do-lists-cant-grow-forever-its-time-try-subtraction  
+
 **‘Too ugly to teach’: universities ‘must end’ anonymous evaluation** || Continuing to offer anonymous surveys just invites abuse of lecturers, say Australian researchers || January 14, 2022 || Pola Lem || https://www.timeshighereducation.com/news/too-ugly-teach-universities-mustend-anonymous-evaluation  
   
 **Ageing workforce in non-science fields ‘not good news’ for UK** || While some disciplines naturally have older researchers, more job security is needed to attract young, experts say || November 19, 2021 || Simon Baker || https://www.timeshighereducation.com/news/ageing-workforce-non-science-fields-not-good-news-uk  
