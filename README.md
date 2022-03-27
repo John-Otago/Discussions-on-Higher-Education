@@ -347,6 +347,8 @@ Yong Hoon Lee on science and technology education || The Ulsan National Institut
   
    
 ## 07 International Students & International Education 
+**International learners stay cool on studying Down Under** || New Zealand now perceived poorly on factors where it used to excel, survey finds || March 24, 2022 || John Ross || https://www.timeshighereducation.com/news/international-learners-stay-cool-studying-down-under
+  
 **Australian MPs demand action on ‘sustained foreign intimidation’** || Penalties for student snitches and curbs on Confucius Institutes and Thousand Talents Programme among dozens of recommendations from security committee || March 25, 2022 || John Ross || https://www.timeshighereducation.com/news/australian-mps-demand-sweeping-reforms-address-sustained-campaign-intimidation
 
 **Top Chinese graduates opt to stay at home for postgraduate study** || Proportion of leavers going overseas for further courses on a downward trend that predates pandemic || March 2, 2022 || Jing Liu || https://www.timeshighereducation.com/news/top-chinese-graduates-opt-stay-home-postgraduate-study  
