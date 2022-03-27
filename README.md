@@ -345,6 +345,8 @@ Yong Hoon Lee on science and technology education || The Ulsan National Institut
   
    
 ## 07 International Students & International Education 
+**Australian MPs demand action on ‘sustained foreign intimidation’** || Penalties for student snitches and curbs on Confucius Institutes and Thousand Talents Programme among dozens of recommendations from security committee || March 25, 2022 || John Ross || https://www.timeshighereducation.com/news/australian-mps-demand-sweeping-reforms-address-sustained-campaign-intimidation
+
 **Top Chinese graduates opt to stay at home for postgraduate study** || Proportion of leavers going overseas for further courses on a downward trend that predates pandemic || March 2, 2022 || Jing Liu || https://www.timeshighereducation.com/news/top-chinese-graduates-opt-stay-home-postgraduate-study  
 
 **Australia-China research collaboration nosedives** || Funding council statistics lend weight to anecdotal accounts that academics are self-censoring scholarship on superpower || February 17, 2022 || John Ross || https://www.timeshighereducation.com/news/australia-china-research-collaboration-nosedives  
