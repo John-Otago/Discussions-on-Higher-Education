@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 2.3.15  
-Last update: 20 Mar 2022
+Version: 2.3.16  
+Last update: 27 Mar 2022
 
 Compiled by J.W.
 
@@ -171,6 +171,8 @@ Yong Hoon Lee on science and technology education || The Ulsan National Institut
   
   
 ## 04 The Academic Job Market  
+**Three in five UK university staff ‘set to quit within five years’** || Four in five postgraduates who responded to union survey say they are likely to leave sector || March 25, 2022 || Tom Williams || https://www.timeshighereducation.com/news/three-five-uk-university-staff-set-quit-within-five-years  
+  
 **New wave of redundancies sweeps Australian universities** || Hundreds of roles at risk as fresh wave of coronavirus restrictions sweeps across country || July 18, 2021 || John Ross || https://www.timeshighereducation.com/news/new-wave-redundancies-sweeps-australian-universities
 
 **Do You Really Need a Ph.D.?** || As empowering as the notion of the alternative-academic path is, deciding to pursue a Ph.D. when the career you want doesn’t require a doctorate may not be the best choice, argues Arie Spirgel. || Arie Spirgel || July 15, 2021 || https://www.insidehighered.com/advice/2021/07/15/why-you-shouldnt-get-phd-if-you-dont-plan-be-academe-opinion  
