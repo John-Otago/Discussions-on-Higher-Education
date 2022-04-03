@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 2.3.16  
-Last update: 27 Mar 2022
+Version: 2.4.17  
+Last update: 04 Apr 2022
 
 Compiled by J.W.
 
@@ -347,6 +347,8 @@ Yong Hoon Lee on science and technology education || The Ulsan National Institut
   
    
 ## 07 International Students & International Education 
+**Is globalisation dead? And what would this mean for universities?** || War in Ukraine may reshape university internationalisation, but most academics do not expect a knockout blow || March 23, 2022 || John Ross || https://www.timeshighereducation.com/depth/globalisation-dead-and-what-would-mean-universities  
+  
 **International learners stay cool on studying Down Under** || New Zealand now perceived poorly on factors where it used to excel, survey finds || March 24, 2022 || John Ross || https://www.timeshighereducation.com/news/international-learners-stay-cool-studying-down-under
   
 **Australian MPs demand action on ‘sustained foreign intimidation’** || Penalties for student snitches and curbs on Confucius Institutes and Thousand Talents Programme among dozens of recommendations from security committee || March 25, 2022 || John Ross || https://www.timeshighereducation.com/news/australian-mps-demand-sweeping-reforms-address-sustained-campaign-intimidation
