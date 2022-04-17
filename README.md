@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 2.4.17  
-Last update: 04 Apr 2022
+Version: 2.4.19  
+Last update: 17 Apr 2022
 
 Compiled by J.W.
 
@@ -91,6 +91,8 @@ Note that some publications are behind a paywall (your institution may have subs
   
   
 ## 02 The Model of Tertiary Education: Students, Academics, and Administrators  
+**Will US universities’ labour pains be the mother of invention?** || The Great Resignation, remote working and rapid changes in the graduate employment market are all forcing US higher education institutions to evolve – fast. But are institutions that have spent two years managing Covid-19 ready to take up another challenge? Paul Basken reports || April 14, 2022 || Paul Basken || https://www.timeshighereducation.com/depth/will-us-universities-labour-pains-be-mother-invention  
+
 Yong Hoon Lee on science and technology education || The Ulsan National Institute of Science and Technology president discusses project-based learning, securing government funding and demographic decline || January 25, 2022 || Ellie Bothwell || https://www.timeshighereducation.com/talking-leadership/talking-leadership-10-yong-hoon-lee-science-and-technology-education
 
 **America’s Collapsing Meritocracy Is a Recipe for Revolt** || Chinese history shows what happens when an old system loses its force. || By Paul Musgrave || July 16, 2021 || https://foreignpolicy.com/2021/07/16/taiping-rebellion-addison-rae-meritocracy-exams-rebellion/  
