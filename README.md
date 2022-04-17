@@ -91,6 +91,8 @@ Note that some publications are behind a paywall (your institution may have subs
   
   
 ## 02 The Model of Tertiary Education: Students, Academics, and Administrators  
+**What does the return of inflation mean for universities?** || After decades operating in a largely low-inflation environment, Western universities are seeing rising energy costs and war in Ukraine push prices up. How exposed is the sector? || April 11, 2022 || Simon Baker, Jack Grove, Tom Williams Pola Lem || https://www.timeshighereducation.com/depth/what-does-return-inflation-mean-universities  
+
 **Will US universities’ labour pains be the mother of invention?** || The Great Resignation, remote working and rapid changes in the graduate employment market are all forcing US higher education institutions to evolve – fast. But are institutions that have spent two years managing Covid-19 ready to take up another challenge? Paul Basken reports || April 14, 2022 || Paul Basken || https://www.timeshighereducation.com/depth/will-us-universities-labour-pains-be-mother-invention  
 
 Yong Hoon Lee on science and technology education || The Ulsan National Institute of Science and Technology president discusses project-based learning, securing government funding and demographic decline || January 25, 2022 || Ellie Bothwell || https://www.timeshighereducation.com/talking-leadership/talking-leadership-10-yong-hoon-lee-science-and-technology-education
