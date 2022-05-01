@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 2.4.19  
-Last update: 17 Apr 2022
+Version: 2.5.21  
+Last update: 1 May 2022
 
 Compiled by J.W.
 
@@ -175,6 +175,8 @@ Yong Hoon Lee on science and technology education || The Ulsan National Institut
   
   
 ## 04 The Academic Job Market  
+**Humanities’ share of US postgraduate degrees slumps to new low** || Population declines and employment shifts key factors, but universities also seen ignoring non-teaching career pathways || April 29, 2022 || Paul Basken || https://www.timeshighereducation.com/news/humanities-share-us-postgraduate-degrees-slumps-new-low
+
 **Three in five UK university staff ‘set to quit within five years’** || Four in five postgraduates who responded to union survey say they are likely to leave sector || March 25, 2022 || Tom Williams || https://www.timeshighereducation.com/news/three-five-uk-university-staff-set-quit-within-five-years  
   
 **New wave of redundancies sweeps Australian universities** || Hundreds of roles at risk as fresh wave of coronavirus restrictions sweeps across country || July 18, 2021 || John Ross || https://www.timeshighereducation.com/news/new-wave-redundancies-sweeps-australian-universities
