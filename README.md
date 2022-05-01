@@ -26,7 +26,9 @@ Note that some publications are behind a paywall (your institution may have subs
 ---
   
 **Major Updates**  
-  
+01 May 2022
+- I have decided to put this project on hold for six months (in the first instance), due to increased workload.
+
 20 Feb 2022  
 - Removed a large number of past news reports that no longer offer long-term values  
   
