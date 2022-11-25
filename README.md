@@ -1,8 +1,8 @@
 # Discussions (and Debates) on Higher Education
 
 Version: 2.5.21  
-Last update: 01 May 2022  
-(On hold until 01 Nov 2022)
+Last update: 26 Nov 2022  
+(On hold until 01 Nov 2023)
 
 Compiled by J.W.
 
@@ -28,7 +28,7 @@ Note that some publications are behind a paywall (your institution may have subs
   
 **Major Updates**  
 01 May 2022
-- I have decided to put this project on hold for six months (in the first instance), due to increased workload.
+- I have decided to put this project on hold until late 2023, due to increased workload.
 
 20 Feb 2022  
 - Removed a large number of past news reports that no longer offer long-term values  
