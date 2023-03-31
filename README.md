@@ -1,7 +1,7 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 2.5.21  
-Last update: 26 Nov 2022  
+Version: 2.5.22  
+Last update: 31 Mar 2023 (out of cycle)  
 (On hold until 01 Nov 2023)
 
 Compiled by J.W.
@@ -314,6 +314,8 @@ Yong Hoon Lee on science and technology education || The Ulsan National Institut
   
   
 ## 06 Research and Publication
+**‘Disruptive’ science has declined — and no one knows why** || The proportion of publications that send a field in a new direction has plummeted over the past half-century || January 04, 2023 || Max Kozlov || https://www.nature.com/articles/d41586-022-04577-5  
+  
 **Peer review will only improve if journals’ decisions are audited** || Establishing a peer review accreditation scheme would also help incentivise higher standards, says Arfan Ghani || February 11, 2022 || Arfan Ghani || https://www.timeshighereducation.com/blog/peer-review-will-only-improve-if-journals-decisions-are-audited  
   
 **Scientific publishing: Preprints on the coronavirus have been impressively reliable** || The case for publishing in expensive, restrictive scientific journals continues to weaken || Feb 5th 2022 || The Economnist || https://www.economist.com/science-and-technology/preprints-on-the-coronavirus-have-been-impressively-reliable/21807492
