@@ -1,6 +1,5 @@
 # Discussions (and Debates) on Higher Education
 
-Version: 2.5.22  
 Last update: 31 Mar 2023 (out of cycle)  
 (On hold until 01 Jan 2024)
 
